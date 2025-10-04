@@ -79,7 +79,7 @@ A continuación, se detalla cómo se implementará este flujo de trabajo, junto 
 
 El flujo de trabajo se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
-![GitFlowDiagram.png](/assets/GitFlowDiagram.png)
+![GitFlowDiagram.png](../../assets/GitFlowDiagram.png)
 
 **Estructura de branches (Ramas):**
 
@@ -136,14 +136,14 @@ Para el despliegue de la Landing Page se utilizará GitHub Pages, siguiendo los 
 
 ## GithubPages
 
-![alt text](/assets/GithubPages.png)
+![alt text](../../assets/GithubPages.png)
 Una vez completado el despliegue, la landing page quedará publicada y accesible públicamente mediante el enlace: https://wx55-closed-source.github.io/landing-page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se detalla el proceso de implementación, pruebas, documentación y despliegue de la Landing Page.
 [Video de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EazlWw9ZKSRGpI79_X3OVg8BDuToGt0l99MAgtI0iyw7kw?e=KNWdxW)
 
-![Imagen de la landingPage desplegada.png](/assets/Imagen%20de%20la%20landingPage%20desplegada.png)
+![Imagen de la landingPage desplegada](../../assets/Imagen%20de%20la%20landingPage%20desplegada.png)
 
 
 ### 5.2.1. Sprint 1
@@ -374,33 +374,33 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ps
 
 **Sección de Inicio**: Se implementó el Header y la página principal de nuestra Landing Page.
 
-![alt text](/assets/Landing1.png)
+![alt text](../../assets/Landing1.png)
 
 **Sección de Aplicación**: Se implementó la sección de la aplicación detallando el propósito de la misma.
 
-![alt text](/assets/Landing2.png)
+![alt text](../../assets/Landing2.png)
 
 **Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
 
-![alt text](/assets/Landing3.png)
+![alt text](../../assets/Landing3.png)
 
-![alt text](/assets/Landing4.png)
+![alt text](../../assets/Landing4.png)
 
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
 
-![alt text](/assets/Landing5.png)
+![alt text](../../assets/Landing5.png)
 
 **Sección de Creadores**: Se añadió la sección de información sobre los desarrolladores de la plataforma.
 
-![alt text](/assets/Landing6.png)
+![alt text](../../assets/Landing6.png)
 
 **Sección de About the Team**: Se implementó la sección del About the Team
 
-![alt text](/assets/Landing7.png)
+![alt text](../../assets/Landing7.png)
 
 **Sección de About the Product**: Se implementó la sección del About the Product
 
-![alt text](/assets/Landing8.png)
+![alt text](../../assets/Landing8.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -410,11 +410,11 @@ En el presente sprint solo se desarrollo la Landing Page y el avance del final r
 
 Para el despliegue de la Landing Page, utilizamos la herramienta GitHub Pages para realizar el deployment. Creamos un repositorio en el cual almacenamos el código de nuestra Landing Page.
 
-![Github Repositorio.png](/assets/Github%20Repositorio.png)
+![Github Repositorio.png](../../assets/Github%20Repositorio.png)
 
 Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web.
 
-![Github Pages.png](/assets/Github%20Pages.png)
+![Github Pages.png](../../assets/Github%20Pages.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -424,11 +424,11 @@ Durante el desarrollo de este primer sprint, todos los miembros del equipo parti
 
 Commits:
 
-![alt text](/assets/Insights.png)
+![alt text](../../assets/Insights.png)
 
 Analiticas de Colaboración:
 
-![alt text](/assets/AnaliticasLanding.png)
+![alt text](../../assets/AnaliticasLanding.png)
 
 ### Report:
 
@@ -738,11 +738,11 @@ wW
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
-![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
+![teamcommits](../../assets/sprint2/insights-commits-sprint2.png)
 
 Tool:
 
-![trelloSprint3](/assets/sprint2/trelloSprint2.jpeg)
+![trelloSprint3](../../assets/sprint2/trelloSprint2.jpeg)
 
 ### Sprint 3
 
@@ -1587,18 +1587,18 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 trello:
 
-![teamtrello](/assets/sprint3/trellosprint3.jpeg)
+![teamtrello](../../assets/sprint3/trellosprint3.jpeg)
 
 Commits:
 
 Report:
-![teamcommits](/assets/sprint3/reportcommits.jpeg)
+![teamcommits](../../assets/sprint3/reportcommits.jpeg)
 Frontend:
-![teamcommits](/assets/sprint3/commits.jpeg)
+![teamcommits](../../assets/sprint3/commits.jpeg)
 
 Backend:
 
-![teamcommits](/assets/sprint3/backendcommits.jpeg)
+![teamcommits](../../assets/sprint3/backendcommits.jpeg)
 
 
 ### Sprint 4
@@ -2310,20 +2310,20 @@ https://github.com/WX55-Closed-Source/report-final-project
 
 Evidencias:
 
-[!service_documentation_evidence_1](/assets/sprint4/login_services_documentation.png)
-[!service_documentation_evidence_2](/assets/sprint4/login_services_documentation2.png)
-[!service_documentation_evidence_1](/assets/sprint4/patient_profiles_services_documentation.png)
-[!service_documentation_evidence_2](/assets/sprint4/patient_profiles_services_documentation2.png)
-[!service_documentation_evidence_1](/assets/sprint4/professional_profiles_services_documentation.png)
-[!service_documentation_evidence_2](/assets/sprint4/professional_profiles_services_documentation2.png)
+[!service_documentation_evidence_1](../../assets/sprint4/login_services_documentation.png)
+[!service_documentation_evidence_2](../../assets/sprint4/login_services_documentation2.png)
+[!service_documentation_evidence_1](../../assets/sprint4/patient_profiles_services_documentation.png)
+[!service_documentation_evidence_2](../../assets/sprint4/patient_profiles_services_documentation2.png)
+[!service_documentation_evidence_1](../../assets/sprint4/professional_profiles_services_documentation.png)
+[!service_documentation_evidence_2](../../assets/sprint4/professional_profiles_services_documentation2.png)
 ### 5.4.1.7. Software Deployment Evidence for Sprint Review
 
 Link del backend deployment: https://psymed-production.up.railway.app
 
-![backend_deployment_1](/assets/sprint4/backend_deployment.png)
-![backend_deployment_2](/assets/sprint4/backend_deployment2.png)
-![mysql_railway_deployment_1](/assets/sprint4/mysql_railway_deployment.png)
-![mysql_railway_deployment_2](/assets/sprint4/mysql_railway_deployment_2.png)
+![backend_deployment_1](../../assets/sprint4/backend_deployment.png)
+![backend_deployment_2](../../assets/sprint4/backend_deployment2.png)
+![mysql_railway_deployment_1](../../assets/sprint4/mysql_railway_deployment.png)
+![mysql_railway_deployment_2](../../assets/sprint4/mysql_railway_deployment_2.png)
 
 
 ### 5.4.1.8. Team Collaboration Insights during Sprint
@@ -2331,19 +2331,19 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 Trello: Se están abordando validaciones, diseño responsivo, y despliegue tanto del frontend como del backend.
 
-![trello](/assets/sprint4/Trello.png)
+![trello](../../assets/sprint4/Trello.png)
 
 Landing page: El desarrollo ha tenido contribuciones moderadas, con ajustes en la estructura y optimización de la página.
 
-![landingpagecommits](/assets/sprint4/landingpage_commits.png)
+![landingpagecommits](../../assets/sprint4/landingpage_commits.png)
 
 Front-end: Se observa un esfuerzo significativo en mejorar la interfaz y la experiencia de usuario, con continuas adiciones y optimizaciones.
 
-![frontendcommits](/assets/sprint4/frontend_commits.png)
+![frontendcommits](../../assets/sprint4/frontend_commits.png)
 
 Back-end: El backend está en constante mejoras, con una alta actividad orientada a fortalecer la infraestructura y añadir nuevas funcionalidades críticas para el sistema.
 
-![backendcommits](/assets/sprint4/backend_commits.png)
+![backendcommits](../../assets/sprint4/backend_commits.png)
 
 
 ## 5.3. Validation Interviews.
@@ -2428,7 +2428,7 @@ Problema:
 Al momento de editar la información del paciente se produce un error de guardado y aparece un mensaje de error.
 No se llega a concretar la nueva información.
 
-![evidencia1](/assets/problema2.jpeg)
+![evidencia1](../../assets/problema2.jpeg)
 
 Recomendación:
 La solución más viable es ofrecer una opción para reintentar o guardar los cambios sin perder la información ingresada.
@@ -2443,7 +2443,7 @@ Problema:
 
 Al momento de acceder a la página de bienvenida no hay ningún instructivo que te oriente hacia las diferentes funcionalidades de la aplicación.
 
-![evidencia2](/assets/problema1.jpeg)
+![evidencia2](../../assets/problema1.jpeg)
 
 Recomendación:
 La manera de solucionar este problema y darle una mejor experiencia al usuario es incluir un onboarding o una breve introducción en la página principal para orientar al usuario.
@@ -2453,7 +2453,7 @@ Además, sería útil incluir elementos visuales como indicadores, íconos desta
 
 El video About The Product se realizó con la finalidad de dar una explicación visual sobre el proyecto PsyMed, los objetivos y alcances.
 El video se encuentra dentro del LandingPage de Psymed.
-![About the product](/assets/abouttheproduct.jpeg)
+![About the product](../../assets/abouttheproduct.jpeg)
 Enlace a Landing Page PsyMed: https://wx55-closed-source.github.io/landing-page/
 Enlace al video: https://www.youtube.com/watch?v=zHMf8n2zuTs
 
@@ -2483,7 +2483,7 @@ Enlace al video: https://www.youtube.com/watch?v=zHMf8n2zuTs
 El video de About The Team se realizó con la finalidad de presentar a los desarrolladores del proyecto PsyMed.
 El video se encuentra dentro del LandingPage.
 
-![About the product](/assets/abouttheteam.jpeg)
+![About the product](../../assets/abouttheteam.jpeg)
 Enlace a Landing Page PsyMed: https://wx55-closed-source.github.io/landing-page/
 Enlace al video: https://youtu.be/h3OvwBko3jw
 
