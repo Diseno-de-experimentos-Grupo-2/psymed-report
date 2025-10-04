@@ -1,80 +1,73 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1 Software Configuration Management
-A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.
+En este apartado se describe el proceso mediante el cual se organiza, gestiona y controla la configuración del software y los cambios en el desarrollo del proyecto. El objetivo es garantizar que todos los integrantes del equipo trabajen bajo un mismo entorno, utilizando herramientas estandarizadas y metodologías que aseguren la trazabilidad, la calidad y la colaboración continua.
 ### 5.1.1. Software Development Environment Configuration.
 **Requirements Management**
-1. Trello: Es una herramienta de gestión de flujo de trabajo que PsyMed 
-   utilizará para organizar y monitorear sus proyectos, especialmente 
-   aquellos basados en metodologías ágiles. Permitirá visualizar y actualizar el estado de tareas e historias 
-   de usuario en cada sprint, facilitando la colaboración y el seguimiento en tiempo real del avance del equipo.  
+1.Requirements Management
 
+Trello: Plataforma de gestión de proyectos basada en tableros Kanban. Será utilizada por el equipo de PsyMed para planificar, organizar y hacer seguimiento del trabajo, especialmente bajo metodologías ágiles (Scrum). Permite asignar responsables, definir prioridades y actualizar el estado de cada tarea en tiempo real, lo que mejora la visibilidad del progreso y la coordinación del equipo.
 
-   Ruta de referencia: https://trello.com/es
-   
-   Tableros de la organizacion : https://trello.com/w/closedsource1/home
+Ruta de referencia: https://trello.com/es
+
+Tableros de la organización: https://trello.com/w/closedsource1/home
 
 
 
 
 **Product UX/UI Design**
 
-1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el
-   caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.
+1. Figma: Herramienta colaborativa para el diseño de interfaces y prototipado. Se empleará en la construcción de los prototipos de la aplicación, tanto en su versión Desktop como en Mobile Web Browser. Facilita el diseño en equipo y permite iterar rápidamente en el aspecto visual antes del desarrollo.
 
-   Ruta de referencia: https://www.figma.com/login
-2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de
-   clases asociado a la aplicación.
+Ruta de referencia: https://www.figma.com/login
+2. Figma: Herramienta colaborativa para el diseño de interfaces y prototipado. Se empleará en la construcción de los prototipos de la aplicación, tanto en su versión Desktop como en Mobile Web Browser. Facilita el diseño en equipo y permite iterar rápidamente en el aspecto visual antes del desarrollo.
 
-   Ruta de referencia: https://www.lucidchart.com/
-
+Ruta de referencia: https://www.figma.com/login
 
 **Software Development**
-1. WebStorm: Entorno de desarrollo integrado elegido por su soporte completo para tecnologías web como JavaScript, HTML, CSS y frameworks como React y Angular. Ofrece refactorización avanzada, depuración, integración con Git y la posibilidad de agregar plugins. Es compatible con varios sistemas operativos, facilitando la colaboración en equipo.
-
+1. WebStorm: Entorno de desarrollo integrado (IDE) especializado en tecnologías web. Ha sido elegido por su soporte avanzado para HTML, CSS, JavaScript y frameworks como React y Angular. Ofrece herramientas de refactorización, depuración, integración con Git y compatibilidad multiplataforma, lo que optimiza la productividad y estandariza el desarrollo del equipo.
+   
    Ruta de referencia: https://www.jetbrains.com/webstorm/
    <br>
-2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
-   empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 
-   Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp   
+2. HTML5: Lenguaje de marcado utilizado para estructurar y presentar el contenido de la aplicación web. Servirá como base para la maquetación de la interfaz.
+   
+   Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp 
    <br>
-3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano
-   con HTML.
 
+3. CSS: Lenguaje de hojas de estilo en cascada para definir la presentación visual del contenido. En conjunto con HTML, permitirá dar estilo, diseño adaptable y coherencia visual a la aplicación.
+   
    Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
    <br>
    <br>
-5. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de
-   usuario dentro de la aplicación.
 
+4. JavaScript: Lenguaje de programación dinámico y orientado a objetos. Se utilizará para el desarrollo de la lógica de la interfaz y la interacción del usuario con la aplicación.
+   
    Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
    <br>
    <br>
 
-6. Angular: Es un Framework de JavaScript de código abierto escrito en TypeScript que hemos utilizado para el desarrollo del front-end de nuestro proyecto "PsyMed".
-   El código trabajado se puede ver a través de nuestro repositorio.
+5. Angular: Framework de JavaScript escrito en TypeScript. Será la principal tecnología para el desarrollo del front-end del proyecto PsyMed. Permite crear aplicaciones escalables, modulares y mantenibles. El código desarrollado se encuentra alojado en el repositorio correspondiente.
+   
    Ruta de referencia: https://github.com/WX55-Closed-Source/psymed-frontend
 
  <br>
 
 **Software Deployment**
-1. Git: Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del programa. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo
-   accederán a través de la línea de comandos en sus sistemas locales.
-
+1. Git: Sistema de control de versiones distribuido. Permitirá a los integrantes del equipo llevar un registro detallado de los cambios, gestionar ramas de desarrollo, y facilitar la integración de nuevas funcionalidades sin comprometer la estabilidad del proyecto.
+   
    Ruta de referencia: https://git-scm.com/
    <br>
    <br>
    **Software Documentation and Project Management**
-2. Github: Una plataforma en la nube que hospedará los repositorios de código del proyecto. Permitirá la colaboración en
-   tiempo real y la revisión de contribuciones de cada miembro del equipo. Los integrantes del equipo podrán acceder a través de sus navegadores web.
-
+2. GitHub: Plataforma colaborativa en la nube para el alojamiento de repositorios Git. Será el medio oficial para la centralización del código, revisión de contribuciones y gestión de issues, además de permitir la integración con otras herramientas de desarrollo y CI/CD
+   
    Ruta de referencia: https://github.com/
 
 
 ### 5.1.2. Source Code Management.
-El proyecto adoptará las convenciones del modelo GitFlow para la gestión del control de versiones, utilizando GitHub como plataforma principal para alojar y organizar el código. GitFlow es un enfoque estructurado que facilita la colaboración en equipo y la gestión de múltiples versiones de software, asegurando que cada etapa de desarrollo esté debidamente aislada y controlada.
+El proyecto adoptará las convenciones del modelo GitFlow para la gestión del control de versiones, utilizando GitHub como plataforma principal para alojar y organizar el código. GitFlow es un enfoque estructurado que facilita la colaboración en equipo, la integración de cambios y la gestión de múltiples versiones del software. Este modelo asegura que cada etapa de desarrollo esté debidamente aislada, probada y documentada antes de ser integrada en la rama principal.
 
-A continuación, se explicará en detalle cómo se implementará este flujo de trabajo, destacando la creación y gestión de ramas para las distintas fases de desarrollo. Además, se proporcionará un enlace al repositorio de GitHub, donde se podrá acceder al reporte del proyecto, la landing page y el avance del frontend de la aplicación, permitiendo un seguimiento claro del progreso y las actualizaciones del código.
+A continuación, se detalla cómo se implementará este flujo de trabajo, junto con los enlaces a los repositorios donde se centralizan los entregables principales:
 
 **Repositorio de GitHub:**
 - Enlace para acceder a la [organización en GitHub](https://github.com/WX55-Closed-Source)
@@ -84,22 +77,25 @@ A continuación, se explicará en detalle cómo se implementará este flujo de t
 
 **Flujo de trabajo GitFlow**
 
-El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
+El flujo de trabajo se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
 ![GitFlowDiagram.png](/assets/GitFlowDiagram.png)
 
 **Estructura de branches (Ramas):**
 
 
-1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, albergando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en las ramas de funcionalidad y, posteriormente, en la rama de desarrollo.
+1. **Master branch (Rama principal):** Contendrá únicamente versiones estables y listas para producción. Los cambios que lleguen aquí deberán haber pasado por pruebas y validaciones en develop y feature branches.
 
-2. **Develop Branch (Rama de Desarrollo):** Esta rama facilita el trabajo colaborativo del equipo y organiza el desarrollo continuo. Aquí se integran las funcionalidades en proceso y se realizan pruebas antes de su fusión con la rama principal, asegurando que el código se mantenga funcional y estable.
+2. **Develop Branch (Rama de Desarrollo):** Funciona como la rama de integración, donde se combinan y prueban las nuevas funcionalidades antes de ser promovidas a master. Garantiza que el código en desarrollo se mantenga operativo y estable.
 
-3. **Feature branch (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo, o que se aparte del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente implementada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "fature/bc-Medication-managment".
+3. **Feature branch (Ramas de funcionalidad):** Cada nueva característica o mejora se desarrollará en una rama independiente creada a partir de develop. Una vez finalizada y probada, se fusionará nuevamente en develop.
+
+Convención de nombres: feature/nombre-descriptivo.
+Ejemplo: feature/bc-medication-management.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
-siguientes:
+**HTML:** Para garantizar un código legible, mantenible y coherente, se seguirán las siguientes prácticas y guías de estilo:
+
 1. Cerrar todos los elementos HTML: Por ejemplo, ```<p>Esto es un párrafo.</p>```
 2. Siempre declarar el tipo de documento en la primera línea del documento, para
    HTML es "<!DOCTYPE html>”.
@@ -115,13 +111,11 @@ siguientes:
 
 **CSS:** Entre las prácticas empleadas se menciona:
 
-1. Se nos recomienda tener una sangría por 2 espacios a la vez, no debemos
-   utilizar tabulaciones ni mezclarlas tabulaciones con espacios para la sangría.
-2. Todo el código debe estar en minúscula.
-3. Eliminar los espacios en blanco.
-4. Usar comentarios para explicar el código.
-5. Utilizar nombres de clase significativos o genéricos, nombres que reflejen el
-   propósito de su elemento.  
+1. Usar sangría de 2 espacios, evitando tabulaciones.
+2. Escribir el código en minúsculas.
+3. Eliminar espacios en blanco innecesarios.
+4. Documentar el código mediante comentarios.
+5. Utilizar nombres de clase descriptivos y significativos. 
    <br>
 
    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
@@ -130,31 +124,28 @@ siguientes:
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
-Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Para el despliegue de la Landing Page se utilizará GitHub Pages, siguiendo los pasos descritos a continuación:
 
-1. Asegurarse de que los archivos estén en la raíz (root) del repositorio.
-2. Asegurarse de que los archivos sigan las nomenclaturas: "index.html" para la landing page, "styles.css" para los estilos, "main.js" para los scripts, y una carpeta llamada "assets/images" para las imágenes.
-3. Cargar los archivos al repositorio mediante un commit.
-4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en este caso el "main".
-5. Especificar la carpeta raíz (root) como la fuente de la página.
-6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará a la landing page desplegada.
+1. Colocar los archivos de la página en la raíz del repositorio.
+2. Nombrar los archivos de acuerdo a las convenciones: "index.html" para la landing page, "styles.css" para los estilos, "main.js" para los scripts, y una carpeta llamada "assets/images" para las imágenes.
+3. Subir los archivos al repositorio mediante un commit.
+4. Ir a Settings > Pages y seleccionar el branch main.
+5. Definir la carpeta raíz (root) como fuente de la página.
+6. Esperar que GitHub realice las validaciones necesarias.
+7. Acceder al enlace generado para visualizar la página desplegada.
 
 ## GithubPages
 
 ![alt text](/assets/GithubPages.png)
-Accedemos a la URL proporcionada por GitHub Pages para confirmar que nuestra landing page se haya desplegado correctamente. De este modo, nuestra landing page estará disponible a través de GitHub Pages y será accesible para cualquier usuario que cuente con el enlace.
-
-Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
-De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
-Enlace del Landing Page: https://wx55-closed-source.github.io/landing-page/
-
-### 5.2. Landing Page, Services & Applications Implementation.
-![Imagen de la landingPage desplegada.png](/assets/Imagen%20de%20la%20landingPage%20desplegada.png)
+Una vez completado el despliegue, la landing page quedará publicada y accesible públicamente mediante el enlace: https://wx55-closed-source.github.io/landing-page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
-En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
-documentación y despliegue del Landing Page.
+En esta sección se detalla el proceso de implementación, pruebas, documentación y despliegue de la Landing Page.
 [Video de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EazlWw9ZKSRGpI79_X3OVg8BDuToGt0l99MAgtI0iyw7kw?e=KNWdxW)
+
+![Imagen de la landingPage desplegada.png](/assets/Imagen%20de%20la%20landingPage%20desplegada.png)
+
+
 ### 5.2.1. Sprint 1
 
 ### 5.2.1.1. Sprint Planning 1
@@ -684,28 +675,27 @@ Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de A
     //En este test se verifica que el componente PacientManagment se cree correctamente.//
 ### 5.3.1.5. Execution Evidence for Sprint Review
 
-**Gestión de Usuarios**: Permite administrar las cuentas de los usuarios, sus permisos y accesos.
+**Gestión de Usuarios**: Permite administrar las cuentas de los usuarios, asignar roles, gestionar permisos y controlar los accesos al sistema de manera segura.
 
-**Gestión de Notas de Sección**: Facilita el registro y seguimiento de notas clínicas importantes por cada sesión o visita.
+**Gestión de Notas de Sección**: Facilita el registro y seguimiento de notas clínicas relevantes asociadas a cada sesión o visita, garantizando la trazabilidad de la información médica.
 
-**Gestión de Administración de Citas**: Optimiza la organización de citas, recordatorios y disponibilidad del personal médico.
+**Gestión de Administración de Citas**: Optimiza la programación, organización y recordatorios de citas médicas, integrando además la disponibilidad del personal de salud.
 
-**Gestión de Dashboards de Analytics**: Proporciona visualizaciones y análisis de datos relevantes para la toma de decisiones.
+**Gestión de Dashboards de Analytics**: Proporciona visualizaciones dinámicas y análisis de datos clave, apoyando la toma de decisiones clínicas y administrativas.
 
-**Gestión de Seguimiento de Síntomas y Estado**: Permite monitorear y registrar los síntomas y la evolución del estado de los pacientes.
+**Gestión de Seguimiento de Síntomas y Estado**: Permite monitorear y registrar los síntomas y la evolución de los pacientes, facilitando un seguimiento personalizado y continuo.
 
-**Gestión de Medicación**: Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
+**Gestión de Medicación**: Administra prescripciones médicas, recordatorios de dosis y actualizaciones de tratamientos, contribuyendo al cumplimiento terapéutico.
 
 ### 5.3.1.6. Services Documentation Evidence for Sprint Review 
-link del despliegue del Json:
+Para garantizar la consistencia y trazabilidad en el desarrollo, se documentó el servicio base sobre el cual se estructuran los demás servicios de la aplicación.
 
-En esta sección se documentará el servicio base utilizado para otros 
-servicios en la aplicación. Se diseñó para facilitar las operaciones 
-CRUD a través de una API, utilizando inicialmente un json-server local para 
-pruebas y luego migrando a Beeceptor en la aplicación web desplegada. 
-Este enfoque permitió validar funcionalidades del front-end sin depender 
-de un backend completo, garantizando así una implementación eficiente y 
-consistente en toda la aplicación.
+Este servicio fue diseñado para soportar operaciones CRUD (Create, Read, Update, Delete) mediante una API REST, utilizando inicialmente un entorno de pruebas local con json-server y posteriormente migrando a Beeceptor en el entorno desplegado.
+
+Este enfoque permitió:
+- Validar las funcionalidades del front-end sin necesidad de contar con un backend completo en las primeras fases.
+- Reducir los tiempos de desarrollo y pruebas, asegurando un ciclo ágil de implementación.
+- Mantener consistencia en la comunicación entre cliente y servidor a lo largo del proyecto.
 
 | **Elemento**           | **Descripción**                                                                                                                                                       |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2278,21 +2268,21 @@ https://github.com/WX55-Closed-Source/report-final-project
 
 ### 5.4.1.5. Execution Evidence for Sprint Review
 
-**Gestión de Administración de Citas**: Optimiza la creación, edición y cancelación de citas, además de la gestión de recordatorios y disponibilidad del personal médico.
+**Gestión de Administración de Citas**: Permite crear, editar y cancelar citas médicas, así como administrar recordatorios automáticos y gestionar la disponibilidad del personal de salud, mejorando la organización del calendario.
 
-**Gestión de IAM (Identity and Access Management)**: Administra la autenticación y autorización, incluyendo el control de roles y permisos para acceso seguro a la plataforma.
+**Gestión de IAM (Identity and Access Management)**: Implementa la autenticación y autorización de usuarios, controlando roles y permisos para garantizar un acceso seguro y segmentado a la plataforma.
 
-**Gestión de Medicación**: Facilita el manejo de prescripciones, dosis y horarios para el seguimiento adecuado de los medicamentos asignados a los pacientes.
+**Gestión de Medicación**: Facilita la administración de prescripciones médicas, con control sobre dosis y horarios, asegurando un seguimiento adecuado del tratamiento de los pacientes.
 
-**Gestión de Reportes de Pacientes**: Genera reportes detallados sobre la evolución y estado de los pacientes, apoyando el seguimiento clínico.
+**Gestión de Reportes de Pacientes**: Genera informes detallados sobre la evolución clínica y el estado de los pacientes, sirviendo como apoyo para el análisis y la toma de decisiones.
 
-**Gestión de Perfiles**: Administra los datos y preferencias de los perfiles de usuarios, tanto de pacientes como de profesionales.
+**Gestión de Perfiles**: Administra la información de los perfiles de usuarios (pacientes y profesionales), incluyendo datos personales y preferencias.
 
-**Gestión de Notas de Sesión**: Permite registrar observaciones y diagnósticos en cada consulta para un mejor seguimiento del paciente.
+**Gestión de Notas de Sesión**: Permite registrar observaciones, diagnósticos y hallazgos en cada consulta, garantizando un seguimiento histórico del estado del paciente.
 
-**Módulo Compartido**: Contiene recursos y utilidades reutilizables para mantener consistencia en la aplicación.
+**Módulo Compartido**: Reúne recursos y utilidades reutilizables (componentes, funciones, estilos, etc.) que aseguran la consistencia y reducen la duplicidad de código dentro de la aplicación.
 
-**Gestión de Tratamientos**: Define y gestiona tratamientos, asegurando un seguimiento integral de los planes terapéuticos.
+**Gestión de Tratamientos**: Optimiza la asignación, evaluación y seguimiento de tratamientos, maximizando la efectividad clínica y personalizando la atención.
 
 **Gestión de Tratamiento y Planificación**: Optimiza la asignación y evaluación de tratamientos, maximizando la efectividad clínica.
 
