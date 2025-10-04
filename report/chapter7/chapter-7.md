@@ -1,7 +1,7 @@
 # Capítulo VII: DevOpsPractices
 ## 7.1 Continuous Integration
 ### 7.1.1 Tools and Practices.
-### 7.1.2 Build & Test Suite Pipelines.Components
+### 7.1.2 Build & Test Suite Pipelines Components.
 
 ## 7.2 Cpntinuous Delivery
 ### 7.2.1 Tools and Practices.
