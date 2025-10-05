@@ -25,6 +25,13 @@ Dentro del pipeline de integración continua se incorporaron pruebas automatizad
 
 ## 7.2 Cpntinuous Delivery
 ### 7.2.1 Tools and Practices.
+
+**JUnit:** Es una herramienta ampliamente utilizada en entornos Java para la ejecución de pruebas unitarias. Su elección se debe a la necesidad de validar de manera automática y rápida el correcto funcionamiento de los componentes individuales del sistema. JUnit permite detectar errores en fases tempranas del desarrollo, lo que contribuye a mejorar la calidad del software y reducir costos de corrección en etapas posteriores. Además, se integra fácilmente en pipelines de CI/CD, facilitando su automatización.
+
+**Selenium:** Se emplea para la automatización de pruebas integrales y funcionales a nivel de interfaz de usuario. Con Selenium es posible simular la interacción real de un usuario con la aplicación, verificando que el sistema responda adecuadamente a distintos escenarios. Esta práctica garantiza que las distintas partes del software trabajen de manera conjunta y que la experiencia del usuario final sea consistente.
+
+En conjunto, el uso de JUnit y Selenium asegura que tanto la lógica interna como el comportamiento externo de la aplicación se validen continuamente, lo que mejora la confiabilidad del sistema en cada ciclo de entrega.
+
 ### 7.2.2 Stages Deployment Pipeline Components.
 
 ## 7.3 Continuous deployment
