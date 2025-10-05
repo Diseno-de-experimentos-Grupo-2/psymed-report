@@ -282,7 +282,6 @@ acceder a opciones tales como ver tareas y marcar como completadas.
 **Pacientes** 
   - lista de sus pacientes
       - Historial de citas
-      - Notas clínicas por sesión
       - Tratamientos en curso
           - Diagnósticos
           - Datos fisiológicos
@@ -312,7 +311,6 @@ acceder a opciones tales como ver tareas y marcar como completadas.
 **Pagina principal**
 - Perfil
 - Citas
-- Lista de Tareas
 - Tratamiento Actual
 
 **Perfil:** 
@@ -321,10 +319,6 @@ acceder a opciones tales como ver tareas y marcar como completadas.
 
 **Citas:** 
 - Ver detalles de la cita
-
-**Lista de Tareas:** 
-- Ver tareas
-- Marcar como completadas
 
 **Tratamiento Actual:** 
 - Registro de Medicamentos
