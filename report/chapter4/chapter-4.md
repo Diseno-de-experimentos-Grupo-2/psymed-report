@@ -17,10 +17,10 @@ que nuestra aplicación busca ofrecer. Este diseño visual
 transmite confianza y un enfoque moderno, asegurando que
 tanto los médicos como sus pacientes se sientan apoyados en
 cada etapa de su interacción con la plataforma.
-<div style="text-align: center;">
+
+<div align="center">
   <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
-
 - **Colors:**
 Nuestra paleta de colores se ha seleccionado para proporcionar un 
 entorno digital de apoyo a la salud mental y el bienestar, tanto para 
@@ -32,11 +32,7 @@ en la selección de colores, que buscan transmitir calma, confiabilidad y
 profesionalismo. A continuación, se presenta una breve descripción de los 
 colores que se utilizarán en nuestra aplicación:
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #091133;"></div>
-</div>
-
-**#091133 (Azul Profundo)** Este color aporta un nivel de 
+  - **#091133 (Azul Profundo)** Este color aporta un nivel de 
 profundidad y seriedad a la plataforma, lo que lo convierte en una 
 excelente elección para textos clave y elementos que requieren un 
 alto contraste. Su tonalidad oscura asegura una legibilidad superior 
@@ -45,11 +41,11 @@ en los detalles más importantes con facilidad. Es ideal para títulos,
 subtítulos, y enlaces que guían la experiencia del usuario de manera 
 efectiva y profesional.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #FFFFFF;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/a8997847-10d5-447c-9c32-43944f4c3cf4" />
 </div>
 
-**#FFFFFF (Blanco):** Este color ofrece una apariencia limpia y 
+  - **#FFFFFF (Blanco):** Este color ofrece una apariencia limpia y 
 minimalista, siendo ideal para fondos y áreas de contenido que 
 requieren claridad y simplicidad. Su neutralidad ayuda a crear 
 un espacio visualmente relajante y despejado, permitiendo que 
@@ -59,11 +55,11 @@ que el contenido sea fácil de leer y navegar, especialmente en
 secciones de la plataforma que buscan ofrecer una experiencia 
 de usuario sin distracciones.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #10BEAE;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/eaa6e5b4-83e4-49fc-8c4c-557323dfd225" />
 </div>
 
-**#10BEAE (Teal Brillante):** Este color vibrante y refrescante 
+  - **#10BEAE (Teal Brillante):** Este color vibrante y refrescante 
 aporta energía y modernidad a la plataforma. Es ideal para 
 elementos que requieren un toque de frescura, como botones 
 de acción o enlaces destacados. Su tonalidad brillante y alegre 
@@ -72,6 +68,10 @@ creando un ambiente visual que equilibra tanto la funcionalidad
 como la estética. Este color es perfecto para destacar 
 información que debe ser notada rápidamente, sin comprometer 
 la armonía general de la interfaz.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/985a5a2c-3d06-4fc7-a6dd-52674cde478b" />
+</div>
 
 **Scale:**
 - **Base:** El tamaño base es de 18px.
@@ -122,10 +122,6 @@ proporciona un fondo relajante. Estos colores, en conjunto,
 aseguran una experiencia visual armoniosa y profesional en la 
 plataforma.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #308C83;"></div>
-</div>
-
 **#308C83 (Teal Profundo):** Este color actúa como el tono 
 principal de la plataforma, evocando tranquilidad y estabilidad,
 cualidades esenciales en el ámbito de la salud mental. Es ideal
@@ -133,9 +129,8 @@ para encabezados, botones de acción y elementos que requieren
 destacar, asegurando que el profesional pueda navegar y tomar 
 decisiones de manera confiable.
 
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #69BFB7;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/01f42e71-0adc-44eb-aa7e-a55269751a78" />
 </div>
 
 **#69BFB7 (Teal Suave):** Utilizado para elementos secundarios y 
@@ -144,8 +139,8 @@ aportando una sensación de frescura y modernidad, sin desviar
 la atención de la información crítica. Es ideal para secciones
 como el registro de síntomas y la visualización de citas.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #C2F2ED;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/829aa05e-328b-4d4d-a64b-0dd35f1fc4d8" />
 </div>
 
 **#C2F2ED (Aqua Ligero):** Este color se utilizará principalmente 
@@ -155,6 +150,65 @@ la carga visual, permitiendo que tanto los profesionales como
 los pacientes se concentren en el contenido relevante, como los
 signos vitales y comentarios diarios.
 
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/de4b2ecd-8c84-4127-9f29-201ddf186834" />
+</div>
+
+### 4.1.3. Mobile Style Guidelines.
+
+En esta sección se definen los lineamientos de estilo aplicados al diseño de la aplicación móvil en sus dos principales sistemas operativos: iOS y Android. El objetivo es mantener la identidad visual de PSYMED de manera coherente, pero respetando las guías de usabilidad y diseño nativo de cada plataforma, para garantizar una experiencia óptima y consistente en dispositivos móviles.
+
+#### 4.1.3.1. iOS Mobile Style Guidelines.
+
+Aunque la aplicación está siendo desarrollada en Flutter, se han tomado en cuenta las guías de estilo de iOS para asegurar que la experiencia del usuario sea consistente y familiar en dispositivos Apple.
+
+Colors:
+Se mantiene la misma paleta cromática definida en las General Style Guidelines y Web Style Guidelines, adaptándola al entorno móvil de iOS. Los colores conservan sus significados y funciones, pero con énfasis en el contraste y la accesibilidad según las recomendaciones de Apple Human Interface Guidelines (HIG).
+
+Typography:
+En iOS se busca mantener un estilo claro y legible. Para ello, los tamaños de fuente definidos en la sección general se aplican respetando las jerarquías visuales, pero alineados con la tipografía San Francisco (SF Pro) propia de Apple. En Flutter, esta se emula utilizando tipografías equivalentes y respetando las escalas definidas (Heading 1, Heading 2, Body, etc.).
+
+Spacing & Layout:
+El diseño móvil sigue el principio de espacios amplios, márgenes consistentes y botones fácilmente seleccionables, de acuerdo con la usabilidad en pantallas táctiles. El espaciado entre elementos mantiene la proporción definida en la guía general (line spacing 1.4–1.6) para asegurar legibilidad.
+
+Navigation & Components:
+La interfaz en iOS adopta el estilo de bottom navigation bar y app bars minimalistas, priorizando gestos intuitivos y la navegación fluida. Se mantiene un enfoque limpio, con íconos simples y un uso coherente de los colores definidos.
+
+Consistency with Flutter:
+Si bien la aplicación se desarrolla en Flutter, se han respetado los lineamientos de iOS para garantizar que la experiencia sea nativa y coherente. Los componentes visuales en Flutter siguen las métricas y proporciones recomendadas por Apple, asegurando que el usuario perciba un diseño alineado con la plataforma.
+
+#### 4.1.3.2. Android Mobile Style Guidelines
+
+- Colors:
+Los mismos colores base de la identidad de PSYMED se adaptan a la Material Design Guidelines de Google, aplicando jerarquías cromáticas en botones, fondos y textos.
+
+  - #308C83 (Teal Profundo): Color primario para la app bar y acciones principales.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/8f11568c-1f78-4c99-acca-d5a8b22c87f1" />
+</div>
+
+  - #69BFB7 (Teal Suave): Tono complementario para estados activos, iconografía y destacados.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/503e718b-5361-424d-8994-d02ea3a24637" />
+</div>
+
+  - #C2F2ED (Aqua Ligero): Color de fondo para mantener claridad y calma visual.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/99ebfe59-84e6-4969-9837-c5a8c3835105" />
+</div>
+
+- Typography:
+Se emplea la fuente nativa Roboto, estándar en Android, asegurando legibilidad y consistencia con las guías de Material Design.
+
+- Navigation & Components:
+La navegación principal se implementa mediante un Navigation Drawer o Bottom Navigation Bar, según la complejidad de la sección. Los componentes UI siguen patrones de Material Design (botones flotantes, tarjetas, chips), con un uso claro de sombras y elevaciones.
+
+- Gestures:
+El diseño incorpora gestos comunes en Android, como long press para abrir menús contextuales o drag & drop en elementos interactivos.
+
 ## 4.2. Information Architecture
 La sección de arquitectura de la información se centra en 
 estructurar el contenido tanto de la aplicación web como 
@@ -162,86 +216,52 @@ de la página principal de **PSYMED**. Esta sección
 abarca los siguientes aspectos clave:
 
 ### 4.2.1. Organization Systems
-Para asegurar una jerarquía clara y precisa en nuestra 
-aplicación, es crucial facilitar una navegación satisfactoria 
-para el usuario. La estructura que hemos definido es la 
-siguiente:<br>
+Para asegurar una jerarquía clara y precisa en nuestra aplicación, es crucial facilitar una navegación satisfactoria para el usuario. La estructura que hemos definido es la siguiente:
 
 **Medicos:**
 
-Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, escoger su plan de pago y recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un calendario con las fechas de sus citas y una **barra lateral** con las opciones: **Citas, Inicio, Pacientes** y **Notificaciones**.
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, escoger su plan de pago y recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un calendario con las fechas de sus citas y una barra lateral con las opciones: Citas, Inicio, Pacientes y Notificaciones.
 
-En la sección de **Citas**, se pueden observar todas las citas del profesional de la salud mental con todos sus pacientes.
+En la sección de Citas, se pueden observar todas las citas del profesional con sus pacientes, así como agendar nuevas consultas o modificar horarios.
 
-En la sección **Pacientes**, los profesionales pueden ver una lista de sus pacientes actuales y seleccionar a uno para acceder a su perfil detallado, con una **barra lateral** que incluye las opciones: **Diagnóstico, Historial Clínico, Terapia, Citas** y **Notas**.
+En la sección Pacientes, los profesionales pueden ver una lista de sus pacientes actuales y seleccionar a uno para acceder a su perfil detallado, con una barra lateral que incluye las opciones: Diagnóstico, Historial Clínico, Terapia, Citas.
 
-En la **barra lateral** de **Diagnóstico**, se puede observar el diagnóstico del paciente, con las opciones de agregar un nuevo diagnóstico, editarlo y ver el historial de diagnósticos.
+- En Diagnóstico, se puede visualizar y agregar un nuevo diagnóstico, así como revisar el historial de diagnósticos previos.
+- En Historial Clínico, se muestra la información clínica del paciente.
+- En la sección Terapia, se centralizan botones para acceder a: Funciones Biológicas, Estados de Ánimo, Prescripción y Track de Pastillas.
+  - Funciones Biológicas: muestra reportes estadísticos de los datos fisiológicos del paciente.
+  - Estados de Ánimo: permite observar el registro y evolución emocional del paciente.
+  - Prescripciones: contiene la lista de medicamentos con sus datos, dosis, frecuencia y duración del tratamiento. Incluye la opción de agregar o modificar medicamentos.
+  - Track de Pastillas: permite confirmar el consumo de los medicamentos.
 
-En **Historial Clínico**, se puede observar el historial clínico del paciente y editarlo.
+En la sección de Notificaciones, los profesionales reciben confirmaciones sobre actividades realizadas por los pacientes.
 
-En la sección **Terapia**, se puede ver la información del paciente y una lista de botones para las funciones: **Funciones Biológicas, Estados de Ánimo, Tareas**, **Prescripción** y **Track de Pastillas**
+<div align="center">
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/48e18ae2-ef8f-4eb2-aac7-ac7f232ecf17" />
+</div>
 
-En la sección de **Funciones Biológicas**, se puede observar el reporte estadístico de los datos fisiológicos del paciente.
-
-En la sección de **Estados de Ánimo**, se puede observar el reporte estadístico de los estados de ánimo.
-
-En la sección de **Tareas**, se puede observar la lista de tareas asignadas al paciente o agregar nuevas tareas.
-
-En la opción de **Agregar Nuevas Tareas**, se muestra un formulario con el título de la lista y al menos una tarea, junto con botones para agregar y editar tareas.
-
-En la opción de **Agregar Tareas**, se encuentra un formulario con el título de la tarea, la descripción y la fecha de cumplimiento.
-
-En la opción de **Editar Tarea**, se muestra el mismo formulario de agregar tareas, pero con los datos de la tarea seleccionada.
-
-En la sección de **Prescripciones**, se puede observar la lista de medicamentos con sus datos, cantidades, frecuencia y la fecha de inicio y culminación, junto con los botones para agregar y editar medicamentos.
-
-En la opción de **Agregar Medicamentos**, se muestra un formulario con el nombre del medicamento, la cantidad, la frecuencia, y la fecha de inicio y culminación. En la opción de **Editar Medicamentos**, se puede observar el mismo formulario con los datos del medicamento seleccionado.
-
-En la sección de **Track de Pastillas**, se puede observar la confirmacion del consumo de los medicamentos por parte del paciente.
-
-La opción **Citas de Paciente** ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y ver las notas por sección.
-
-En la opción de **Agregar Citas**, se muestra un formulario con la fecha y la hora. En la opción de **Modificar Citas**, se muestra el mismo formulario con los datos de la cita seleccionada.
-
-En la opción de **Notas**, se muestra un formulario con el título de la nota y la descripción, con opciones para guardarla y editarla.
-
-En el **Perfil**, los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección **Ajustes**, pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
-
-En **Notificaciones**, se pueden observar las confirmaciones de actividades realizadas por el paciente.
-
-
-![OrgSistMedicos.png](/assets/OrgSistMedicos.png)
 ---
 **Pacientes:**
-Al acceder a la plataforma del proyecto para pacientes, 
-los usuarios pueden iniciar sesión con su nombre y apellido, 
-cambiar la contraseña, y una vez autenticados, la página 
-principal presenta Sidebar con las opciones: "Inicio","lista de tareas",
-terapia y citas.
+
+Al acceder a la plataforma, los usuarios pueden iniciar sesión con sus credenciales, cambiar la contraseña en caso necesario, y una vez autenticados, la página principal presenta un Sidebar con las opciones: Inicio, Terapia, Citas.
 
 En la sección "Lista de Tareas" se pueden visualizar los 
 conjuntos de actividades designados por el profesional de 
 la salud mental en cada sesión. Dentro de esta vista, se puede 
 acceder a opciones tales como ver tareas y marcar como completadas.
 
-En la sección "Terapia" tiene los botones de Diagnostico,Funciones Biologicas
-Estados de animo, Prescripcion.
+- En la sección Terapia, se muestran accesos a Diagnóstico, Funciones Biológicas, Estados de Ánimo y Prescripción.
+  - Diagnóstico: visualización del diagnóstico otorgado por el profesional.
+  - Funciones Biológicas: muestra los registros de datos fisiológicos.
+  - Estados de Ánimo: muestra el seguimiento de los estados emocionales.
+  - Prescripción: permite visualizar los medicamentos recetados y confirmar su consumo.
+- En la sección Citas, los pacientes pueden visualizar las citas programadas y acceder a sus detalles.
+- En la sección Perfil, se puede visualizar y actualizar la información personal, incluyendo datos de contacto y de salud.
 
-En la opcion de Diagnostico, se mostrar el diagnostico. 
-En la opcion de funciones biologicos se mostrara el track de datos biologicos. 
-En la opcion de Estados de animo se mostrara el track de estados de animo.
-En la opcion de Prescripcion se mostrara la informacion de los medicamentos
-y un boton para confirmar su consumo.
+<div align="center">
+  <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/5f3803ae-8940-4afe-a2f0-7bc65ed12674" />
+</div>
 
-En la sección "Citas" se pueden visualizar las citas programadas 
-por el profesional de la salud mental, y se puede acceder a opciones 
-tales como ver detalles de la cita.
-
-En la sección "Perfil" se puede visualizar y actualizar la 
-información personal del paciente, incluyendo datos de contacto 
-y datos de salud.
-
-![OrgSistPacientes.png](/assets/OrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
 **Medicos:**
@@ -262,7 +282,6 @@ y datos de salud.
 **Pacientes** 
   - lista de sus pacientes
       - Historial de citas
-      - Notas clínicas por sesión
       - Tratamientos en curso
           - Diagnósticos
           - Datos fisiológicos
@@ -292,7 +311,6 @@ y datos de salud.
 **Pagina principal**
 - Perfil
 - Citas
-- Lista de Tareas
 - Tratamiento Actual
 
 **Perfil:** 
@@ -301,10 +319,6 @@ y datos de salud.
 
 **Citas:** 
 - Ver detalles de la cita
-
-**Lista de Tareas:** 
-- Ver tareas
-- Marcar como completadas
 
 **Tratamiento Actual:** 
 - Registro de Medicamentos
@@ -332,7 +346,6 @@ para el Web Side:
 Los médicos pueden utilizar los métodos de búsqueda por:
 
 - Filtrado de Información por Fechas:
-    - Búsqueda de notas por fecha
     - Búsqueda de sesiones por fecha
     - Búsqueda de diagnósticos por fecha
     - Búsqueda de prescripciones por fecha
@@ -340,30 +353,52 @@ Los médicos pueden utilizar los métodos de búsqueda por:
   
 Los pacientes pueden utilizar los metodos de busqueda por: 
 - Filtrado de informacion por ID
-    - busqueda de tareas por ID
-    - confirmacion de tareas por ID
+    - Confirmación de prescripciones por ID
 
 ### 4.2.5. Navigation Systems
 
 **Para Psiquiatras:**
 
-En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes". En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos. "Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios. En "Perfil", se actualiza la información personal y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
+En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes".
+
+En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos.
+
+"Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios.
+
+En "Perfil", se visualiza la información personal del profesional y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
 
 **Para Pacientes:**
 
-Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual". En "Lista de Tareas", pueden ver y marcar tareas asignadas como completadas. "Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos. "Citas" permite ver y gestionar citas programadas, mientras que "Perfil" facilita la actualización de la información personal.
+Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas" y "Tratamiento Actual".
+
+"Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos.
+
+"Citas" permite ver y gestionar citas programadas, mientras que "Perfil" muestra la información personal del paciente.
 
 Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+
 ![Fidelidad 2.jpg](/assets/Fidelidad2.jpg)
+
 ### 4.3.2. Landing Page Mock-up
+
 ![Mockups Landing.jpg](/assets/MockupsLanding.jpg)
 
-## 4.4. Web Applications UX/UI Design
+## 4.4. Mobile Applications UX/UI Design. 
+### 4.4.1. Mobile Applications Wireframes. (todavia no tenemos wireframes)
+### 4.4.2. Mobile Applications Wireflow Diagrams. (todavia no tenemos)
+### 4.4.3. Mobile Applications Mock-ups. (si tenemos, de ahi les paso el figma)
+### 4.4.4. Mobile Applications User Flow Diagrams. (falta)
+## 4.5. Mobile Applications Prototyping. (falta)
+### 4.5.1. Android Mobile Applications Prototyping. (falta)
+### 4.5.2. iOS Mobile Applications Prototyping. (falta)
 
-### 4.4.1. Web Applications Wireframes
+## 4.6. Web Applications UX/UI Design
+
+### 4.6.1. Web Applications Wireframes
 
 En esta sección se presentan los Wireframes de la Aplicación Web, con cada pantalla teniendo un nombre y un propósito definido.
 
@@ -443,10 +478,10 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![Wireframes.jpg](/assets/WireFrames(19).png)
 
-### 4.4.2. Web Applications Wireflow Diagrams
+### 4.6.2. Web Applications Wireflow Diagrams
 ![Wire flow.png](../../assets/Wire%20flow.png)
 
-### 4.4.3. Web Applications Mock-ups
+### 4.6.3. Web Applications Mock-ups
 
 En este apartado se muestran los Mock-Ups de la Aplicación Web, con notable más detalle que los Wireframes. Cada pantalla tiene un nombre y propósito específico.
 
@@ -526,7 +561,7 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![Wireframes.jpg](/assets/MockUps(19).png)
 
-### 4.4.4. Web Applications User Flow Diagrams
+### 4.6.4. Web Applications User Flow Diagrams
 ![Group 53.png](/assets/public/imagenes/User%20Flow/Group%2053.png)
 En este flow se puede ver el proceso por el que el medico agenda citas.
 
@@ -584,24 +619,24 @@ En este flow se puede observar como el profesional se loguea e ingresa a la pagi
 ![Group 74.png](/assets/public/imagenes/User%20Flow/Group%2074.png)
 En este flow se puede observar como el profesional se registra en la plataforma.
 
-## 4.5. Web Applications Prototyping
+## 4.7. Web Applications Prototyping
 
 **https://marvelapp.com/prototype/8j2efjg**
-## 4.6. Domain-Driven Software Architecture
+## 4.8. Domain-Driven Software Architecture
 
-### 4.6.1. Software Architecture Context Diagram
+### 4.8.1. Software Architecture Context Diagram
 
 #### System Context Diagram
 
 ![C4Model](/assets/ContextDiagram.png)
 
-### 4.6.2. Software Architecture Container Diagrams
+### 4.8.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 
 ![C4Model](/assets/ContainerDiagram.png)
 
-### 4.6.3. Software Architecture Components Diagrams
+### 4.8.3. Software Architecture Components Diagrams
 
 #### Bounded Context Access Diagram
 
@@ -635,8 +670,8 @@ En este flow se puede observar como el profesional se registra en la plataforma.
 
 ![C4Model](/assets/ComponentDiagramStatisticsAnalysis.png)
 
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
+## 4.9. Software Object-Oriented Design.
+### 4.9.1. Class Diagrams.
 
 Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-bea1-8a983beb6583/edit?viewport_loc=-19574%2C-3813%2C32805%2C14350%2C0_0&invitationId=inv_8d161d3e-822a-4e4e-a73f-f13b83d9a00d
 
@@ -655,7 +690,7 @@ Diagrama dividido por Bounded Context:
 5. Session Notes
 ![sesionnotes](/assets/DC-SessionNotes.jpeg)
 
-### 4.7.2. Class Dictionary.
+### 4.9.2. Class Dictionary.
 
 <table border="1">
   <tr>
@@ -773,8 +808,8 @@ Diagrama dividido por Bounded Context:
 
 
 
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+## 4.10. Database Design.
+### 4.10.1. Database Diagram.
 Esta es la Base de datos de la aplicación, con las tablas y relaciones necesarias para almacenar y gestionar la información de los pacientes, profesionales y tareas de tratamiento.
 
 ![DataBase.jpg](/assets/DataBase.jpeg)

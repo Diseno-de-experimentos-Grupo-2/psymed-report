@@ -139,9 +139,17 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
 PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimiento de pacientes en centros psiquiátricos. La aplicación facilita la comunicación continua entre psiquiatras y pacientes, permitiendo un monitoreo integral del progreso, el seguimiento personalizado de tratamientos, y la gestión eficiente de citas y notas clínicas en un entorno seguro y accesible. PsyMed se enfoca en mejorar la calidad de la atención al proporcionar herramientas que permiten a los profesionales de la salud mental mantenerse conectados con sus pacientes de manera efectiva y con información actualizada en todo momento.
 ### 1.1.2. Perfiles de integrantes del equipo
 
+|                                                                                                      | Apellido y Nombre                                 | Carrera                | Acerca de                                                                                                                                                                                                                    | Habilidades                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/Biblioteca-de-Software/final-report/raw/dev/report/chapter1/img_1.png"> | Maita Falckenheiner, Romina Guadalupe(u202213765) | Ingeniería de Software | Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                               | Liderazgo, competitividad y organización.                                                                                                                                          |
+|<img width="548" height="605" alt="image" src="https://github.com/user-attachments/assets/c06ef236-b869-43e8-a779-b9ca46d41364" />  | Asmad Padilla, Fatima Andrea (u20221b490) | Ingeniería de Software |Soy estudiante a tiempo completo, me interesa la auditoría de software y me gustaría especializarme en este campo en un futuro.| Organización, responsabilidad y análisis crítico.  | 
+| <img src="https://github.com/Biblioteca-de-Software/final-report/raw/dev/report/chapter1/img_3.png"> | Torres Flores, Paolo Alessandro(u20221f613)       | Ingeniería de Software | Soy un estudiante de 5to ciclo con afán de mejorar cada día que pasa. Tengo muchas aspiraciones, ya sea en mi carrera como personalmente, y lucho diariamente para acercarme cada vez más a ellas.                           | Me considero una persona adaptable al entorno, sé trabajar en equipo y aprendo rápido. Mentalidad para resolver problemas. Conocimiento básico de las funcionalidades de software. |
+| <img src="https://github.com/Biblioteca-de-Software/final-report/raw/dev/report/chapter1/img_7.png"> | Nakasone Gomes, Marco Antonio(u202210790)         | Ingeniería de Software | Soy estudiante de Ingeniería de Software, tengo cualidades como la perseverancia, que me ayudan a ser resiliente ante cualquier adversidad en el trabajo. Además, soy buen compañero y siempre busco lo mejor para mi grupo. | Mentalidad enfocada en la resolución de problemas y conocimientos básicos de funcionalidades de software.                                                                          |
 
+## 1.2. Solution Profile
 
-### Antecedentes y problematica:
+### 1.2.1. Antecedentes y problemática
+
 - Who: El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general.
 
 - What: A pesar de las políticas de salud pública que han dado mayor importancia a la salud mental, el sistema sigue siendo incapaz de atender a la gran mayoría de la población afectada por trastornos mentales, como la depresión y la ansiedad.
@@ -164,7 +172,9 @@ Para superar este desafío, es esencial implementar soluciones tecnológicas que
 
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
 
-## Lean UX Problem Statements
+### 1.2.2. Lean UX Process.
+
+#### 1.2.2.1. Lean UX Problem Statements.
 
 El sistema de salud mental en Perú se enfrenta a una crisis debido a la sobrecarga administrativa que limita la capacidad de los profesionales para brindar atención directa a sus pacientes. La creciente demanda de servicios de salud mental, impulsada por trastornos como la depresión y la ansiedad, ha generado un colapso en la gestión de citas, historiales clínicos y comunicación entre médicos y pacientes. Esta situación ha resultado en una reducción en la calidad del servicio y en el acceso oportuno a la atención que los pacientes necesitan.
 
@@ -189,7 +199,7 @@ Nuestra visión es desarrollar una plataforma que centralice todas las funcional
 El segmento inicial para la implementación de esta plataforma estará compuesto por instituciones médicas de salud mental en América Latina que ya muestran un interés en modernizar su gestión interna y que han adoptado parcialmente herramientas digitales, pero carecen de una solución integrada que cubra todas sus necesidades.
 
 
-## Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions.
 
 **Bussiness Assumptions**
 
