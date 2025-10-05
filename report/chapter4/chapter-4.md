@@ -216,86 +216,52 @@ de la página principal de **PSYMED**. Esta sección
 abarca los siguientes aspectos clave:
 
 ### 4.2.1. Organization Systems
-Para asegurar una jerarquía clara y precisa en nuestra 
-aplicación, es crucial facilitar una navegación satisfactoria 
-para el usuario. La estructura que hemos definido es la 
-siguiente:<br>
+Para asegurar una jerarquía clara y precisa en nuestra aplicación, es crucial facilitar una navegación satisfactoria para el usuario. La estructura que hemos definido es la siguiente:
 
 **Medicos:**
 
-Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, escoger su plan de pago y recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un calendario con las fechas de sus citas y una **barra lateral** con las opciones: **Citas, Inicio, Pacientes** y **Notificaciones**.
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, escoger su plan de pago y recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un calendario con las fechas de sus citas y una barra lateral con las opciones: Citas, Inicio, Pacientes y Notificaciones.
 
-En la sección de **Citas**, se pueden observar todas las citas del profesional de la salud mental con todos sus pacientes.
+En la sección de Citas, se pueden observar todas las citas del profesional con sus pacientes, así como agendar nuevas consultas o modificar horarios.
 
-En la sección **Pacientes**, los profesionales pueden ver una lista de sus pacientes actuales y seleccionar a uno para acceder a su perfil detallado, con una **barra lateral** que incluye las opciones: **Diagnóstico, Historial Clínico, Terapia, Citas** y **Notas**.
+En la sección Pacientes, los profesionales pueden ver una lista de sus pacientes actuales y seleccionar a uno para acceder a su perfil detallado, con una barra lateral que incluye las opciones: Diagnóstico, Historial Clínico, Terapia, Citas.
 
-En la **barra lateral** de **Diagnóstico**, se puede observar el diagnóstico del paciente, con las opciones de agregar un nuevo diagnóstico, editarlo y ver el historial de diagnósticos.
+- En Diagnóstico, se puede visualizar y agregar un nuevo diagnóstico, así como revisar el historial de diagnósticos previos.
+- En Historial Clínico, se muestra la información clínica del paciente.
+- En la sección Terapia, se centralizan botones para acceder a: Funciones Biológicas, Estados de Ánimo, Prescripción y Track de Pastillas.
+  - Funciones Biológicas: muestra reportes estadísticos de los datos fisiológicos del paciente.
+  - Estados de Ánimo: permite observar el registro y evolución emocional del paciente.
+  - Prescripciones: contiene la lista de medicamentos con sus datos, dosis, frecuencia y duración del tratamiento. Incluye la opción de agregar o modificar medicamentos.
+  - Track de Pastillas: permite confirmar el consumo de los medicamentos.
 
-En **Historial Clínico**, se puede observar el historial clínico del paciente y editarlo.
+En la sección de Notificaciones, los profesionales reciben confirmaciones sobre actividades realizadas por los pacientes.
 
-En la sección **Terapia**, se puede ver la información del paciente y una lista de botones para las funciones: **Funciones Biológicas, Estados de Ánimo, Tareas**, **Prescripción** y **Track de Pastillas**
+<div align="center">
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/48e18ae2-ef8f-4eb2-aac7-ac7f232ecf17" />
+</div>
 
-En la sección de **Funciones Biológicas**, se puede observar el reporte estadístico de los datos fisiológicos del paciente.
-
-En la sección de **Estados de Ánimo**, se puede observar el reporte estadístico de los estados de ánimo.
-
-En la sección de **Tareas**, se puede observar la lista de tareas asignadas al paciente o agregar nuevas tareas.
-
-En la opción de **Agregar Nuevas Tareas**, se muestra un formulario con el título de la lista y al menos una tarea, junto con botones para agregar y editar tareas.
-
-En la opción de **Agregar Tareas**, se encuentra un formulario con el título de la tarea, la descripción y la fecha de cumplimiento.
-
-En la opción de **Editar Tarea**, se muestra el mismo formulario de agregar tareas, pero con los datos de la tarea seleccionada.
-
-En la sección de **Prescripciones**, se puede observar la lista de medicamentos con sus datos, cantidades, frecuencia y la fecha de inicio y culminación, junto con los botones para agregar y editar medicamentos.
-
-En la opción de **Agregar Medicamentos**, se muestra un formulario con el nombre del medicamento, la cantidad, la frecuencia, y la fecha de inicio y culminación. En la opción de **Editar Medicamentos**, se puede observar el mismo formulario con los datos del medicamento seleccionado.
-
-En la sección de **Track de Pastillas**, se puede observar la confirmacion del consumo de los medicamentos por parte del paciente.
-
-La opción **Citas de Paciente** ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y ver las notas por sección.
-
-En la opción de **Agregar Citas**, se muestra un formulario con la fecha y la hora. En la opción de **Modificar Citas**, se muestra el mismo formulario con los datos de la cita seleccionada.
-
-En la opción de **Notas**, se muestra un formulario con el título de la nota y la descripción, con opciones para guardarla y editarla.
-
-En el **Perfil**, los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección **Ajustes**, pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
-
-En **Notificaciones**, se pueden observar las confirmaciones de actividades realizadas por el paciente.
-
-
-![OrgSistMedicos.png](/assets/OrgSistMedicos.png)
 ---
 **Pacientes:**
-Al acceder a la plataforma del proyecto para pacientes, 
-los usuarios pueden iniciar sesión con su nombre y apellido, 
-cambiar la contraseña, y una vez autenticados, la página 
-principal presenta Sidebar con las opciones: "Inicio","lista de tareas",
-terapia y citas.
+
+Al acceder a la plataforma, los usuarios pueden iniciar sesión con sus credenciales, cambiar la contraseña en caso necesario, y una vez autenticados, la página principal presenta un Sidebar con las opciones: Inicio, Terapia, Citas.
 
 En la sección "Lista de Tareas" se pueden visualizar los 
 conjuntos de actividades designados por el profesional de 
 la salud mental en cada sesión. Dentro de esta vista, se puede 
 acceder a opciones tales como ver tareas y marcar como completadas.
 
-En la sección "Terapia" tiene los botones de Diagnostico,Funciones Biologicas
-Estados de animo, Prescripcion.
+- En la sección Terapia, se muestran accesos a Diagnóstico, Funciones Biológicas, Estados de Ánimo y Prescripción.
+  - Diagnóstico: visualización del diagnóstico otorgado por el profesional.
+  - Funciones Biológicas: muestra los registros de datos fisiológicos.
+  - Estados de Ánimo: muestra el seguimiento de los estados emocionales.
+  - Prescripción: permite visualizar los medicamentos recetados y confirmar su consumo.
+- En la sección Citas, los pacientes pueden visualizar las citas programadas y acceder a sus detalles.
+- En la sección Perfil, se puede visualizar y actualizar la información personal, incluyendo datos de contacto y de salud.
 
-En la opcion de Diagnostico, se mostrar el diagnostico. 
-En la opcion de funciones biologicos se mostrara el track de datos biologicos. 
-En la opcion de Estados de animo se mostrara el track de estados de animo.
-En la opcion de Prescripcion se mostrara la informacion de los medicamentos
-y un boton para confirmar su consumo.
+<div align="center">
+  <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/5f3803ae-8940-4afe-a2f0-7bc65ed12674" />
+</div>
 
-En la sección "Citas" se pueden visualizar las citas programadas 
-por el profesional de la salud mental, y se puede acceder a opciones 
-tales como ver detalles de la cita.
-
-En la sección "Perfil" se puede visualizar y actualizar la 
-información personal del paciente, incluyendo datos de contacto 
-y datos de salud.
-
-![OrgSistPacientes.png](/assets/OrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
 **Medicos:**
