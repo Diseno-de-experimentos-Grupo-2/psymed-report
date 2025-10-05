@@ -770,20 +770,19 @@ Diagrama dividido por Bounded Context:
 ### 4.10.1. Database Diagram.
 Esta es la Base de datos de la aplicación, con las tablas y relaciones necesarias para almacenar y gestionar la información de los pacientes, profesionales y tareas de tratamiento.
 
-![DataBase.jpg](/assets/DataBase.jpeg)
+<img width="1129" height="780" alt="image" src="https://github.com/user-attachments/assets/fb077004-4ff8-48c7-ab22-171c4d7d0037" />
+
 
 Tablas por bounded context:
 Las tablas de **BCPatient** almacenan la información de los pacientes, incluyendo su historial clínico, plan de tratamiento, funciones biológicas y estados de ánimo.  
-![PatientsManagmentBC.png](/assets/PatientsManagmentBC.png)
+<img width="739" height="399" alt="image" src="https://github.com/user-attachments/assets/630e086e-9739-4d7b-b0c3-9f7ed563f506" />
+
 
 Las tablas de **BCProfessional** almacenan la información de los profesionales de la salud, incluyendo su especialidad y los tratamientos de sus pacientes.  
 ![ProfesionalsManagmentBC.png](/assets/ProfesionalsManagmentBC.png)
 
 Las tablas de **BCSeccion** almacenan la información de las secciones de la aplicación, incluyendo al profesional asignado y los pacientes que participan en cada sección, además de las notas que se toman en cada sección.  
-![SecionsManagmentBc.png](/assets/SecionsManagmentBc.png)
-
-Las tablas de **BCTask** almacenan la información de los estados de ánimo y las funciones biológicas de los pacientes.  
-![SyntonsBC.png](/assets/SyntonsBC.png)
+<img width="475" height="586" alt="image" src="https://github.com/user-attachments/assets/ea7caaee-3fce-4d22-8686-0245c5ebbeb7" />
 
 Las tablas de **BCMedication** almacenan la información de los medicamentos y prescripciones que se le asignan a los pacientes.  
 ![MedicalManagmentBC.png](/assets/MedicalManagmentBC.png)
