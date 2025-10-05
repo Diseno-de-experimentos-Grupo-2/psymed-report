@@ -476,10 +476,6 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 - Session (Sesión): Interacción entre el profesional de la salud mental y el paciente. Cada sesión puede generar notas, diagnósticos y actualizaciones en el historial clínico del paciente.
 
-
-- Medical History (Historial Clínico): Registro acumulativo de información médica relevante sobre el paciente, incluyendo diagnósticos, tratamientos, y antecedentes.
-
-
 - Medication (Medicamento): Tratamiento prescrito al paciente por el profesional de la salud mental. El estado de los medicamentos puede ser monitoreado y ajustado a lo largo del tiempo.
 
 
@@ -493,9 +489,6 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 - Diagnosis (Diagnóstico): Evaluación médica realizada por el profesional de la salud mental basada en las sesiones y en el historial clínico del paciente.
-
-
-- Clinical Notes (Notas Clínicas): Observaciones y comentarios registrados por el profesional de la salud mental durante o después de una sesión con el paciente.
 
 
 - Follow-up (Seguimiento): Proceso mediante el cual el profesional de la salud mental revisa y ajusta el tratamiento y plan del paciente, basándose en los datos recolectados (estado emocional, funciones biológicas, y otros).
