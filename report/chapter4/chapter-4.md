@@ -380,13 +380,25 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+
 ![Fidelidad 2.jpg](/assets/Fidelidad2.jpg)
+
 ### 4.3.2. Landing Page Mock-up
+
 ![Mockups Landing.jpg](/assets/MockupsLanding.jpg)
 
-## 4.4. Web Applications UX/UI Design
+## 4.4. Mobile Applications UX/UI Design. 
+### 4.4.1. Mobile Applications Wireframes. (todavia no tenemos wireframes)
+### 4.4.2. Mobile Applications Wireflow Diagrams. (todavia no tenemos)
+### 4.4.3. Mobile Applications Mock-ups. (si tenemos, de ahi les paso el figma)
+### 4.4.4. Mobile Applications User Flow Diagrams. (falta)
+## 4.5. Mobile Applications Prototyping. (falta)
+### 4.5.1. Android Mobile Applications Prototyping. (falta)
+### 4.5.2. iOS Mobile Applications Prototyping. (falta)
 
-### 4.4.1. Web Applications Wireframes
+## 4.6. Web Applications UX/UI Design
+
+### 4.6.1. Web Applications Wireframes
 
 En esta sección se presentan los Wireframes de la Aplicación Web, con cada pantalla teniendo un nombre y un propósito definido.
 
@@ -466,10 +478,10 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![Wireframes.jpg](/assets/WireFrames(19).png)
 
-### 4.4.2. Web Applications Wireflow Diagrams
+### 4.6.2. Web Applications Wireflow Diagrams
 ![Wire flow.png](../../assets/Wire%20flow.png)
 
-### 4.4.3. Web Applications Mock-ups
+### 4.6.3. Web Applications Mock-ups
 
 En este apartado se muestran los Mock-Ups de la Aplicación Web, con notable más detalle que los Wireframes. Cada pantalla tiene un nombre y propósito específico.
 
@@ -549,7 +561,7 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![Wireframes.jpg](/assets/MockUps(19).png)
 
-### 4.4.4. Web Applications User Flow Diagrams
+### 4.6.4. Web Applications User Flow Diagrams
 ![Group 53.png](/assets/public/imagenes/User%20Flow/Group%2053.png)
 En este flow se puede ver el proceso por el que el medico agenda citas.
 
@@ -607,24 +619,24 @@ En este flow se puede observar como el profesional se loguea e ingresa a la pagi
 ![Group 74.png](/assets/public/imagenes/User%20Flow/Group%2074.png)
 En este flow se puede observar como el profesional se registra en la plataforma.
 
-## 4.5. Web Applications Prototyping
+## 4.7. Web Applications Prototyping
 
 **https://marvelapp.com/prototype/8j2efjg**
-## 4.6. Domain-Driven Software Architecture
+## 4.8. Domain-Driven Software Architecture
 
-### 4.6.1. Software Architecture Context Diagram
+### 4.8.1. Software Architecture Context Diagram
 
 #### System Context Diagram
 
 ![C4Model](/assets/ContextDiagram.png)
 
-### 4.6.2. Software Architecture Container Diagrams
+### 4.8.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 
 ![C4Model](/assets/ContainerDiagram.png)
 
-### 4.6.3. Software Architecture Components Diagrams
+### 4.8.3. Software Architecture Components Diagrams
 
 #### Bounded Context Access Diagram
 
@@ -658,8 +670,8 @@ En este flow se puede observar como el profesional se registra en la plataforma.
 
 ![C4Model](/assets/ComponentDiagramStatisticsAnalysis.png)
 
-## 4.7. Software Object-Oriented Design.
-### 4.7.1. Class Diagrams.
+## 4.9. Software Object-Oriented Design.
+### 4.9.1. Class Diagrams.
 
 Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-bea1-8a983beb6583/edit?viewport_loc=-19574%2C-3813%2C32805%2C14350%2C0_0&invitationId=inv_8d161d3e-822a-4e4e-a73f-f13b83d9a00d
 
@@ -678,7 +690,7 @@ Diagrama dividido por Bounded Context:
 5. Session Notes
 ![sesionnotes](/assets/DC-SessionNotes.jpeg)
 
-### 4.7.2. Class Dictionary.
+### 4.9.2. Class Dictionary.
 
 <table border="1">
   <tr>
@@ -796,8 +808,8 @@ Diagrama dividido por Bounded Context:
 
 
 
-## 4.8. Database Design.
-### 4.8.1. Database Diagram.
+## 4.10. Database Design.
+### 4.10.1. Database Diagram.
 Esta es la Base de datos de la aplicación, con las tablas y relaciones necesarias para almacenar y gestionar la información de los pacientes, profesionales y tareas de tratamiento.
 
 ![DataBase.jpg](/assets/DataBase.jpeg)
