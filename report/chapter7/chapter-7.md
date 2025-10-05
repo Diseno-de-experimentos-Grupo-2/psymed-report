@@ -23,6 +23,9 @@
 ### 7.2.2 Stages Deployment Pipeline Components.
 
 ## 7.3 Continuous deployment
+
+El Continuous Deployment consiste en la capacidad de publicar de forma continua y completamente automatizada nuevas versiones del software directamente en el entorno de producción. Bajo este enfoque, cada modificación realizada al código atraviesa un proceso de validación y pruebas automatizadas; en caso de superar satisfactoriamente dichas verificaciones, la aplicación es desplegada de manera inmediata sin requerir intervención manual. Este mecanismo posibilita una entrega ágil y frecuente de nuevas funcionalidades y correcciones, favoreciendo la rápida evolución del sistema y la respuesta oportuna a las necesidades de los usuarios.
+
 ### 7.3.1 Tool and Practices.
 
 Dentro del enfoque de Continuous Deployment se consideran diversas herramientas y prácticas esenciales para garantizar la confiabilidad y la automatización del proceso:
