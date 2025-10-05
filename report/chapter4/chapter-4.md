@@ -400,7 +400,12 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/0ee2fd86-5555-4831-8463-b6c6133e65a5" />
 
-### 4.4.4. Mobile Applications User Flow Diagrams. (falta)
+### 4.4.4. Mobile Applications User Flow Diagrams. 
+
+<div align="center">
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/caa69590-976b-4524-b78e-a8bc2bd83afe" />
+</div>
+
 ## 4.5. Mobile Applications Prototyping. (falta)
 ### 4.5.1. Android Mobile Applications Prototyping. (falta)
 ### 4.5.2. iOS Mobile Applications Prototyping. (falta)
