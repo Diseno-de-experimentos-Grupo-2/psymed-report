@@ -155,6 +155,31 @@ la carga visual, permitiendo que tanto los profesionales como
 los pacientes se concentren en el contenido relevante, como los
 signos vitales y comentarios diarios.
 
+### 4.1.3. Mobile Style Guidelines.
+
+En esta sección se definen los lineamientos de estilo aplicados al diseño de la aplicación móvil en sus dos principales sistemas operativos: iOS y Android. El objetivo es mantener la identidad visual de PSYMED de manera coherente, pero respetando las guías de usabilidad y diseño nativo de cada plataforma, para garantizar una experiencia óptima y consistente en dispositivos móviles.
+
+#### 4.1.3.1. iOS Mobile Style Guidelines.
+
+Aunque la aplicación está siendo desarrollada en Flutter, se han tomado en cuenta las guías de estilo de iOS para asegurar que la experiencia del usuario sea consistente y familiar en dispositivos Apple.
+
+Colors:
+Se mantiene la misma paleta cromática definida en las General Style Guidelines y Web Style Guidelines, adaptándola al entorno móvil de iOS. Los colores conservan sus significados y funciones, pero con énfasis en el contraste y la accesibilidad según las recomendaciones de Apple Human Interface Guidelines (HIG).
+
+Typography:
+En iOS se busca mantener un estilo claro y legible. Para ello, los tamaños de fuente definidos en la sección general se aplican respetando las jerarquías visuales, pero alineados con la tipografía San Francisco (SF Pro) propia de Apple. En Flutter, esta se emula utilizando tipografías equivalentes y respetando las escalas definidas (Heading 1, Heading 2, Body, etc.).
+
+Spacing & Layout:
+El diseño móvil sigue el principio de espacios amplios, márgenes consistentes y botones fácilmente seleccionables, de acuerdo con la usabilidad en pantallas táctiles. El espaciado entre elementos mantiene la proporción definida en la guía general (line spacing 1.4–1.6) para asegurar legibilidad.
+
+Navigation & Components:
+La interfaz en iOS adopta el estilo de bottom navigation bar y app bars minimalistas, priorizando gestos intuitivos y la navegación fluida. Se mantiene un enfoque limpio, con íconos simples y un uso coherente de los colores definidos.
+
+Consistency with Flutter:
+Si bien la aplicación se desarrolla en Flutter, se han respetado los lineamientos de iOS para garantizar que la experiencia sea nativa y coherente. Los componentes visuales en Flutter siguen las métricas y proporciones recomendadas por Apple, asegurando que el usuario perciba un diseño alineado con la plataforma.
+
+#### 4.1.3.2. Android Mobile Style Guidelines
+
 ## 4.2. Information Architecture
 La sección de arquitectura de la información se centra en 
 estructurar el contenido tanto de la aplicación web como 
