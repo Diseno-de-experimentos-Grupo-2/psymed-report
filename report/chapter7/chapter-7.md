@@ -18,6 +18,11 @@
 
 ### 7.1.2 Build & Test Suite Pipelines Components.
 
+Dentro del pipeline de integración continua se incorporaron pruebas automatizadas en diferentes niveles para asegurar la calidad del software. En particular, se empleó JUnit para la ejecución de pruebas unitarias, verificando el correcto funcionamiento de componentes individuales de la aplicación. Asimismo, se utilizó Selenium para la realización de pruebas integrales, con el fin de validar la interacción entre módulos y garantizar la experiencia del usuario en un entorno simulado.
+
+<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/c7180300-7de5-44c9-b902-00d44b0c89a4" />   <img width="220" height="230" alt="image" src="https://github.com/user-attachments/assets/0a66b4a1-b6e2-432c-af83-44b5406c648c" />
+
+
 ## 7.2 Cpntinuous Delivery
 ### 7.2.1 Tools and Practices.
 ### 7.2.2 Stages Deployment Pipeline Components.
