@@ -388,7 +388,10 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 ![Mockups Landing.jpg](/assets/MockupsLanding.jpg)
 
 ## 4.4. Mobile Applications UX/UI Design. 
-### 4.4.1. Mobile Applications Wireframes. (todavia no tenemos wireframes)
+### 4.4.1. Mobile Applications Wireframes. 
+
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/44df38aa-f383-4931-9454-adb51ceb70f3" />
+
 ### 4.4.2. Mobile Applications Wireflow Diagrams. (todavia no tenemos)
 ### 4.4.3. Mobile Applications Mock-ups. (si tenemos, de ahi les paso el figma)
 ### 4.4.4. Mobile Applications User Flow Diagrams. (falta)
