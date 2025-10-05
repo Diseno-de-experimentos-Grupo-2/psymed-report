@@ -155,6 +155,10 @@ la carga visual, permitiendo que tanto los profesionales como
 los pacientes se concentren en el contenido relevante, como los
 signos vitales y comentarios diarios.
 
+### 4.1.3. Mobile Style Guidelines.
+
+En esta sección se definen los lineamientos de estilo aplicados al diseño de la aplicación móvil en sus dos principales sistemas operativos: iOS y Android. El objetivo es mantener la identidad visual de PSYMED de manera coherente, pero respetando las guías de usabilidad y diseño nativo de cada plataforma, para garantizar una experiencia óptima y consistente en dispositivos móviles.
+
 ## 4.2. Information Architecture
 La sección de arquitectura de la información se centra en 
 estructurar el contenido tanto de la aplicación web como 
