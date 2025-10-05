@@ -23,7 +23,7 @@ Dentro del pipeline de integración continua se incorporaron pruebas automatizad
 <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/c7180300-7de5-44c9-b902-00d44b0c89a4" />   <img width="220" height="230" alt="image" src="https://github.com/user-attachments/assets/0a66b4a1-b6e2-432c-af83-44b5406c648c" />
 
 
-## 7.2 Cpntinuous Delivery
+## 7.2 Continuous Delivery
 ### 7.2.1 Tools and Practices.
 
 **JUnit:** Es una herramienta ampliamente utilizada en entornos Java para la ejecución de pruebas unitarias. Su elección se debe a la necesidad de validar de manera automática y rápida el correcto funcionamiento de los componentes individuales del sistema. JUnit permite detectar errores en fases tempranas del desarrollo, lo que contribuye a mejorar la calidad del software y reducir costos de corrección en etapas posteriores. Además, se integra fácilmente en pipelines de CI/CD, facilitando su automatización.
@@ -33,6 +33,20 @@ Dentro del pipeline de integración continua se incorporaron pruebas automatizad
 En conjunto, el uso de JUnit y Selenium asegura que tanto la lógica interna como el comportamiento externo de la aplicación se validen continuamente, lo que mejora la confiabilidad del sistema en cada ciclo de entrega.
 
 ### 7.2.2 Stages Deployment Pipeline Components.
+
+El pipeline de Continuous Delivery se estructura en diferentes etapas que permiten validar la calidad y preparación del software antes de su liberación en producción:
+
+**- Stage 1:** Compilación y Construcción (Build). El código fuente es compilado y se generan los artefactos listos para ser evaluados.
+
+**- Stage 2:** Pruebas Unitarias (JUnit). Se ejecutan pruebas automatizadas con JUnit para validar el correcto funcionamiento de los componentes individuales de la aplicación.
+
+**- Stage 3:** Pruebas Integrales (Selenium). Se aplican pruebas de integración y funcionalidad mediante Selenium, simulando la interacción de los usuarios con la interfaz.
+
+**- Stage 4:** Entorno de Preproducción (Staging). Los artefactos validados se despliegan en un entorno intermedio para su verificación en condiciones similares a producción.
+
+**- Stage 5:** Validación por Usuarios (UAT). Se permite la revisión por parte de usuarios o stakeholders clave antes de la liberación final.
+
+**- Stage 6:** Preparación de Release. Se genera la versión final lista para producción, empaquetada y versionada según los lineamientos establecidos.
 
 ## 7.3 Continuous deployment
 
