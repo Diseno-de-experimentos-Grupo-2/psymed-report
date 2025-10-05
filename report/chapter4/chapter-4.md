@@ -613,7 +613,10 @@ En este flow se puede observar como el profesional se registra en la plataforma.
 
 ## 4.7. Web Applications Prototyping
 
-**https://marvelapp.com/prototype/8j2efjg**
+Para validar la usabilidad, la experiencia de usuario y los flujos de interacción definidos en la aplicación, se desarrolló un prototipo navegable que permite visualizar las principales pantallas y funcionalidades. Este prototipo facilita la retroalimentación temprana y asegura la alineación del diseño con los requerimientos del sistema.
+
+El prototipo completo puede visualizarse en el siguiente enlace:[https://marvelapp.com/prototype/8j2efjg](https://marvelapp.com/prototype/8j2efjg)
+
 ## 4.8. Domain-Driven Software Architecture
 
 ### 4.8.1. Software Architecture Context Diagram
