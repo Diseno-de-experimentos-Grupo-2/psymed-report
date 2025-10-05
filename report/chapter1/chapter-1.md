@@ -172,7 +172,9 @@ Para superar este desafío, es esencial implementar soluciones tecnológicas que
 
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
 
-## Lean UX Problem Statements
+### 1.2.2. Lean UX Process.
+
+#### 1.2.2.1. Lean UX Problem Statements.
 
 El sistema de salud mental en Perú se enfrenta a una crisis debido a la sobrecarga administrativa que limita la capacidad de los profesionales para brindar atención directa a sus pacientes. La creciente demanda de servicios de salud mental, impulsada por trastornos como la depresión y la ansiedad, ha generado un colapso en la gestión de citas, historiales clínicos y comunicación entre médicos y pacientes. Esta situación ha resultado en una reducción en la calidad del servicio y en el acceso oportuno a la atención que los pacientes necesitan.
 
@@ -197,7 +199,7 @@ Nuestra visión es desarrollar una plataforma que centralice todas las funcional
 El segmento inicial para la implementación de esta plataforma estará compuesto por instituciones médicas de salud mental en América Latina que ya muestran un interés en modernizar su gestión interna y que han adoptado parcialmente herramientas digitales, pero carecen de una solución integrada que cubra todas sus necesidades.
 
 
-## Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions.
 
 **Bussiness Assumptions**
 
