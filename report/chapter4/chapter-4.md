@@ -17,10 +17,10 @@ que nuestra aplicación busca ofrecer. Este diseño visual
 transmite confianza y un enfoque moderno, asegurando que
 tanto los médicos como sus pacientes se sientan apoyados en
 cada etapa de su interacción con la plataforma.
-<div style="text-align: center;">
+
+<div align="center">
   <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
-
 - **Colors:**
 Nuestra paleta de colores se ha seleccionado para proporcionar un 
 entorno digital de apoyo a la salud mental y el bienestar, tanto para 
@@ -32,11 +32,7 @@ en la selección de colores, que buscan transmitir calma, confiabilidad y
 profesionalismo. A continuación, se presenta una breve descripción de los 
 colores que se utilizarán en nuestra aplicación:
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #091133;"></div>
-</div>
-
-**#091133 (Azul Profundo)** Este color aporta un nivel de 
+  - **#091133 (Azul Profundo)** Este color aporta un nivel de 
 profundidad y seriedad a la plataforma, lo que lo convierte en una 
 excelente elección para textos clave y elementos que requieren un 
 alto contraste. Su tonalidad oscura asegura una legibilidad superior 
@@ -45,11 +41,11 @@ en los detalles más importantes con facilidad. Es ideal para títulos,
 subtítulos, y enlaces que guían la experiencia del usuario de manera 
 efectiva y profesional.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #FFFFFF;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/a8997847-10d5-447c-9c32-43944f4c3cf4" />
 </div>
 
-**#FFFFFF (Blanco):** Este color ofrece una apariencia limpia y 
+  - **#FFFFFF (Blanco):** Este color ofrece una apariencia limpia y 
 minimalista, siendo ideal para fondos y áreas de contenido que 
 requieren claridad y simplicidad. Su neutralidad ayuda a crear 
 un espacio visualmente relajante y despejado, permitiendo que 
@@ -59,11 +55,11 @@ que el contenido sea fácil de leer y navegar, especialmente en
 secciones de la plataforma que buscan ofrecer una experiencia 
 de usuario sin distracciones.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #10BEAE;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/eaa6e5b4-83e4-49fc-8c4c-557323dfd225" />
 </div>
 
-**#10BEAE (Teal Brillante):** Este color vibrante y refrescante 
+  - **#10BEAE (Teal Brillante):** Este color vibrante y refrescante 
 aporta energía y modernidad a la plataforma. Es ideal para 
 elementos que requieren un toque de frescura, como botones 
 de acción o enlaces destacados. Su tonalidad brillante y alegre 
@@ -72,6 +68,10 @@ creando un ambiente visual que equilibra tanto la funcionalidad
 como la estética. Este color es perfecto para destacar 
 información que debe ser notada rápidamente, sin comprometer 
 la armonía general de la interfaz.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/985a5a2c-3d06-4fc7-a6dd-52674cde478b" />
+</div>
 
 **Scale:**
 - **Base:** El tamaño base es de 18px.
@@ -122,10 +122,6 @@ proporciona un fondo relajante. Estos colores, en conjunto,
 aseguran una experiencia visual armoniosa y profesional en la 
 plataforma.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #308C83;"></div>
-</div>
-
 **#308C83 (Teal Profundo):** Este color actúa como el tono 
 principal de la plataforma, evocando tranquilidad y estabilidad,
 cualidades esenciales en el ámbito de la salud mental. Es ideal
@@ -133,9 +129,8 @@ para encabezados, botones de acción y elementos que requieren
 destacar, asegurando que el profesional pueda navegar y tomar 
 decisiones de manera confiable.
 
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #69BFB7;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/01f42e71-0adc-44eb-aa7e-a55269751a78" />
 </div>
 
 **#69BFB7 (Teal Suave):** Utilizado para elementos secundarios y 
@@ -144,8 +139,8 @@ aportando una sensación de frescura y modernidad, sin desviar
 la atención de la información crítica. Es ideal para secciones
 como el registro de síntomas y la visualización de citas.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #C2F2ED;"></div>
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/829aa05e-328b-4d4d-a64b-0dd35f1fc4d8" />
 </div>
 
 **#C2F2ED (Aqua Ligero):** Este color se utilizará principalmente 
@@ -154,6 +149,10 @@ relajante y libre de distracciones. Su suavidad ayuda a reducir
 la carga visual, permitiendo que tanto los profesionales como 
 los pacientes se concentren en el contenido relevante, como los
 signos vitales y comentarios diarios.
+
+<div align="center">
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/de4b2ecd-8c84-4127-9f29-201ddf186834" />
+</div>
 
 ### 4.1.3. Mobile Style Guidelines.
 
@@ -186,19 +185,19 @@ Los mismos colores base de la identidad de PSYMED se adaptan a la Material Desig
   - #308C83 (Teal Profundo): Color primario para la app bar y acciones principales.
 
 <div align="center">
-  <img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/be25fba9-70cd-44d6-9b64-28f1a6a6e45b" />
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/8f11568c-1f78-4c99-acca-d5a8b22c87f1" />
 </div>
 
   - #69BFB7 (Teal Suave): Tono complementario para estados activos, iconografía y destacados.
 
 <div align="center">
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/312fbcbc-462a-475f-8e95-3ded7065b0f4" />
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/503e718b-5361-424d-8994-d02ea3a24637" />
 </div>
 
   - #C2F2ED (Aqua Ligero): Color de fondo para mantener claridad y calma visual.
 
 <div align="center">
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/1f9b9070-cde6-4588-bcbb-9b94c681c148" />
+  <img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/99ebfe59-84e6-4969-9837-c5a8c3835105" />
 </div>
 
 - Typography:
