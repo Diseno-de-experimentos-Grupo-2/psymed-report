@@ -533,10 +533,6 @@ Agenda Profesional: Calendario donde los profesionales pueden ver todas sus cita
 
 ![Wireframes.jpg](/assets/MockUps(2).png)
 
-Datos del Paciente: Pantalla que permite a los profesionales acceder a toda la información relevante de un paciente, incluyendo historial médico y documentación.
-
-![Wireframes.jpg](/assets/MockUps(7).png)
-
 Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
 
 ![Wireframes.jpg](/assets/MockUps(8).png)
@@ -544,10 +540,6 @@ Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los e
 Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
 
 ![Wireframes.jpg](/assets/MockUps(1).png)
-
-Pacientes Home: Pantalla principal de los pacientes, desde la cual pueden acceder a sus funciones, como el registro diario y la visualización de su agenda.
-
-![Wireframes.jpg](/assets/MockUps(17).png)
 
 Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
 
