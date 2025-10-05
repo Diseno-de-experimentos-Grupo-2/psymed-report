@@ -422,7 +422,7 @@ Profesionales Home: Pantalla de inicio para los profesionales de la salud, que p
 
 ![Wireframes.jpg](/assets/WireFrames(14).png)
 
-Perfil Profesional: Sección donde los profesionales pueden ver y editar su información personal y profesional, como nombre, especialidad y datos de contacto.
+Perfil Profesional: Sección donde los profesionales pueden ver su información personal y profesional.
 
 ![Wireframes.jpg](/assets/WireFrames(12).png)
 
@@ -465,10 +465,6 @@ Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los e
 Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
 
 ![Wireframes.jpg](/assets/WireFrames(1).png)
-
-Pacientes Home: Pantalla principal de los pacientes, desde la cual pueden acceder a sus funciones, como el registro diario y la visualización de su agenda.
-
-![Wireframes.jpg](/assets/WireFrames(17).png)
 
 Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
 
