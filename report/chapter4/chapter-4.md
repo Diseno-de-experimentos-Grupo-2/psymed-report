@@ -406,8 +406,14 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/caa69590-976b-4524-b78e-a8bc2bd83afe" />
 </div>
 
-## 4.5. Mobile Applications Prototyping. (falta)
-### 4.5.1. Android Mobile Applications Prototyping. (falta)
+## 4.5. Mobile Applications Prototyping. 
+
+### 4.5.1. Android Mobile Applications Prototyping. 
+
+En esta sección se presenta el prototipo de la aplicación móvil para Android. El prototipo incluye las pantallas principales y la navegación diseñada para representar la experiencia del usuario.
+
+El prototipo puede visualizarse en el siguiente enlace: [https://marvelapp.com/prototype/34ij6a2g](https://marvelapp.com/prototype/34ij6a2g)
+
 ### 4.5.2. iOS Mobile Applications Prototyping. (falta)
 
 ## 4.6. Web Applications UX/UI Design
