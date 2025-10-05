@@ -359,13 +359,24 @@ Los pacientes pueden utilizar los metodos de busqueda por:
 
 **Para Psiquiatras:**
 
-En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes". En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos. "Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios. En "Perfil", se actualiza la información personal y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
+En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes".
+
+En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos.
+
+"Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios.
+
+En "Perfil", se visualiza la información personal del profesional y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
 
 **Para Pacientes:**
 
-Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual". En "Lista de Tareas", pueden ver y marcar tareas asignadas como completadas. "Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos. "Citas" permite ver y gestionar citas programadas, mientras que "Perfil" facilita la actualización de la información personal.
+Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas" y "Tratamiento Actual".
+
+"Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos.
+
+"Citas" permite ver y gestionar citas programadas, mientras que "Perfil" muestra la información personal del paciente.
 
 Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
