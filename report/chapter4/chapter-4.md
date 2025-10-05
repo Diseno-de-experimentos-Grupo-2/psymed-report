@@ -550,61 +550,65 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 ![Wireframes.jpg](/assets/MockUps(19).png)
 
 ### 4.6.4. Web Applications User Flow Diagrams
-![Group 53.png](/assets/public/imagenes/User%20Flow/Group%2053.png)
+
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/247e37f4-58ad-487d-8d8b-15fa5c99aadb" />
+
 En este flow se puede ver el proceso por el que el medico agenda citas.
 
-![Group 54.png](/assets/public/imagenes/User%20Flow/Group%2054.png)
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/375be863-e43a-4a07-bf91-7d82dff3f3e9" />
+
 En este flow se puede ver el proceso por el que se ve las citas de un paciente.
 
-![Group 58.png](/assets/public/imagenes/User%20Flow/Group%2058.png)
-En este flow se puede ver el proceso por el que se ve las notas de las sesion.
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/1970f751-ad66-4eb0-9657-4df8535b955a" />
 
-![Group 59.png](/assets/public/imagenes/User%20Flow/Group%2059.png)
 En este flow se puede ver el proceso por el que se ve el registro de citas de un paciente.
 
-![Group 60.png](/assets/public/imagenes/User%20Flow/Group%2060.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/5d820bbf-715c-44f5-842b-4e26341cce03" />
+
 En este flow se puede ver como el profesional añade diagnosticos a los pacientes.
 
-![Group 61.png](/assets/public/imagenes/User%20Flow/Group%2061.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/83c267f8-da70-46a7-a01a-5c9fdf162862" />
+
 En este flow se puede ver como el profesional edita los diganosticos de los pacientes.
 
-![Group 62.png](/assets/public/imagenes/User%20Flow/Group%2062.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/f22421cd-2efa-42b3-ab76-f6bc1ff2cf42" />
+
 En este flow se puede ver como el profesional edita el historial clinico de los pacientes.
 
-![Group 63.png](/assets/public/imagenes/User%20Flow/Group%2063.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/5e464f8f-972b-4d18-8159-47b07db6f554" />
+
 En este flow se puede ver como el profesional añade un historial clinico al paciente.
 
-![Group 64.png](/assets/public/imagenes/User%20Flow/Group%2064.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/36d9fb44-c986-4bf2-9947-1b7c90318b07" />
+
 En este flow se puede ver como el profesional edita los datos de los pacientes
 
-![Group 65.png](/assets/public/imagenes/User%20Flow/Group%2065.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/78c64038-1da0-489d-8094-9ab927bd2481" />
+
 En este flow se puede ver como el profesional observa las funciones biologicas
 
-![Group 66.png](/assets/public/imagenes/User%20Flow/Group%2066.png)
-En este flow se puede ver como el profesional observa la pantalla de lista de tareas
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/3109dfc8-9a5a-4434-893b-e934f31cca71" />
 
-![Group 67.png](/assets/public/imagenes/User%20Flow/Group%2067.png)
-En este flow se puede ver como el profesional añade tareas a la lista de tareas.
-
-![Group 68.png](/assets/public/imagenes/User%20Flow/Group%2068.png)
 En este flow se puede ver como el profesional añade una lista de medicamentos.
 
-![Group 69.png](/assets/public/imagenes/User%20Flow/Group%2069.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/ef7bd505-0b7f-465b-bef0-b7354baaca9c" />
+
 En este flow se puede observar como administra los medicamentos de los pacientes.
 
-![Group 70.png](/assets/public/imagenes/User%20Flow/Group%2070.png)
-En este flow se puede observar como el profecional ingresa a la pantalla de MoodStates.
+<img width="1000" height="330" alt="image" src="https://github.com/user-attachments/assets/21e51621-7e04-4ee0-9374-c8f5061504a4" />
 
-![Group 71.png](/assets/public/imagenes/User%20Flow/Group%2071.png)
 En este flow se puede observar como el profesional agrega un nuevo paciente.
 
-![Group 72.png](/assets/public/imagenes/User%20Flow/Group%2072.png)
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/3442137b-e316-4fdf-9fd1-2b32ee3497f7" />
+
 En este flow se puede observar como el profesional observa la pantalla de perfil.
 
-![Group 73.png](/assets/public/imagenes/User%20Flow/Group%2073.png)
+<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/537e9611-cb33-40ac-8156-64e252131860" />
+
 En este flow se puede observar como el profesional se loguea e ingresa a la pagina principal.
 
-![Group 74.png](/assets/public/imagenes/User%20Flow/Group%2074.png)
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/bf65b57c-e2ef-4852-bb9a-3de515237134" />
+
 En este flow se puede observar como el profesional se registra en la plataforma.
 
 ## 4.7. Web Applications Prototyping
