@@ -396,7 +396,10 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/bed0395c-376d-40c2-b183-33c46bff87f8" />
 
-### 4.4.3. Mobile Applications Mock-ups. (si tenemos, de ahi les paso el figma)
+### 4.4.3. Mobile Applications Mock-ups. 
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/0ee2fd86-5555-4831-8463-b6c6133e65a5" />
+
 ### 4.4.4. Mobile Applications User Flow Diagrams. (falta)
 ## 4.5. Mobile Applications Prototyping. (falta)
 ### 4.5.1. Android Mobile Applications Prototyping. (falta)
