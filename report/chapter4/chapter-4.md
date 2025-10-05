@@ -178,6 +178,38 @@ La interfaz en iOS adopta el estilo de bottom navigation bar y app bars minimali
 Consistency with Flutter:
 Si bien la aplicación se desarrolla en Flutter, se han respetado los lineamientos de iOS para garantizar que la experiencia sea nativa y coherente. Los componentes visuales en Flutter siguen las métricas y proporciones recomendadas por Apple, asegurando que el usuario perciba un diseño alineado con la plataforma.
 
+#### 4.1.3.2. Android Mobile Style Guidelines
+
+- Colors:
+Los mismos colores base de la identidad de PSYMED se adaptan a la Material Design Guidelines de Google, aplicando jerarquías cromáticas en botones, fondos y textos.
+
+  - #308C83 (Teal Profundo): Color primario para la app bar y acciones principales.
+
+<div align="center">
+  <img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/be25fba9-70cd-44d6-9b64-28f1a6a6e45b" />
+</div>
+
+  - #69BFB7 (Teal Suave): Tono complementario para estados activos, iconografía y destacados.
+
+<div align="center">
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/312fbcbc-462a-475f-8e95-3ded7065b0f4" />
+</div>
+
+  - #C2F2ED (Aqua Ligero): Color de fondo para mantener claridad y calma visual.
+
+<div align="center">
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/1f9b9070-cde6-4588-bcbb-9b94c681c148" />
+</div>
+
+- Typography:
+Se emplea la fuente nativa Roboto, estándar en Android, asegurando legibilidad y consistencia con las guías de Material Design.
+
+- Navigation & Components:
+La navegación principal se implementa mediante un Navigation Drawer o Bottom Navigation Bar, según la complejidad de la sección. Los componentes UI siguen patrones de Material Design (botones flotantes, tarjetas, chips), con un uso claro de sombras y elevaciones.
+
+- Gestures:
+El diseño incorpora gestos comunes en Android, como long press para abrir menús contextuales o drag & drop en elementos interactivos.
+
 ## 4.2. Information Architecture
 La sección de arquitectura de la información se centra en 
 estructurar el contenido tanto de la aplicación web como 
