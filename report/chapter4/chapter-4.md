@@ -723,18 +723,6 @@ Diagrama dividido por Bounded Context:
   </tr>
   <tr>
     <td rowspan="2" colspan="1">3</td>
-    <td rowspan="2" colspan="2">Diagnosis</td>
-    <td colspan="2">name</td>
-    <td colspan="4">Nombre del diagnóstico</td>
-    <td colspan="2">String</td>
-  </tr>
-  <tr>
-    <td colspan="2">code</td>
-    <td colspan="4">Código del diagnóstico</td>
-    <td colspan="2">int</td>
-  </tr>
-  <tr>
-    <td rowspan="2" colspan="1">4</td>
     <td rowspan="2" colspan="2">BiologicalFunction</td>
     <td colspan="2">hunger</td>
     <td colspan="4">Nivel de hambre del paciente</td>
@@ -746,24 +734,7 @@ Diagrama dividido por Bounded Context:
     <td colspan="2">int</td>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1">5</td>
-    <td rowspan="3" colspan="2">TreatmentTask</td>
-    <td colspan="2">id</td>
-    <td colspan="4">Identificador de la tarea de tratamiento</td>
-    <td colspan="2">int</td>
-  </tr>
-  <tr>
-    <td colspan="2">name</td>
-    <td colspan="4">Nombre de la tarea</td>
-    <td colspan="2">String</td>
-  </tr>
-  <tr>
-    <td colspan="2">completionStatus</td>
-    <td colspan="4">Estado de la tarea</td>
-    <td colspan="2">bool</td>
-  </tr>
-  <tr>
-    <td rowspan="2" colspan="1">6</td>
+    <td rowspan="2" colspan="1">4</td>
     <td rowspan="2" colspan="2">Professional</td>
     <td colspan="2">id</td>
     <td colspan="4">Identificador del profesional</td>
@@ -775,7 +746,7 @@ Diagrama dividido por Bounded Context:
     <td colspan="2">List<Patient></td>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1">7</td>
+    <td rowspan="3" colspan="1">5</td>
     <td rowspan="3" colspan="2">User</td>
     <td colspan="2">id</td>
     <td colspan="4">Identificador del usuario</td>
