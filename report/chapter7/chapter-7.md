@@ -25,3 +25,17 @@
 ## 7.3 Continuous deployment
 ### 7.3.1 Tool and Practices.
 ### 7.3.2 Production Deployment Pipeline Components.
+
+Los elementos fundamentales de un pipeline orientado al despliegue en producción son los siguientes:
+
+**a. Construcción (Build):** Se compila el código fuente y se generan los artefactos listos para ser distribuidos en el entorno productivo.
+
+**b. Validación (Testing):** Se ejecutan pruebas automatizadas con el fin de asegurar que la aplicación cumple los criterios de calidad establecidos y que no se introducen fallos no previstos.
+
+**c. Entorno de Preproducción (Staging):** Antes del despliegue definitivo, la solución se implementa en un ambiente intermedio para la realización de pruebas adicionales y validación por parte de un grupo reducido de usuarios.
+
+**d. Implementación en Producción (Production Deployment):** Se lleva a cabo el despliegue automático de los artefactos en el entorno productivo.
+
+**e. Supervisión Continua (Continuous Monitoring):** Una vez desplegada, la aplicación es monitoreada de manera constante para garantizar su rendimiento, disponibilidad y estabilidad, atendiendo incidentes en tiempo real.
+
+**f. Reversión (Rollback):** Ante la detección de fallas críticas, el pipeline contempla mecanismos de reversión inmediata hacia una versión previa estable de la aplicación.
