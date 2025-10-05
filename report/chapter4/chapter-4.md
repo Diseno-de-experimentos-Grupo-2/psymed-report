@@ -392,7 +392,10 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/44df38aa-f383-4931-9454-adb51ceb70f3" />
 
-### 4.4.2. Mobile Applications Wireflow Diagrams. (todavia no tenemos)
+### 4.4.2. Mobile Applications Wireflow Diagrams.
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/bed0395c-376d-40c2-b183-33c46bff87f8" />
+
 ### 4.4.3. Mobile Applications Mock-ups. (si tenemos, de ahi les paso el figma)
 ### 4.4.4. Mobile Applications User Flow Diagrams. (falta)
 ## 4.5. Mobile Applications Prototyping. (falta)
