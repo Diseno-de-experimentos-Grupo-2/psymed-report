@@ -346,7 +346,6 @@ para el Web Side:
 Los médicos pueden utilizar los métodos de búsqueda por:
 
 - Filtrado de Información por Fechas:
-    - Búsqueda de notas por fecha
     - Búsqueda de sesiones por fecha
     - Búsqueda de diagnósticos por fecha
     - Búsqueda de prescripciones por fecha
@@ -354,8 +353,7 @@ Los médicos pueden utilizar los métodos de búsqueda por:
   
 Los pacientes pueden utilizar los metodos de busqueda por: 
 - Filtrado de informacion por ID
-    - busqueda de tareas por ID
-    - confirmacion de tareas por ID
+    - Confirmación de prescripciones por ID
 
 ### 4.2.5. Navigation Systems
 
