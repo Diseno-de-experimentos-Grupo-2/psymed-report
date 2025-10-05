@@ -24,6 +24,19 @@
 
 ## 7.3 Continuous deployment
 ### 7.3.1 Tool and Practices.
+
+Dentro del enfoque de Continuous Deployment se consideran diversas herramientas y prácticas esenciales para garantizar la confiabilidad y la automatización del proceso:
+
+**a. Sistema de Control de Versiones:** Se emplea Git como herramienta principal para gestionar y dar seguimiento a los cambios en el código fuente.
+
+**b. Automatización de Pruebas:** Se implementan pruebas automatizadas —unitarias, de integración y de regresión— con el objetivo de verificar la calidad del software antes de su liberación.
+
+**c. Entornos Consistentes:** Se mantienen entornos de desarrollo y prueba que reproducen de forma cercana las condiciones del entorno productivo, reduciendo riesgos durante el despliegue.
+
+**d. Pipeline de Despliegue Automatizado:** Se define un flujo de despliegue que contempla fases como compilación, pruebas, despliegue en staging y despliegue en producción.
+
+**e. Supervisión y Retroalimentación:** Se incorporan mecanismos de monitoreo y registro (logging) que permiten observar el rendimiento y la estabilidad de la aplicación en tiempo real, facilitando la detección temprana de incidencias y la toma de decisiones rápidas.
+
 ### 7.3.2 Production Deployment Pipeline Components.
 
 Los elementos fundamentales de un pipeline orientado al despliegue en producción son los siguientes:
