@@ -637,10 +637,6 @@ El prototipo completo puede visualizarse en el siguiente enlace:[https://marvela
 
 ![C4Model](/assets/ComponentDiagramAccess.png)
 
-#### Bounded Context Sessions Notes Diagram
-
-![C4Model](/assets/ComponentDiagramSession.png)
-
 #### Bounded Context Patient Tracker Diagram
 
 ![C4Model](/assets/ComponentDiagramUserManagement.png)
@@ -660,10 +656,6 @@ El prototipo completo puede visualizarse en el siguiente enlace:[https://marvela
 #### Bounded Context Appointment and Administration Diagram
 
 ![C4Model](/assets/ComponentDiagramAppointmentAdministration.png)
-
-#### Bounded Context Dashboard and Analysis Diagram
-
-![C4Model](/assets/ComponentDiagramStatisticsAnalysis.png)
 
 ## 4.9. Software Object-Oriented Design.
 ### 4.9.1. Class Diagrams.
