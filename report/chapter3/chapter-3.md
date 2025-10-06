@@ -6,82 +6,1196 @@
 ### Segmento Pacientes:
 ![Pattients_TobeScenarioMapping](../../assets/to-be-paciente.jpg)
 ## 3.2. User Stories.
+US01 - Registro como profesional de la salud mental
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US01</td>
+<td>Profesional de la salud mental</td>
+<td>8</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Registro como profesional de la salud mental</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como profesional de la salud mental, quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Registro de datos exitoso</b>
 
-| ID   | Título                                                | Descripción                                                                                                                                                                    | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | EpicID   |
-|------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| EP01 | Accesibilidad de la Landing Page                       | Como visitante de la Landing Page, quiero que la información sobre la aplicación sea fácil de entender para poder comprender rápidamente su propósito.                           | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP02 | Interfaz de la Landing Page                            | Como visitante de la Landing Page, quiero que la página sea visualmente agradable para que atraiga mi atención.                                                                 | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP03 | Acceso a la aplicación                                 | Como usuario de la aplicación, quiero acceder con mi información para hacer uso de las características disponibles.                                                             | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP04 | Registro de información del paciente                   | Como profesional de la salud mental, quiero registrar información de mis pacientes para manejar su historial clínico y ajustar sus planes de tratamiento de manera efectiva.      | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP05 | Seguimiento del tratamiento del paciente               | Como profesional de la salud mental, quiero hacer un seguimiento de mis pacientes para asegurar la eficiencia del tratamiento del paciente.                                       | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP06 | Registro de actualizaciones del tratamiento            | Como profesional de la salud mental, quiero hacer actualizaciones a los registros del tratamiento para que el paciente reciba actualizaciones después de cada sesión.              | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP07 | Recepción de actualizaciones del tratamiento           | Como paciente, quiero recibir las indicaciones y ajustes de mi tratamiento para estar en constante comunicación con mi profesional de salud mental.                               | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP08 | Registro de cumplimiento del tratamiento               | Como paciente quiero registrar mi progreso para que mi terapeuta esté al pendiente de mi estado de salud mental.                                                                | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| EP09 | Gestión de información de la cuenta                    | Como usuario quiero gestionar mi información según mis necesidades para mantener siempre información actualizada y precisa.                                                     | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | No corresponde |
-| US01 | Adaptabilidad y compatibilidad de la Landing Page      | Como visitante de la Landing Page, quiero que el contenido se adapte al tamaño de la pantalla del dispositivo desde el que accede para obtener la información de manera ordenada. | **Scenario 1**: Adaptabilidad a diferentes tamaños de pantalla <br> **Given** el visitante se encuentra en la landing page, <br> **When** ingresa al sitio web, <br> **Then** la landing page debe poseer un contenido que se ajuste automáticamente al tamaño de la pantalla. <br><br> **Scenario 2**: Compatibilidad con navegadores principales <br> **Given** el visitante se encuentra en la landing page, <br> **When** utiliza su navegador de preferencia, <br> **Then** la landing page debe ser compatible.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP01   |
-| US02 | Encontrar información del propósito de la aplicación   | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.            | **Scenario 1**: Visibilidad del propósito de la aplicación <br> **Given** el visitante se encuentra en la landing page, <br> **When** explora la página principal, <br> **Then** la landing page debe poseer información clara y concisa para el visitante. <br><br> **Scenario 2**: Acceso rápido a los planes de la aplicación <br> **Given** el visitante se encuentra en la sección de planes de la landing page, <br> **When** ingresa en la opcion de "Más información", <br> **Then** la landing page debe dirigirlo a una sección que detalle las características y precios del plan seleccionado.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | EP01   |
-| US03 | Visualización de imágenes y gráficos relevantes        | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.               | **Scenario 1**: Calidad de las imágenes <br> **Given** el visitante se encuentra en la landing page, <br> **When** explora la página principal, <br> **Then** la landing page debe presentar imágenes de alta calidad y relevantes que capten la atención del visitante. <br><br> **Scenario 2**: Relevancia de los gráficos <br> **Given** el visitante se encuentra en la landing page, <br> **When** se desplaza, <br> **Then** la landing page debe mostrar gráficos que ayuden al visitante a comprender el contenido.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EP02   |
-| US04 | Tipografía cómoda y agradable estéticamente            | Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.                         | **Scenario 1**: Legibilidad de la tipografía <br> **Given** el visitante se encuentra en la landing page, <br> **When** se desplaza a través de la página principal, <br> **Then** la landing page debe poseer una tipografía clara y de un tamaño adecuado para facilitar la lectura. <br><br> **Scenario 2**: Consistencia en el estilo tipográfico <br> **Given** el visitante se encuentra en la landing page, <br> **When** cambia de sección, <br> **Then** la landing page debe mostrar un estilo tipográfico consistente para mantener la coherencia visual.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP02   |
-| US05 | Registro como profesional de la salud mental           | Como profesional de la salud mental quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.      | **Scenario 1**: Registro de datos exitoso <br> **Given** el profesional de la salud mental ha completado todos los campos del formulario de registro, <br> **When** ingresa  a la opcion de "Crear cuenta", <br> **Then** la cuenta se crea, <br> **And** el profesional accede a la aplicación con el rol de profesional de la salud mental. <br><br> **Scenario 2**: Registro de datos incompleto <br> **Given** el profesional de la salud mental no ha completado todos los campos del formulario de registro, <br> **When** preciona el botón "Crear cuenta", <br> **Then** la plataforma muestra un mensaje de error indicando qué campos faltan por completar. <br><br> **Scenario 3**: Registro con credenciales ya utilizadas <br> **Given** el profesional de la salud mental ha completado todos los campos del formulario de registro usando un correo ya registrado, <br> **When** preciona el botón "Crear cuenta", <br> **Then** la plataforma muestra un mensaje de error indicando que el correo electrónico ya está en uso <br> **And** sugiere recuperar la contraseña. | EP03   |
-| US06 | Inicio de sesión como pacientes                        | Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.                                                       | **Scenario 1**: Inicio de sesión exitoso <br> **Given** el paciente ha ingresado su correo electrónico y contraseña correctamente, <br> **When** ingresa a la opcion de "Iniciar sesión", <br> **Then** accede a su cuenta <br> **And** es dirigido a su panel de control personal con el rol de paciente. <br><br> **Scenario 2**: Contraseña incorrecta <br> **Given** el paciente ha ingresado su correo y una contraseña incorrecta, <br> **When** preciona el botón de "Iniciar sesión", <br> **Then** la plataforma muestra un mensaje de error indicando que la contraseña es incorrecta <br> **And** ofrece la opción de restablecerla. <br><br> **Scenario 3**: Recuperación de contraseña <br> **Given** el paciente ha olvidado su contraseña, <br> **When** preciona el botón de "Olvidé mi contraseña", <br> **Then** la plataforma envía un enlace de restablecimiento de contraseña al correo electrónico registrado.                                                                                                                                                      | EP03   |
-| US07 | Inicio de sesión como profesional de la salud mental   | Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.               | **Scenario 1**: Inicio de sesión exitoso <br> **Given** el profesional de la salud mental ha ingresado su correo electrónico y contraseña correctamente, <br> **When** ingresa a la opcion de "Iniciar sesión", <br> **Then** accede a su cuenta <br> **And** es dirigido a su panel de control con acceso a herramientas avanzadas de gestión de pacientes y el rol de profesional de la salud. <br><br> **Scenario 2**: Contraseña incorrecta <br> **Given** el profesional de la salud mental ha ingresado su correo y una contraseña incorrecta, <br> **When** preciona el  botón de "Iniciar sesión", <br> **Then** la plataforma muestra un mensaje de error indicando que la contraseña es incorrecta <br> **And** ofrece la opción de restablecerla. <br><br> **Scenario 3**: Recuperación de contraseña <br> **Given** el profesional de la salud mental ha olvidado su contraseña, <br> **When** preciona el botón de "Olvidé mi contraseña", <br> **Then** la plataforma envía un enlace de restablecimiento de contraseña al correo electrónico registrado.                   | EP03   |
-| US08 | Registro de información personal del paciente          | Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.    | **Scenario 1**: Registro exitoso de información personal <br> **Given** el profesional de la salud mental ha ingresado todos los datos del formulario de información personal del paciente, <br> **When** preciona el botón de "Guardar", <br> **Then** la información personal del paciente se registra correctamente en la plataforma y está disponible para futuras consultas. <br><br> **Scenario 2**: Registro incompleto de información personal <br> **Given** el profesional de la salud mental no ha ingresado todos los datos del formulario de información personal del paciente, <br> **When** preciona el botón de "Guardar", <br> **Then** la plataforma muestra un mensaje de error indicando qué campos faltan por completar.                                                                                                                                                                                                                                                                                                                                             | EP04   |
-| US09 | Registro de medicamentos del paciente                  | Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.                                      | **Scenario 1**: Registro exitoso de medicamentos <br> **Given** el profesional de la salud mental ha ingresado todos los datos de los medicamentos de su paciente, <br> **When** ingresa a la opcion de "Guardar", <br> **Then** los datos del medicamento se registran correctamente en el sistema y se asocian al perfil del paciente. <br><br> **Scenario 2**: Registro incompleto de medicamentos <br> **Given** el profesional de la salud mental no ha ingresado todos los datos de los medicamentos de su paciente, <br> **When** preciona el botón de "Guardar", <br> **Then** la plataforma muestra un mensaje de error indicando los campos incompletos o incorrectos.                                                                                                                                                                                                                                                                                                                                                                                                          | EP04   |
-| US10 | Registro de historial médico del paciente              | Como profesional de la salud mental, quiero registrar el historial médico del paciente para tener un contexto completo de sus antecedentes.                                       | **Scenario 1**: Registro exitoso del historial previo <br> **Given** el profesional de la salud mental ha introducido todos los datos del historial previo del paciente, <br> **When**  preciona el botón de "Guardar", <br> **Then** la plataforma registra correctamente el historial del paciente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | EP04   |
-| US11 | Visualizar datos estadísticos de funciones biológicas  | Como profesional de la salud mental, quiero visualizar estadísticas de las necesidades fisiológicas del paciente para evaluar su estado físico a lo largo del tratamiento.        | **Scenario 1**: Visualización exitosa de datos estadísticos <br> **Given** el profesional de la salud mental ha accedido al perfil del paciente, <br> **When** ingresa al perfil del paciente, <br> **Then** la plataforma muestra los datos de manera clara, permitiendo una fácil interpretación.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP05   |
-| US12 | Visualización de los estados de ánimo del paciente     | Como profesional de la salud mental, quiero visualizar un registro de los estados de ánimo históricos del paciente para evaluar su progreso emocional.                           | **Scenario 1**: Visualización de estados de ánimo <br> **Given** el profesional de la salud mental ha accedido al perfil del paciente, <br> **When** selecciona la opción de visualizar estados de ánimo, <br> **Then** la plataforma muestra los registros de los estados de ánimo del paciente en un formato gráfico o cronológico. <br><br> **Scenario 2**: Estados de ánimo no registrados <br> **Given** el profesional de la salud mental ha accedido al perfil del paciente sin haber registrado ningún estado de ánimo del mismo, <br> **When** selecciona la opción de visualizar estados de ánimo, <br> **Then** la plataforma muestra un mensaje de error mencionando que no hay datos registrados y sugiere registrar los estados de ánimo.                                                                                                                                                                                                                                                                                                                                   | EP05   |
-| US13 | Visualizar información del consumo de medicamentos     | Como profesional de la salud mental, quiero visualizar registros del cumplimiento del paciente con el consumo de la medicación asignada para asegurarse de que este sigue el tratamiento correctamente. | **Scenario 1**: Visualización exitosa del consumo de medicamentos <br> **Given** el profesional de la salud mental ha accedido al perfil del paciente, <br> **When** selecciona la opción de visualizar el consumo de medicamentos, <br> **Then** la plataforma muestra una lista detallada con la información del cumplimiento del paciente con la medicación asignada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP05   |
-| US14 | Actualizar ingesta de pastillas                        | Como profesional de la salud mental, quiero actualizar la prescripción del paciente para ajustar las dosis al tratamiento si es necesario.                                        | **Scenario 1**: Actualización exitosa de ingesta de pastillas <br> **Given** el profesional de la salud mental ha accedido al perfil del paciente <br> **And** selecciona la opción para actualizar la ingesta de pastillas, <br> **When** modifica los datos y preciona el botón de "Guardar", <br> **Then** la plataforma actualiza la información de la ingesta de pastillas en el sistema. <br><br> **Scenario 2**: Actualización con datos incompletos o incorrectos <br> **Given** el profesional de la salud mental ha accedido al perfil del paciente <br> **And** selecciona la opción para actualizar la ingesta de pastillas, <br> **When** modifica los datos, pero deja campos requeridos incompletos y preciona el botón de "Guardar", <br> **Then** la plataforma muestra un mensaje de error indicando los campos que faltan completar antes de guardar.                                                                                                                                                                                                                  | EP06   |
-| US15 | Registro de apuntes por sesión                         | Como profesional de la salud mental, quiero registrar apuntes de la sesión para no olvidar aspectos importantes.                                                                 | **Scenario 1**: Registro de apunte exitoso <br> **Given** el profesional de la salud mental llenó la información de su apunte, <br> **When** preciona el botón "Guardar", <br> **Then** la plataforma guarda el apunte de acuerdo a la sesión.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP06   |
-| US16 | Actualizar apuntes de la sesión terapéutica            | Como profesional de la salud mental, quiero actualizar los apuntes de la sesión terapéutica para registrar cambios relevantes en el progreso del paciente relacionados a la sesión. | **Scenario 1**: Actualización exitosa de apuntes de la sesión <br> **Given** el profesional de la salud mental ha accedido a los apuntes de la sesión terapéutica del paciente, <br> **When** edita los apuntes y preciona el botón de "Guardar", <br> **Then** la plataforma actualiza los apuntes en la sesión seleccionada. <br><br> **Scenario 2**: Error al actualizar apuntes de la sesión <br> **Given** el profesional de la salud mental ha accedido a los apuntes de la sesión terapéutica del paciente, <br> **When** edita los apuntes, pero deja campos importantes sin completar y preciona botón de "Guardar", <br> **Then** la plataforma muestra un mensaje de error indicando los campos que faltan completar antes de guardar.                                                                                                                                                                                                                                                                                                                                         | EP06   |
-| US17 | Actualizar diagnóstico del paciente                    | Como profesional de la salud mental, quiero actualizar el diagnóstico del paciente para reflejar cambios en su condición, manteniendo así el diagnóstico alineado a la condición del paciente. | **Scenario 1**: Actualización exitosa del diagnóstico <br> **Given** el profesional de la salud mental ha accedido al diagnóstico actual del paciente, <br> **When** edita el diagnóstico y preciona en un botón de "Guardar", <br> **Then** la plataforma actualiza el nuevo diagnóstico del paciente, se notifica cualquier cambio importante y se guarda en el historial de diagnósticos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP06   |
-| US18 | Recibir notificaciones de recordatorios de actividades | Como paciente, quiero recibir notificaciones en la plataforma para realizar actividades a las horas acordadas por mi médico.                                                       | **Scenario 1**: Notificación para actividades en el horario programado <br> **Given** el paciente se encuentra en el dashboard <br> **And** ha aceptado recibir notificaciones de la aplicación, <br> **When** llega la hora programada para realizar la actividad, <br> **Then** la plataforma debe notificar al paciente, para que pueda atender a la actividad acordada.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EP07   |
-| US19 | Visualizar cambios en el dashboard                     | Como paciente, quiero visualizar un apartado principal con la información relevante de mi tratamiento para estar siempre actualizado sobre el estado de mi tratamiento.            | **Scenario 1**: Visualización de la pantalla principal <br> **Given** el paciente se encuentra en el dashboard de la aplicación <br> **And** la aplicación tiene datos recientes sobre el tratamiento del paciente, <br> **When** el paciente accede al tablero principal de la aplicación, <br> **Then** la plataforma debe mostrar un apartado destacado con la información más relevante y actualizada de su tratamiento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP07   |
-| US20 | Recibir notificaciones cuando el terapeuta agregue o modifique información | Como paciente, quiero recibir notificaciones cuando el terapeuta actualice información para estar al tanto de las novedades en mi tratamiento. | **Scenario 1**: Notificación de actualización de información <br> **Given** el paciente se encuentra en el dashboard de la aplicación <br> **And** ha aceptado recibir notificaciones de la aplicación <br> **When** el terapeuta guarda la nueva información en la plataforma, <br> **Then** la plataforma debe notificar al paciente, informando sobre la nueva actualización en su tratamiento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP07   |
-| US21 | Registro de estado de ánimo                            | Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver el progreso de mi tratamiento.                                                                  | **Scenario 1**: Registro de emoción <br> **Given** el paciente se encuentra en la sección de registros de estado emocional, <br> **When** registra su estado de ánimo actual, <br> **Then** la plataforma debe actualizar su estado emocional en el perfil del paciente. <br><br> **Scenario 2**: Almacenamiento de estado de ánimo <br> **Given** el paciente se encuentra en la sección de registros de estado emocional, <br> **And** posee un registro con cada uno de los estados que ingresó con anterioridad, <br> **When** ingresa al historial de estados de ánimo, <br> **Then** la plataforma debe mostrar un calendario con los estados del paciente a lo largo del tiempo.                                                                                                                                                                                                                                                                                                                                                                                                   | EP08   |
-| US22 | Confirmación de consumo de pastillas                   | Como paciente, quiero confirmar el consumo de mi medicamento para asegurarme de no olvidar ninguna dosis.                                                                       | **Scenario 1**: Registro de consumo de medicamentos <br> **Given** el paciente accede a la aplicación, <br> **When** accede a la sección de seguimiento de medicamentos, <br> **Then** la plataforma mostrará los medicamentos que debe tomar el paciente <br> **And** el paciente podrá confirmar su consumo. <br><br> **Scenario 2**: Seguimiento de pastillas <br> **Given** el paciente ha accedido a la sección de seguimiento de medicamentos, <br> **When** accede al historial del mismo, <br> **Then** la plataforma debe mostrar un calendario con los días que el paciente confirmó el consumo de sus medicamentos.                                                                                                                                                                                                                                                                                                                                                                                                                                                            | EP08   |
-| US23 | Registro de funciones biológicas                       | Como paciente, quiero registrar la calidad de mis funciones biológicas para poder ver mi progreso y que mi profesional a cargo también esté pendiente.                          | **Scenario 1**: Ingreso de funciones biológicas <br> **Given** el paciente ha accedido a la sección de registro de funciones biológicas, <br> **When** selecciona la opción de registrar funciones, <br> **Then** la plataforma debe permitir al paciente seleccionar su nivel de sueño, hambre, energía e hidratación en una escala del 1 al 10.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP08   |
-| US24 | Cambio de datos de acceso del paciente                 | Como profesional de la salud mental, quiero actualizar los datos de acceso del paciente para asegurar que su información esté siempre correcta y refleje cualquier cambio necesario. | **Scenario 1**: Actualización exitosa de los datos de acceso <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de datos de acceso del paciente, <br> **When** actualiza los datos requeridos <br> **And** preciona el botón de "Guardar", <br> **Then** la plataforma debe actualizar los datos de acceso del paciente y mostrar una confirmación de éxito. <br><br> **Scenario 2**: Error al actualizar los datos de acceso por falta de completación <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de datos de acceso del paciente, <br> **When** intenta actualizar los datos pero deja campos obligatorios sin completar <br> **And** preciona el botón de "Guardar", <br> **Then** la plataforma debe mostrar un mensaje de error indicando los campos que deben completarse para poder guardar los cambios.                                                                                                                                                                                                 | EP09   |
-| US25 | Cambio de información personal del profesional de salud mental | Como profesional de la salud mental, quiero actualizar mi información personal para mantener mis datos profesionales correctos y reflejar cualquier cambio relevante.           | **Scenario 1**: Actualización exitosa de la información personal <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de información personal, <br> **When** actualiza los datos requeridos <br> **And** preciona el botón de "Guardar", <br> **Then** la plataforma actualiza la información personal y muestra una confirmación de éxito. <br><br> **Scenario 2**: Error al actualizar la información personal por falta de completación <br> **Given** el profesional de la salud mental ha accedido a la sección de cambio de información personal, <br> **When** intenta actualizar los datos pero deja campos obligatorios sin completar <br> **And** preciona el botón de "Guardar", <br> **Then** la plataforma muestra un mensaje de error indicando los campos que deben completarse para poder guardar los cambios.                                                                                                                                                                                                                             | EP09   |
-| TS01 | Añadir paciente a través de un RESTful API                            | Como desarrollador, quiero que se pueda añadir a un paciente a través de un API, para que el profesional de salud mental registre al paciente.                                                                                                  | **Scenario 1**: Añadir paciente con DNI único <br> **Given** el endpoint “/api/v1/patients” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, fecha de nacimiento, nombre de usuario y contraseña, <br> **Then** se recibe un response con un status 201 y el recurso del paciente es incluido en el Body del response con un nuevo id y los valores registrados de su usuario, nombre y correo. <br><br> **Scenario 2**: Añadir paciente con DNI repetido <br> **Given** el endpoint “/api/v1/patients” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, fecha de nacimiento, nombre de usuario y contraseña, <br> **And** un recurso de paciente tiene el mismo valor de dni que el que viene en el request, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response, con un mensaje que diga: “Ya existe un paciente registrado con el mismo DNI”.                                                                             | No corresponde |
-| TS02 | Añadir profesional de la salud mental a través de un RESTful API      | Como desarrollador, quiero implementar la opción de añadir un profesional de la salud mental a través de una API RESTful, para que este pueda interactuar con los pacientes en el sistema.                                                      | **Scenario 1**: Añadir profesional con DNI único <br> **Given** el endpoint “/api/v1/profesionales” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, especialidad, nombre de usuario y contraseña, <br> **Then** se recibe un response con un status 201 y el recurso del profesional es incluido en el body del response con un nuevo id y los valores registrados de su nombre, apellido y especialidad. <br><br> **Scenario 2**: Añadir profesional con DNI repetido <br> **Given** el endpoint “/api/v1/profesionales” está disponible, <br> **When** un POST request es enviado con los valores de nombre, apellido, correo, dni, especialidad, nombre de usuario y contraseña, <br> **And** un recurso de profesional tiene el mismo valor de dni que el que viene en el request, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response, con un mensaje que diga: “Ya existe un profesional registrado con el mismo DNI”.                                                           | No corresponde |
-| TS03 | Eliminar paciente a través de un RESTful API                          | Como desarrollador, quiero implementar la funcionalidad para eliminar un paciente a través de una API RESTful, para gestionar correctamente la eliminación de registros de pacientes según sea necesario.                                         | **Scenario 1**: Eliminar paciente existente <br> **Given** el endpoint “/api/v1/pacientes/{id}” está disponible, <br> **And** existe un paciente con el id especificado, <br> **When** un DELETE request es enviado al endpoint con el id del paciente, <br> **Then** se recibe un response con un status 204 y el recurso del paciente es eliminado del sistema. <br><br> **Scenario 2**: Intentar eliminar paciente inexistente <br> **Given** el endpoint “/api/v1/pacientes/{id}” está disponible, <br> **And** no existe un paciente con el id especificado, <br> **When** un DELETE request es enviado al endpoint con el id del paciente, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Paciente no encontrado”.                                                                                                                                                                                                                                                                                                           | No corresponde |
-| TS04 | Eliminar profesional de la salud mental a través de un RESTful API    | Como desarrollador, quiero implementar la funcionalidad para eliminar un profesional de la salud mental a través de una API RESTful, de manera que el sistema pueda gestionar correctamente la eliminación de registros de profesionales según sea necesario. | **Scenario 1**: Eliminar profesional existente <br> **Given** el endpoint “/api/v1/profesionales/{id}” está disponible, <br> **And** existe un profesional con el id especificado, <br> **When** un DELETE request es enviado al endpoint con el id del profesional, <br> **Then** se recibe un response con un status 204 y el recurso del profesional es eliminado del sistema. <br><br> **Scenario 2**: Intentar eliminar profesional inexistente <br> **Given** el endpoint “/api/v1/profesionales/{id}” está disponible, <br> **And** no existe un profesional con el id especificado, <br> **When** un DELETE request es enviado al endpoint con el id del profesional, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Profesional no encontrado”.                                                                                                                                                                                                                                                                           | No corresponde |
-| TS05 | Inicio de sesión a través de un RESTful API                           | Como desarrollador, quiero implementar la característica de inicio de sesión a través de una API RESTful, para que los usuarios puedan autenticarse y acceder a las funcionalidades del sistema de manera segura.                                 | **Scenario 1**: Inicio de sesión exitoso <br> **Given** el endpoint “/api/v1/login” está disponible, <br> **When** un POST request es enviado con los valores de nombre de usuario y contraseña correctos, <br> **Then** se recibe un response con un status 200 y un token JWT es incluido en el body del response para futuras autenticaciones. <br><br> **Scenario 2**: Inicio de sesión fallido por credenciales incorrectas <br> **Given** el endpoint “/api/v1/login” está disponible, <br> **When** un POST request es enviado con valores de nombre de usuario o contraseña incorrectos, <br> **Then** se recibe un response con un status 401 y un mensaje en el body del response que diga: “Credenciales incorrectas”.                                                                                                                                                                                                                                                                                                                                                         | No corresponde |
-| TS06 | Añadir historial médico del paciente a través de un RESTful API         | Como desarrollador, quiero implementar la opción para añadir un historial previo del paciente a través de una API RESTful, para que el sistema pueda almacenar y gestionar la información clínica anterior del paciente para su consulta y análisis posterior. | **Scenario 1**: Añadir historial previo con datos válidos <br> **Given** el endpoint “/api/v1/medical-records” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, fecha, diagnóstico, tratamiento, y observaciones, <br> **Then** se recibe un response con un status 201 y el recurso del historial es incluido en el body del response con un nuevo id y los valores registrados. <br><br> **Scenario 2**: Intentar añadir historial con datos faltantes <br> **Given** el endpoint “/api/v1/historiales” está disponible, <br> **When** un POST request es enviado con alguno de los valores requeridos (id del paciente, fecha, diagnóstico) faltante, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Faltan datos requeridos para el historial del paciente”.                                                                                                                                                                                                                      | No corresponde |
-| TS07 | Añadir medicamentos de un paciente a través de un RESTful API           | Como desarrollador, quiero implementar la opción para añadir medicamentos prescritos a un paciente a través de una API RESTful, de manera que la medicación del paciente quede registrada y pueda ser consultada y actualizada según sea necesario. | **Scenario 1**: Añadir medicamentos con datos válidos <br> **Given** el endpoint “/api/v1/medicines” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, nombre del medicamento, dosis, frecuencia, y duración del tratamiento, <br> **Then** se recibe un response con un status 201 y el recurso del medicamento es incluido en el body del response con un nuevo id y los valores registrados. <br><br> **Scenario 2**: Intentar añadir medicamento con datos faltantes <br> **Given** el endpoint “/api/v1/medicamentos” está disponible, <br> **When** un POST request es enviado con alguno de los valores requeridos (nombre del medicamento, dosis, frecuencia) faltante, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Faltan datos requeridos para registrar el medicamento”.                                                                                                                                                                                                 | No corresponde |
-| TS08 | Recuperar datos estadísticos de funciones biológicas del paciente       | Como desarrollador, quiero implementar la opción de recuperar datos estadísticos de funciones biológicas del paciente a través de una API RESTful, de manera que esta información pueda ser almacenada y analizada para el monitoreo de la salud del paciente. | **Scenario 1**: Recuperar datos estadísticos válidos <br> **Given** el endpoint “/api/v1/estadisticas/biologicas/{id}” está disponible, <br> **When** un GET request es enviado con los valores de id del paciente, <br> **Then** se recibe un response con un status 200. <br><br> **Scenario 2**: Intentar recuperar datos estadísticos con id inexistente <br> **Given** el endpoint “/api/v1/statistics/biologic/{id}” está disponible, <br> **When** un GET request es enviado y el id enviado en la petición no existe, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “El id no existe”.                                                                                                                                                                                                                                                                                                                                                                                                                                     | No corresponde |
-| TS09 | Recuperar datos del estado de ánimo del paciente a través de un API     | Como desarrollador, quiero implementar la opción para recuperar datos del estado de ánimo del paciente a través de una API RESTful, de manera que esta información pueda ser utilizada para el seguimiento y tratamiento del paciente.                | **Scenario 1**: Recuperar datos del estado de ánimo válidos <br> **Given** el endpoint “/api/v1/statistics/mood/:id” está disponible, <br> **When** un GET request es enviado con los valores de id del paciente y fecha, <br> **Then** se recibe un response con un status 200 y los datos del estado de ánimo son recuperados y un resumen se incluye en el body del response. <br><br> **Scenario 2**: Intentar recuperar datos del estado de ánimo de un usuario inexistente <br> **Given** el endpoint “/api/v1/statistics/mood” está disponible, <br> **When** un GET request es enviado con el valor del id que no existe, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “El id del usuario no existe”.                                                                                                                                                                                                                                                                                                                     | No corresponde |
-| TS10 | Recuperar datos de consumo de medicamentos válidos                     | Como desarrollador, quiero implementar la opción de recuperar datos del consumo de medicamentos del paciente a través de una API RESTful, de manera que se pueda hacer seguimiento al cumplimiento del tratamiento por parte del paciente.             | **Scenario 1**: Recuperar datos de consumo de medicamentos válidos <br> **Given** el endpoint “/api/v1/consumption/medication” está disponible, <br> **When** un GET request es enviado con los valores de id del paciente y fecha, <br> **Then** se recibe un response con un status 200 y los datos del consumo de medicamentos son recuperados y un resumen se incluye en el body del response. <br><br> **Scenario 2**: Intentar recuperar datos de consumo de medicamentos con id de paciente incorrecto <br> **Given** el endpoint “/api/v1/consumption/medication” está disponible, <br> **When** un GET request es enviado con el valor del id del paciente erróneo, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “El paciente no existe”.                                                                                                                                                                                                                                                                                | No corresponde |
-| TS11 | Actualizar información de consumo de pastillas del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar la información de consumo de pastillas del paciente a través de una API RESTful, de manera que se pueda corregir o actualizar los registros de consumo en caso de errores o cambios en el tratamiento. | **Scenario 1**: Actualizar información de consumo de pastillas existente <br> **Given** el endpoint “/api/v1/consumo/medicamentos/{id}” está disponible, <br> **When** un PUT request es enviado con los valores de dosis tomada y fecha y hora actualizados, <br> **Then** se recibe un response con un status 200 y los datos de consumo son actualizados en el sistema y el recurso actualizado se incluye en el body del response. <br><br> **Scenario 2**: Intentar actualizar información de consumo con id inexistente <br> **Given** el endpoint “/api/v1/consumo/medicamentos/{id}” está disponible, <br> **And** no existe un registro de consumo con el id especificado, <br> **When** un PUT request es enviado al endpoint con el id del registro de consumo, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Registro de consumo no encontrado”.                                                                                                                                                                      | No corresponde |
-| TS12 | Actualizar apuntes de la sesión terapéutica a través de un RESTful API  | Como desarrollador, quiero implementar la opción de actualizar los apuntes de una sesión terapéutica a través de una API RESTful, de manera que el profesional de salud mental pueda mantener los registros de la sesión actualizados.            | **Scenario 1**: Actualizar apuntes de sesión existente <br> **Given** el endpoint “/api/v1/sesiones/{id}/apuntes” está disponible, <br> **When** un PUT request es enviado con los valores de id de la sesión y los nuevos apuntes, <br> **Then** se recibe un response con un status 200 y los apuntes de la sesión son actualizados en el sistema y el recurso actualizado se incluye en el body del response. <br><br> **Scenario 2**: Intentar actualizar apuntes con id de sesión inexistente <br> **Given** el endpoint “/api/v1/sesiones/{id}/apuntes” está disponible, <br> **And** no existe una sesión con el id especificado, <br> **When** un PUT request es enviado al endpoint con el id de la sesión, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Sesión no encontrada”.                                                                                                                                                                                                                                         | No corresponde |
-| TS13 | Añadir apuntes de la sesión terapéutica a través de un RESTful API      | Como desarrollador, quiero implementar la funcionalidad para añadir apuntes de una sesión terapéutica a través de una API RESTful, de manera que el profesional de salud mental pueda registrar información relevante sobre la sesión y el progreso del paciente. | **Scenario 1**: Añadir apuntes con datos válidos <br> **Given** el endpoint “/api/v1/sessions/{id}/notes” está disponible, <br> **When** un POST request es enviado con los valores de id de la sesión y los nuevos apuntes, <br> **Then** se recibe un response con un status 201 y los apuntes de la sesión son almacenados en el sistema y el recurso creado se incluye en el body del response. <br><br> **Scenario 2**: Intentar añadir apuntes a una sesión inexistente <br> **Given** el endpoint “/api/v1/sessions/{id}/notes” está disponible, <br> **And** no existe una sesión con el id especificado, <br> **When** un POST request es enviado al endpoint con el id de la sesión, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Sesión no encontrada”.                                                                                                                                                                                                                                                               | No corresponde |
-| TS14 | Actualizar diagnóstico del paciente a través de un RESTful API          | Como desarrollador, quiero implementar la opción de actualizar el diagnóstico del paciente a través de una API RESTful, de manera que el profesional de salud mental pueda modificar y mantener actualizado el diagnóstico del paciente en el sistema. | **Scenario 1**: Actualizar diagnóstico existente <br> **Given** el endpoint “/api/v1/diagnostics/{id}” está disponible, <br> **When** un PUT request es enviado con los valores de id del diagnóstico y la nueva información del diagnóstico, <br> **Then** se recibe un response con un status 200 y el diagnóstico del paciente es actualizado en el sistema y el recurso actualizado se incluye en el body del response. <br><br> **Scenario 2**: Intentar actualizar diagnóstico con id inexistente <br> **Given** el endpoint “/api/v1/diagnostics/{id}” está disponible, <br> **And** no existe un diagnóstico con el id especificado, <br> **When** un PUT request es enviado al endpoint con el id del diagnóstico, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Diagnóstico no encontrado”.                                                                                                                                                                                                                             | No corresponde |
-| TS15 | Crear diagnóstico del paciente a través de un RESTful API               | Como desarrollador, quiero implementar la opción de crear un nuevo diagnóstico del paciente a través de una API RESTful, de manera que el profesional de salud mental pueda registrar un diagnóstico inicial para el paciente en el sistema.        | **Scenario 1**: Crear diagnóstico con datos válidos <br> **Given** el endpoint “/api/v1/diagnostics” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, fecha, y detalles del diagnóstico, <br> **Then** se recibe un response con un status 201 y el diagnóstico es almacenado en el sistema y el recurso creado se incluye en el body del response. <br><br> **Scenario 2**: Intentar crear diagnóstico con datos faltantes <br> **Given** el endpoint “/api/v1/diagnosticos” está disponible, <br> **When** un POST request es enviado sin alguno de los valores requeridos (como id del paciente o detalles del diagnóstico), <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Faltan datos requeridos para el diagnóstico”.                                                                                                                                                                                                                                                          | No corresponde |
-| TS16 | Obtener recordatorio de actividades a través de un RESTful API          | Como desarrollador, quiero implementar la opción para obtener el recordatorio de actividades a través de una API RESTful, de manera que los pacientes puedan visualizar sus próximos compromisos o tareas asignadas.                            | **Scenario 1**: Obtener recordatorio de actividades válido <br> **Given** el endpoint “/api/v1/reminders/:id” está disponible, <br> **When** un GET request es enviado con los valores de id del paciente, <br> **Then** se recibe un response con un status 200 y el recordatorio de actividades es recuperado en el body del response, con los detalles del recordatorio. <br><br> **Scenario 2**: Intentar obtener recordatorio para un paciente inexistente <br> **Given** el endpoint “/api/v1/reminders/:id” está disponible, <br> **And** no existe un paciente con el id especificado, <br> **When** un GET request es enviado con el id del paciente, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Paciente no encontrado”.                                                                                                                                                                                                                                                                                             | No corresponde |
-| TS17 | Obtener datos del dashboard a través de un RESTful API                  | Como desarrollador, quiero implementar la opción de obtener los datos del dashboard del paciente a través de una API RESTful, de manera que se pueda visualizar información resumida y relevante para el seguimiento de su estado de salud y progreso. | **Scenario 1**: Obtener datos del dashboard válidos <br> **Given** el endpoint “/api/v1/dashboard” está disponible, <br> **When** un GET request es enviado con el id del paciente, <br> **Then** se recibe un response con un status 200 y los datos del dashboard son recuperados en el body del response, mostrando información relevante del estado de salud del paciente. <br><br> **Scenario 2**: Intentar obtener datos del dashboard para un paciente inexistente <br> **Given** el endpoint “/api/v1/dashboard” está disponible, <br> **And** no existe un paciente con el id especificado, <br> **When** un GET request es enviado con el id del paciente, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Paciente no encontrado”.                                                                                                                                                                                                                                                                                       | No corresponde |
-| TS18 | Obtener notificación cuando el terapeuta agregue o modifique información | Como desarrollador, quiero implementar la opción de obtener notificaciones cuando el terapeuta agregue o modifique información a través de una API RESTful, para que el paciente o los sistemas conectados puedan estar al tanto de actualizaciones importantes. | **Scenario 1**: Obtener notificación de actualización de información <br> **Given** el endpoint “/api/v1/notifications” está disponible, <br> **When** un GET request es enviado con el id del paciente, <br> **Then** se recibe un response con un status 200 y la notificación de la modificación o adición de información es recuperada en el body del response, mostrando el detalle de la actualización. <br><br> **Scenario 2**: Intentar obtener notificación para un paciente inexistente <br> **Given** el endpoint “/api/v1/notifications” está disponible, <br> **And** no existe un paciente con el id especificado, <br> **When** un GET request es enviado con el id del paciente, <br> **Then** se recibe un response con un status 404 y un mensaje en el body del response que diga: “Paciente no encontrado”.                                                                                                                                                                                                                                                           | No corresponde |
-| TS19 | Registro de estado de ánimo del paciente a través de un RESTful API     | Como desarrollador, quiero implementar la opción de registrar el estado de ánimo del paciente a través de una API RESTful, para que la información del estado emocional del paciente sea almacenada y esté disponible para su análisis y seguimiento. | **Scenario 1**: Registrar estado de ánimo con datos válidos <br> **Given** el endpoint “/api/v1/patient/:id/mood” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, fecha, y nivel de estado de ánimo (por ejemplo, escala de 1 a 10), <br> **Then** se recibe un response con un status 201 y el estado de ánimo es registrado en el sistema y el recurso creado se incluye en el body del response. <br><br> **Scenario 2**: Intentar registrar estado de ánimo sin nivel de estado de ánimo <br> **Given** el endpoint “/api/v1/patient/:id/mood” está disponible, <br> **When** un POST request es enviado sin el valor de nivel de estado de ánimo, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Mood level is a required field”.                                                                                                                                                                                                                                               | No corresponde |
-| TS20 | Registro de confirmación de consumo de pastillas a través de un RESTful API | Como desarrollador, quiero implementar la opción de registrar la confirmación del consumo de pastillas a través de una API RESTful, de manera que se pueda hacer un seguimiento del cumplimiento del tratamiento por parte del paciente.            | **Scenario 1**: Registrar confirmación de consumo con datos válidos <br> **Given** el endpoint “/api/v1/patient/:id/pill-consumption” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, nombre del medicamento, dosis tomada, fecha y hora, <br> **Then** se recibe un response con un status 201 y la confirmación de consumo es registrada en el sistema y el recurso creado se incluye en el body del response. <br><br> **Scenario 2**: Intentar registrar confirmación de consumo sin dosis tomada <br> **Given** el endpoint “/api/v1/patient/:id/pill-consumption” está disponible, <br> **When** un POST request es enviado sin el valor de dosis tomada, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Pill dosage is a required field”.                                                                                                                                                                                                                                     | No corresponde |
-| TS21 | Registro de funciones biológicas a través de un RESTful API             | Como desarrollador, quiero implementar la opción de registrar las funciones biológicas del paciente a través de una API RESTful, de manera que estos datos puedan ser almacenados para monitoreo y análisis clínico.                              | **Scenario 1**: Registrar funciones biológicas con datos válidos <br> **Given** el endpoint “/api/v1/patient/:id/biological-functions” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, frecuencia cardíaca, presión arterial, y temperatura, <br> **Then** se recibe un response con un status 201 y las funciones biológicas son registradas en el sistema y el recurso creado se incluye en el body del response. <br><br> **Scenario 2**: Intentar registrar funciones biológicas con datos faltantes <br> **Given** el endpoint “/api/v1/patients/:id/biological-functions” está disponible, <br> **When** un POST request es enviado sin alguno de los valores requeridos (frecuencia cardíaca, presión arterial o temperatura), <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Required biological function data is missing”.                                                                                                                                                  | No corresponde |
-| TS22 | Actualización de datos de acceso de un paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar los datos de acceso de un paciente a través de una API RESTful, de manera que el paciente pueda modificar sus credenciales para mejorar la seguridad.                               | **Scenario 1**: Actualizar datos de acceso con credenciales válidas <br> **Given** el endpoint “/api/v1/patient-account/:id” está disponible, <br> **When** un PUT request es enviado con los valores de id del paciente, nombre de usuario, contraseña actual, y nueva contraseña, <br> **Then** se recibe un response con un status 200 y los datos de acceso del paciente son actualizados en el sistema y el recurso actualizado se incluye en el body del response. <br><br> **Scenario 2**: Intentar actualizar datos de acceso con nombre de usuario ya existente <br> **Given** el endpoint “/api/v1/patient-account/:id” está disponible, <br> **When** un PUT request es enviado con un nuevo username que ya existe, <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Username already exists”.                                                                                                                                                                                                                           | No corresponde |
-| TS23 | Actualización de información del profesional de salud mental a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar la información del profesional de salud mental a través de una API RESTful, de manera que los datos del profesional (como la especialidad o los datos de contacto) puedan mantenerse actualizados en el sistema. | **Scenario 1**: Actualizar información profesional con datos válidos <br> **Given** el endpoint “/api/v1/mental-health-professional/:id” está disponible, <br> **When** un PUT request es enviado con los valores de id del profesional, nombre, especialidad, dirección, número de teléfono y correo electrónico, <br> **Then** se recibe un response con un status 200 y la información del profesional de salud mental es actualizada en el sistema y el recurso actualizado se incluye en el body del response. <br><br> **Scenario 2**: Intentar actualizar información profesional sin datos completos <br> **Given** el endpoint “/api/v1/mental-health-professional/:id” está disponible, <br> **When** un PUT request es enviado sin algún valor requerido (como especialidad o número de teléfono), <br> **Then** se recibe un response con un status 400 y un mensaje en el body del response que diga: “Required professional information is missing”.                                                                                                                        | No corresponde |
-| TS24 | Registro de sesión terapéutica a través de un RESTful API | Como desarrollador, quiero implementar la opción para registrar una sesión terapéutica a través de una API RESTful, permitiendo a los profesionales de salud mental almacenar detalles de sus sesiones con los pacientes. | **Scenario 1**: Registrar sesión con datos válidos <br> **Given** el endpoint “/api/v1/sessions” está disponible, <br> **When** un POST request es enviado con los valores de id del paciente, id del profesional, fecha, hora y duración de la sesión, <br> **Then** se recibe un response con un status 201 <br> **And** el recurso de la sesión es incluido en el body del response con un nuevo id y los valores registrados de id del paciente, id del profesional, fecha, hora y duración de la sesión. <br><br> **Scenario 2**: Intentar registrar sesión con datos faltantes <br> **Given** el endpoint “/api/v1/sessions” está disponible, <br> **When** un POST request es enviado sin alguno de los valores requeridos (id del paciente, id del profesional, fecha o hora), <br> **Then** se recibe un response con un status 400 <br> **And** un mensaje en el body del response que diga: “Faltan datos requeridos para la creación de la sesión”.                                                                                                                           | No corresponde |
-| TS25 | Obtener sesión terapéutica a través de un RESTful API | Como desarrollador, quiero implementar la opción para obtener la información de una sesión terapéutica a través de una API RESTful, permitiendo a los profesionales de salud mental y al sistema acceder a los detalles de las sesiones de un paciente. | **Scenario 1**: Obtener sesión existente <br> **Given** el endpoint “/api/v1/sessions/{id}” está disponible <br> **And** existe una sesión con el id especificado, <br> **When** un GET request es enviado al endpoint con el id de la sesión, <br> **Then** se recibe un response con un status 200 <br> **And** los detalles de la sesión (id del paciente, id del profesional, fecha, hora, y duración) se incluyen en el body del response. <br><br> **Scenario 2**: Intentar obtener sesión inexistente <br> **Given** el endpoint “/api/v1/sessions/{id}” está disponible <br> **And** no existe una sesión con el id especificado <br> **When** un GET request es enviado al endpoint con el id de la sesión <br> **Then** se recibe un response con un status 404 <br> **And** un mensaje en el body del response que diga: “Sesión no encontrada”.                                                                                                                                                                                                                               | No corresponde |
 
+Dado que el profesional de la salud mental ha completado todos los campos del formulario de registro,
+
+
+Cuando hace clic al botón "Crear cuenta",
+
+
+Entonces la cuenta se crea,
+
+
+Y el profesional accede a la aplicación con el rol de profesional de la salud mental.</li>
+<li><b>Escenario 2: Registro de datos incompleto</b>
+
+
+Dado que el profesional de la salud mental no ha completado todos los campos del formulario de registro,
+
+
+Cuando hace clic al botón "Crear cuenta",
+
+
+Entonces la plataforma muestra un mensaje de error indicando qué campos faltan por completar.</li>
+<li><b>Escenario 3: Registro con credenciales ya utilizadas</b>
+
+
+Dado que el profesional de la salud mental ha completado todos los campos del formulario de registro usando un correo ya registrado,
+
+
+Cuando hace clic al botón "Crear cuenta",
+
+
+Entonces la plataforma muestra un mensaje de error indicando que el correo electrónico ya está en uso
+
+
+Y sugiere recuperar la contraseña.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US02 - Inicio de sesión como paciente
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US02</td>
+<td>Paciente</td>
+<td>8</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Inicio de sesión como paciente</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Inicio de sesión exitoso</b>
+
+
+Dado que el paciente ha ingresado su correo electrónico y contraseña correctamente,
+
+
+Cuando hace clic en un botón de "Iniciar sesión",
+
+
+Entonces accede a su cuenta
+
+
+Y es dirigido a su panel de control personal con el rol de paciente.</li>
+<li><b>Escenario 2: Contraseña incorrecta</b>
+
+
+Dado que el paciente ha ingresado su correo y una contraseña incorrecta,
+
+
+Cuando hace clic en un botón de "Iniciar sesión",
+
+
+Entonces la plataforma muestra un mensaje de error indicando que la contraseña es incorrecta
+
+
+Y ofrece la opción de restablecerla.</li>
+<li><b>Escenario 3: Recuperación de contraseña</b>
+
+
+Dado que el paciente ha olvidado su contraseña,
+
+
+Cuando hace clic en un botón de "Olvidé mi contraseña",
+
+
+Entonces la plataforma envía un enlace de restablecimiento de contraseña al correo electrónico registrado.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US03 - Inicio de sesión como profesional de la salud mental
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US03</td>
+<td>Profesional de la salud mental</td>
+<td>8</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Inicio de sesión como profesional de la salud mental</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Inicio de sesión exitoso</b>
+
+
+Dado que el profesional de la salud mental ha ingresado su correo electrónico y contraseña correctamente,
+
+
+Cuando hace clic en un botón de "Iniciar sesión",
+
+
+Entonces accede a su cuenta
+
+
+Y es dirigido a su panel de control con acceso a herramientas avanzadas de gestión de pacientes y el rol de profesional de la salud.</li>
+<li><b>Escenario 2: Contraseña incorrecta</b>
+
+
+Dado que el profesional de la salud mental ha ingresado su correo y una contraseña incorrecta,
+
+
+Cuando hace clic en un botón de "Iniciar sesión",
+
+
+Entonces la plataforma muestra un mensaje de error indicando que la contraseña es incorrecta
+
+
+Y ofrece la opción de restablecerla.</li>
+<li><b>Escenario 3: Recuperación de contraseña</b>
+
+
+Dado que el profesional de la salud mental ha olvidado su contraseña,
+
+
+Cuando hace clic en un botón de "Olvidé mi contraseña",
+
+
+Entonces la plataforma envía un enlace de restablecimiento de contraseña al correo electrónico registrado.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US04 - Registro de información personal del paciente
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US04</td>
+<td>Profesional de la salud mental</td>
+<td>5</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Registro de información personal del paciente</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Registro exitoso de información personal</b>
+
+
+Dado que el profesional de la salud mental ha ingresado todos los datos del formulario de información personal del paciente,
+
+
+Cuando hace clic en un botón de "Guardar",
+
+
+Entonces la información personal del paciente se registra correctamente en la plataforma y está disponible para futuras consultas.</li>
+<li><b>Escenario 2: Registro incompleto de información personal</b>
+
+
+Dado que el profesional de la salud mental no ha ingresado todos los datos del formulario de información personal del paciente,
+
+
+Cuando hace clic en un botón de "Guardar",
+
+
+Entonces la plataforma muestra un mensaje de error indicando qué campos faltan por completar.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US05 - Visualización del estado actual de ánimo del paciente
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US05</td>
+<td>Profesional de la salud mental</td>
+<td>3</td>
+<td>EP02</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Visualización del estado actual de ánimo del paciente</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como profesional de la salud mental, quiero visualizar el estado de ánimo actual del paciente para evaluar su condición emocional.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visualización del estado de ánimo</b>
+
+
+Dado que el profesional de la salud mental ha accedido al perfil del paciente,
+
+
+Cuando selecciona la opción de visualizar estados de ánimo,
+
+
+Entonces la plataforma muestra el estado de ánimo del paciente que se registró el mismo día.</li>
+<li><b>Escenario 2: Estados de ánimo no registrados</b>
+
+
+Dado que el profesional de la salud mental ha accedido al perfil del paciente sin haber registrado ningún estado de ánimo del mismo,
+
+
+Cuando selecciona la opción de visualizar estados de ánimo,
+
+
+Entonces la plataforma no muestra los datos ingresados.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US06 - Registro de estado de ánimo
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US06</td>
+<td>Paciente</td>
+<td>5</td>
+<td>EP02</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Registro de estado de ánimo</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver mi estado actual.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Registro de emoción</b>
+
+
+Dado que el paciente se encuentra en la sección de registros de estado emocional,
+
+
+Cuando registra su estado de ánimo actual,
+
+
+Entonces la plataforma debe actualizar su estado emocional en el perfil del paciente.</li>
+<li><b>Escenario 2: Almacenamiento de estado de ánimo</b>
+
+
+Dado que el paciente se encuentra en la sección de registros de estado emocional,
+
+
+Y posee un registro con cada uno de los estados que ingresó con anterioridad,
+
+
+Cuando ingresa al historial de estados de ánimo,
+
+
+Entonces la plataforma debe mostrar un calendario con los estados del paciente a lo largo del tiempo.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US07 - Registro de funciones biológicas
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US07</td>
+<td>Paciente</td>
+<td>5</td>
+<td>EP02</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Registro de funciones biológicas</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como paciente, quiero registrar la calidad de mis funciones biológicas para que mi profesional conozca mi estado actual de salud.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Ingreso de funciones biológicas</b>
+
+
+Dado que el paciente ha accedido a la sección de registro de funciones biológicas,
+
+
+Cuando selecciona la opción de registrar funciones,
+
+
+Entonces la plataforma debe permitir al paciente seleccionar su nivel de sueño, hambre, energía e hidratación en una escala del 1 al 5.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US08 - Registro de medicamentos del paciente
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US08</td>
+<td>Profesional de la salud mental</td>
+<td>3</td>
+<td>EP03</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Registro de medicamentos del paciente</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Registro exitoso de medicamentos</b>
+
+
+Dado que el profesional de la salud mental ha ingresado todos los datos de los medicamentos de su paciente,
+
+
+Cuando hace clic en un botón de "Guardar",
+
+
+Entonces los datos del medicamento se registran correctamente en el sistema y se asocian al perfil del paciente.</li>
+<li><b>Escenario 2: Registro incompleto de medicamentos</b>
+
+
+Dado que el profesional de la salud mental no ha ingresado todos los datos de los medicamentos de su paciente,
+
+
+Cuando hace clic en un botón de "Guardar",
+
+
+Entonces la plataforma muestra un mensaje de error indicando los campos incompletos o incorrectos.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US09 - Ver medicamentos
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US09</td>
+<td>Paciente</td>
+<td>3</td>
+<td>EP03</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Ver medicamentos</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como paciente, quiero poder ver los medicamentos que mi profesional de salud mental ha asignado para poder estar pendiente de cuáles consumir.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visualización de medicamentos</b>
+
+
+Dado que el paciente entra a la plataforma
+
+
+Cuando ingresa a la vista de medicamentos
+
+
+Entonces puede ver todos los medicamentos recetados.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US10 - Creación de citas
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US10</td>
+<td>Profesional de la salud</td>
+<td>2</td>
+<td>EP04</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Creación de citas</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como profesional de la salud, quiero agendar las citas de mis pacientes.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Creación de nueva cita</b>
+
+
+Dado que el profesional de salud entra a la plataforma
+
+
+Cuando ingresa a la vista de citas sobre el perfil de un paciente
+
+
+Entonces puede registrar una nueva cita.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US11 - Ver citas médicas
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US11</td>
+<td>Paciente</td>
+<td>2</td>
+<td>EP04</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Ver citas médicas</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como paciente, quiero poder ver las citas médicas programadas para poder saber qué días ir al consultorio del profesional de salud mental.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visualización de citas</b>
+
+
+Dado que el paciente entra a la plataforma
+
+
+Cuando ingresa a la vista de citas
+
+
+Entonces puede ver todas las citas programas y los detalles de hora y fecha.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US12 - Iniciar Sesión como Paciente
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US12</td>
+<td>Paciente</td>
+<td>8</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Iniciar Sesión como Paciente</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como Paciente, quiero poder iniciar sesión con mi usuario y contraseña para acceder a mi información personal y de salud dentro de la aplicación.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Inicio de Sesión Exitoso</b>
+
+
+Dado que el Paciente está en la pantalla de "Bienvenido" e ingresa su Usuario y Contraseña correctos,
+
+
+Cuando pulsa el botón "Iniciar Sesión",
+
+
+Entonces el sistema valida las credenciales y el paciente es dirigido a la pantalla principal.</li>
+<li><b>Escenario 2: Credenciales Inválidas</b>
+
+
+Dado que el Paciente ingresa un Usuario o Contraseña incorrectos,
+
+
+Cuando pulsa el botón "Iniciar Sesión",
+
+
+Entonces el sistema no permite iniciar sesión
+
+
+Y muestra un mensaje de error.</li>
+<li><b>Escenario 3: Campos Vacíos</b>
+
+
+Dado que el Paciente deja los campos de Usuario y/o Contraseña vacíos,
+
+
+Cuando pulsa el botón "Iniciar Sesión",
+
+
+Entonces el sistema no permite iniciar sesión
+
+
+Y muestra un mensaje de error indicando qué campos faltan.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US13 - Visualizar Información de Perfil
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US13</td>
+<td>Paciente</td>
+<td>3</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Visualizar Información de Perfil</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como Paciente, quiero poder ver mi información personal (Correo Electrónico, Dirección, ID de Paciente y ID de Profesional) en la sección "Mi Perfil" para confirmar que mis datos son correctos.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visualización del Perfil</b>
+
+
+Dado que estoy en la aplicación y navego a la pestaña "Profile",
+
+
+Entonces veo mi Nombre completo,
+
+
+Y veo mi Correo Electrónico asociado,
+
+
+Y veo mi Dirección,
+
+
+Y veo mi ID de Paciente y mi ID de Profesional asignados.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US14 - Cerrar Sesión
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US14</td>
+<td>Paciente</td>
+<td>2</td>
+<td>EP01</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Cerrar Sesión</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla de Mi Perfil para proteger mi privacidad.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Cierre de Sesión Exitoso</b>
+
+
+Dado que estoy en la pantalla "Mi Perfil" e he iniciado sesión,
+
+
+Cuando pulso el botón "Cerrar Sesión",
+
+
+Entonces la sesión actual se cierra exitosamente,
+
+
+Y soy redirigido a la pantalla de Inicio de Sesión.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US15 - Registrar Mi Estado de Salud Diario
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US15</td>
+<td>Paciente</td>
+<td>5</td>
+<td>EP02</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Registrar Mi Estado de Salud Diario</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como Paciente, quiero poder registrar mi estado de salud diario (Mood, Hunger, Hydration, Sleep Quality, Energy Level) para llevar un seguimiento de mi bienestar.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Registro Exitoso de Datos de Salud</b>
+
+
+Dado que estoy en la pestaña "Health" y no he completado el registro de hoy,
+
+
+Cuando selecciono una opción para cada categoría (Mood, Hunger, Hydration, Sleep Quality, Energy Level) y pulso el botón de registro,
+
+
+Entonces el sistema guarda el registro de ese día,
+
+
+Y muestra un mensaje de confirmación.</li>
+<li><b>Escenario 2: Reintento de Registro del Mismo Día</b>
+
+
+Dado que ya he completado el registro de mi estado de salud hoy,
+
+
+Cuando navego a la pestaña "Health",
+
+
+Entonces veo un mensaje o un botón deshabilitado que indica "Ya registrado hoy", impidiendo un nuevo registro.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US16 - Consultar Mi Lista de Medicamentos
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US16</td>
+<td>Paciente</td>
+<td>5</td>
+<td>EP03</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Consultar Mi Lista de Medicamentos</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados para conocer el nombre, el motivo, la frecuencia (Intervalo) y la Cantidad de cada uno.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visualización de Medicamentos</b>
+
+
+Dado que estoy en la pestaña "Medication",
+
+
+Entonces veo una lista de todos mis medicamentos,
+
+
+Y para cada medicamento, se muestra el Motivo, el Intervalo, y la Cantidad.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US17 - Ver Próximas Citas
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US17</td>
+<td>Paciente</td>
+<td>3</td>
+<td>EP04</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Ver Próximas Citas</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visualización de Citas</b>
+
+
+Dado que estoy en la pestaña de "Appointments",
+
+
+Entonces veo la sección "Próximas Citas",
+
+
+Y veo una lista de citas, donde cada una muestra la Fecha, la Hora, la Duración y el Profesional ID.</li>
+<li><b>Escenario 2: Identificación de Cita de Hoy</b>
+
+
+Dado que hay una cita programada para la fecha actual,
+
+
+Entonces esta cita muestra una etiqueta distintiva con el texto "HOY".</li>
+</ul>
+</td>
+</tr>
+</table>
+
+### Historias de Usuario de la Landing Page (US18 - US20)
+
+US18 - Encontrar información del propósito de la aplicación
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US18</td>
+<td>Visitante de la Landing Page</td>
+<td>1</td>
+<td>EP05</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Encontrar información del propósito de la aplicación</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Visibilidad del propósito de la aplicación</b>
+
+
+Dado que el visitante se encuentra en la landing page,
+
+
+Cuando explora la página principal,
+
+
+Entonces la landing page debe poseer información clara y concisa sobre el propósito de la aplicación.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US19 - Visualización de imágenes y gráficos relevantes
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US19</td>
+<td>Visitante de la Landing Page</td>
+<td>1</td>
+<td>EP05</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Visualización de imágenes y gráficos relevantes</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Calidad de las imágenes</b>
+
+
+Dado que el visitante se encuentra en la landing page,
+
+
+Cuando explora la página principal,
+
+
+Entonces la landing page debe presentar imágenes de alta calidad y relevantes que capten la atención del visitante.</li>
+<li><b>Escenario 2: Relevancia de los gráficos</b>
+
+
+Dado que el visitante se encuentra en la landing page,
+
+
+Cuando se desplaza,
+
+
+Entonces la landing page debe mostrar gráficos que ayuden al visitante a comprender el contenido.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+US20 - Tipografía cómoda y agradable estéticamente
+<table>
+<tr>
+<th>Story ID</th>
+<th>User</th>
+<th>Priority</th>
+<th>Epic</th>
+</tr>
+<tr>
+<td>US20</td>
+<td>Visitante de la Landing Page</td>
+<td>1</td>
+<td>EP05</td>
+</tr>
+<tr>
+<th colspan="4">Title</th>
+</tr>
+<tr>
+<td colspan="4">Tipografía cómoda y agradable estéticamente</td>
+</tr>
+<tr>
+<th colspan="4">Description</th>
+</tr>
+<tr>
+<td colspan="4">
+Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.
+</td>
+</tr>
+<tr>
+<th colspan="4">Acceptance Criteria</th>
+</tr>
+<tr>
+<td colspan="4">
+<ul>
+<li><b>Escenario 1: Legibilidad de la tipografía</b>
+
+
+Dado que el visitante se encuentra en la landing page,
+
+
+Cuando se desplaza a través de la página principal,
+
+
+Entonces la landing page debe poseer una tipografía clara y de un tamaño adecuado para facilitar la lectura.</li>
+<li><b>Escenario 2: Consistencia en el estilo tipográfico</b>
+
+
+Dado que el visitante se encuentra en la landing page,
+
+
+Cuando cambia de sección,
+
+
+Entonces la landing page debe mostrar un estilo tipográfico consistente para mantener la coherencia visual.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 **Spike Stories**
 
-|ID	|Título|	Descripción|	Criterios de aceptación|	Prioridad	|EpicID|
-|--|-------|-------------|-------------------------|------------|------|
-|SP-01|	Investigación de bibliotecas de autenticación OAuth2 |	Como desarrollador, quiero investigar bibliotecas de autenticación OAuth2 (Spring Security, Keycloak, Auth0) para determinar cuál es más adecuada para integrar con la plataforma. |	Given que se identifican diferentes bibliotecas de autenticación OAuth2, When se evalúan criterios de compatibilidad, seguridad y facilidad de integración con el stack actual, Then se presenta un documento técnico con la recomendación de la librería a utilizar y un prototipo funcional mínimo que valide la autenticación. |	Alta |	EP03 |
-| SP-02 |	Evaluación de frameworks para gráficos estadísticos |	Como desarrollador frontend, quiero investigar librerías de visualización (Chart.js, Recharts, D3.js) para seleccionar la más adecuada para representar datos de bienestar emocional. |	Given que se prueban librerías de visualización, When se comparan en términos de rendimiento, personalización y soporte en Angular, Then se genera un documento con conclusiones y un prototipo funcional que muestre datos simulados del paciente. |	Media |	EP05 |
-| SP-03 |	Prueba de integración con servicios de notificaciones	| Como desarrollador backend, quiero probar servicios de mensajería (Firebase, OneSignal, Web Push API) para definir la mejor opción para enviar recordatorios y alertas al paciente. |	Given que se analizan servicios de notificaciones, When se evalúan costos, confiabilidad y facilidad de integración, Then se presenta un informe comparativo y un prototipo funcional de envío de notificación desde el backend. |	Alta |	EP07 |
-| SP-04 |	Investigación de métodos de cifrado para datos clínicos	Como desarrollador backend, quiero analizar técnicas de cifrado (AES, RSA, JWT) para asegurar la confidencialidad de los datos clínicos del paciente en tránsito y reposo. |	Given que se identifican diferentes métodos de cifrado, When se prueban su implementación en un entorno de prueba, Then se entrega un documento con la recomendación técnica y un ejemplo funcional implementado en un microservicio.|	Alta	|EP04 |
-| SP-05 |	Prueba de rendimiento de la API REST |	Como equipo técnico, queremos realizar una prueba de carga sobre los endpoints más críticos para validar el rendimiento y detectar posibles cuellos de botella. |	Given que se identifican los endpoints más usados, When se ejecutan pruebas de carga con herramientas como JMeter o Postman, Then se entrega un reporte técnico con los resultados de rendimiento y recomendaciones de optimización. |	Alta	| EP04 |
-| SP-06	| Evaluación de estrategias de almacenamiento para historiales clínicos |	Como arquitecto de software, quiero evaluar la conveniencia entre bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB) para almacenar los historiales clínicos del paciente. |	Given que se configuran entornos de prueba para ambas bases de datos, When se evalúan rendimiento, escalabilidad y facilidad de consulta, Then se genera un informe con la recomendación final basada en resultados empíricos. |	Media	 | EP04 |
-| SP-07	| Validación de accesibilidad web (WCAG 2.1)	| Como diseñador UX/UI, quiero realizar una evaluación de accesibilidad de la landing page para asegurar el cumplimiento de las pautas WCAG 2.1 y mejorar la experiencia del usuario. |	Given que se revisan los componentes principales de la landing page, When se validan contrastes, etiquetas alt, roles ARIA y navegación por teclado, Then se entrega un reporte con los hallazgos y un plan de mejoras de accesibilidad.	| Media |	EP01 |
-| SP-08 |	Evaluación de la viabilidad del módulo predictivo |	Como equipo de desarrollo, queremos analizar la viabilidad de integrar un modelo predictivo de bienestar emocional basado en datos históricos del paciente. |	Given que se recopilan datasets de ejemplo, When se prueban modelos iniciales (regresión lineal, árbol de decisión), Then se entrega un documento técnico con resultados de precisión, requerimientos de datos y recomendaciones para su futura implementación. |	Baja |	EP05 |
+| ID	    | Título                                                                                                                                                                                                                              | 	Descripción                                                                                                                                                                                                                           | 	Criterios de aceptación                                                                                                                                                                                                                                                                                                           | 	Prioridad	 | EpicID |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|--------|
+| SP-01  | 	Investigación de bibliotecas de autenticación OAuth2                                                                                                                                                                               | 	Como desarrollador, quiero investigar bibliotecas de autenticación OAuth2 (Spring Security, Keycloak, Auth0) para determinar cuál es más adecuada para integrar con la plataforma.                                                    | 	Given que se identifican diferentes bibliotecas de autenticación OAuth2, When se evalúan criterios de compatibilidad, seguridad y facilidad de integración con el stack actual, Then se presenta un documento técnico con la recomendación de la librería a utilizar y un prototipo funcional mínimo que valide la autenticación. | 	Alta       | 	EP03  |
+| SP-02  | 	Evaluación de frameworks para gráficos estadísticos                                                                                                                                                                                | 	Como desarrollador frontend, quiero investigar librerías de visualización (Chart.js, Recharts, D3.js) para seleccionar la más adecuada para representar datos de bienestar emocional.                                                 | 	Given que se prueban librerías de visualización, When se comparan en términos de rendimiento, personalización y soporte en Angular, Then se genera un documento con conclusiones y un prototipo funcional que muestre datos simulados del paciente.                                                                               | 	Media      | 	EP05  |
+| SP-03  | 	Prueba de integración con servicios de notificaciones	                                                                                                                                                                             | Como desarrollador backend, quiero probar servicios de mensajería (Firebase, OneSignal, Web Push API) para definir la mejor opción para enviar recordatorios y alertas al paciente.                                                    | 	Given que se analizan servicios de notificaciones, When se evalúan costos, confiabilidad y facilidad de integración, Then se presenta un informe comparativo y un prototipo funcional de envío de notificación desde el backend.                                                                                                  | 	Alta       | 	EP07  |
+| SP-04  | 	Investigación de métodos de cifrado para datos clínicos	Como desarrollador backend, quiero analizar técnicas de cifrado (AES, RSA, JWT) para asegurar la confidencialidad de los datos clínicos del paciente en tránsito y reposo. | 	Given que se identifican diferentes métodos de cifrado, When se prueban su implementación en un entorno de prueba, Then se entrega un documento con la recomendación técnica y un ejemplo funcional implementado en un microservicio. | 	Alta	                                                                                                                                                                                                                                                                                                                             | EP04        |
+| SP-05  | 	Prueba de rendimiento de la API REST                                                                                                                                                                                               | 	Como equipo técnico, queremos realizar una prueba de carga sobre los endpoints más críticos para validar el rendimiento y detectar posibles cuellos de botella.                                                                       | 	Given que se identifican los endpoints más usados, When se ejecutan pruebas de carga con herramientas como JMeter o Postman, Then se entrega un reporte técnico con los resultados de rendimiento y recomendaciones de optimización.                                                                                              | 	Alta	      | EP04   |
+| SP-06  | Evaluación de estrategias de almacenamiento para historiales clínicos                                                                                                                                                               | 	Como arquitecto de software, quiero evaluar la conveniencia entre bases de datos relacionales (PostgreSQL) y no relacionales (MongoDB) para almacenar los historiales clínicos del paciente.                                          | 	Given que se configuran entornos de prueba para ambas bases de datos, When se evalúan rendimiento, escalabilidad y facilidad de consulta, Then se genera un informe con la recomendación final basada en resultados empíricos.                                                                                                    | 	Media	     | EP04   |
+| SP-07  | Validación de accesibilidad web (WCAG 2.1)	                                                                                                                                                                                         | Como diseñador UX/UI, quiero realizar una evaluación de accesibilidad de la landing page para asegurar el cumplimiento de las pautas WCAG 2.1 y mejorar la experiencia del usuario.                                                    | 	Given que se revisan los componentes principales de la landing page, When se validan contrastes, etiquetas alt, roles ARIA y navegación por teclado, Then se entrega un reporte con los hallazgos y un plan de mejoras de accesibilidad.	                                                                                         | Media       | 	EP01  |
+| SP-08  | 	Evaluación de la viabilidad del módulo predictivo                                                                                                                                                                                  | 	Como equipo de desarrollo, queremos analizar la viabilidad de integrar un modelo predictivo de bienestar emocional basado en datos históricos del paciente.                                                                           | 	Given que se recopilan datasets de ejemplo, When se prueban modelos iniciales (regresión lineal, árbol de decisión), Then se entrega un documento técnico con resultados de precisión, requerimientos de datos y recomendaciones para su futura implementación.                                                                   | 	Baja       | 	EP05  |
 
 ## 3.3. Impact Mapping.
 ### Segmento profesionales:
@@ -92,51 +1206,26 @@
 
 ## 3.4 Product Backlog.
 
-| Orden | User Story / Technical Story Id | Título                                                       | Descripción                                                                                                                                                                              | Story Points (1 / 2 / 3 / 5 / 8) |
-|-------|---------------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| 1     | US02                            | Encontrar información del propósito de la aplicación           | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.                    | 2                                 |
-| 2     | US03                            | Visualización de imágenes y gráficos relevantes                | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.                        | 1                                 |
-| 3     | US04                            | Tipografía cómoda y agradable estéticamente                    | Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.                                  | 1                                 |
-| 4     | US01                            | Adaptabilidad y compatibilidad de la Landing Page              | Como visitante de la Landing Page, quiero que el contenido se adapte al tamaño de la pantalla del dispositivo desde el que accede para obtener la información de manera ordenada.         | 3                                 |
-| 5     | US08                            | Registro de información personal del paciente                  | Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.           | 3                                 |
-| 6     | US10                            | Registro de historial previo del paciente                      | Como profesional de la salud mental, quiero registrar el historial médico previo del paciente para tener un contexto completo de sus antecedentes.                                        | 3                                 |
-| 7     | US23                            | Registro de funciones biológicas                               | Como paciente, quiero registrar la calidad de mis funciones biológicas para poder ver mi progreso y que mi profesional a cargo también esté pendiente.                                    | 2                                 |
-| 8     | US21                            | Registro de estado de ánimo                                    | Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver el progreso de mi tratamiento.                                                                            | 2                                 |
-| 9     | US09                            | Registro de medicamentos del paciente                          | Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.                                                | 3                                 |
-| 10    | US14                            | Actualizar ingesta de pastillas                                | Como profesional de la salud mental, quiero actualizar la prescripción del paciente para ajustar las dosis al tratamiento si es necesario.                                                 | 3                                 |
-| 11    | US12                            | Visualización de los estados de ánimo del paciente             | Como profesional de la salud mental, quiero visualizar un registro de los estados de ánimo históricos del paciente para evaluar su progreso emocional.                                     | 3                                 |
-| 12    | US13                            | Visualizar información del consumo de medicamentos del paciente| Como profesional de la salud mental, quiero visualizar registros del cumplimiento del paciente con el consumo de la medicación asignada para asegurarse de que este sigue el tratamiento correctamente.| 3                                 |
-| 13    | US11                            | Visualizar datos estadísticos de funciones biológicas del paciente| Como profesional de la salud mental, quiero visualizar estadísticas de las necesidades fisiológicas del paciente para evaluar su estado físico a lo largo del tratamiento.               | 3                                 |
-| 14    | US24                            | Cambio de datos de acceso del paciente                         | Como profesional de la salud mental, quiero actualizar los datos de acceso del paciente para asegurar que su información esté siempre correcta y refleje cualquier cambio necesario.       | 2                                 |
-| 15    | US15                            | Registro de apuntes por sesión                                 | Como profesional de la salud mental, quiero registrar apuntes de la sesión para no olvidar aspectos importantes                                                                           | 5                                 |
-| 16    | US16                            | Actualizar apuntes de la sesión terapéutica                    | Como profesional de la salud mental, quiero actualizar los apuntes de la sesión terapéutica para registrar cambios relevantes en el progreso del paciente relacionados a la sesión.        | 3                                 |
-| 17    | US19                            | Visualizar cambios en el dashboard                             | Como paciente, quiero visualizar un apartado principal con la información relevante de mi tratamiento para estar siempre actualizado sobre el estado de mi tratamiento.                   | 5                                 |
-| 18    | US25                            | Cambio de información personal del profesional de salud mental | Como profesional de la salud mental, quiero actualizar mi información personal para mantener mis datos profesionales correctos y reflejar cualquier cambio relevante.                     | 2                                 |
-| 19    | US17                            | Actualizar diagnóstico del paciente                            | Como profesional de la salud mental, quiero actualizar el diagnóstico del paciente para reflejar cambios en su condición, manteniendo así el diagnóstico alineado a la condición del paciente.| 5                                 |
-| 20    | US18                            | Recibir notificaciones de recordatorios de actividades         | Como paciente, quiero recibir notificaciones en la plataforma para realizar actividades a las horas acordadas por mi médico.                                                              | 5                                 |
-| 21    | US20                            | Recibir notificaciones cuando el terapeuta agregue o modifique información | Como paciente, quiero recibir notificaciones cuando el terapeuta actualice información para estar al tanto de las novedades en mi tratamiento.                                           | 5                                 |
-| 22    | TS03                            | Eliminar paciente a través de un RESTful API                   | Como desarrollador, quiero implementar la funcionalidad para eliminar un paciente a través de una API RESTful, para gestionar correctamente la eliminación de registros de pacientes según sea necesario.| 3                                 |
-| 23    | TS04                            | Eliminar profesional de la salud mental a través de un RESTful API| Como desarrollador, quiero implementar la funcionalidad para eliminar un profesional de la salud mental a través de una API RESTful, de manera que el sistema pueda gestionar correctamente la eliminación de registros de profesionales según sea necesario.| 3                                 |
-| 24    | TS07                            | Añadir medicamentos de un paciente a través de un RESTful API  | Como desarrollador, quiero implementar la opción para añadir medicamentos prescritos a un paciente a través de una API RESTful, de manera que la medicación del paciente quede registrada y pueda ser consultada y actualizada según sea necesario.| 3                                 |
-| 25    | TS08                            | Recuperar datos estadísticos de funciones biológicas del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de recuperar datos estadísticos de funciones biológicas del paciente a través de una API RESTful, de manera que esta información pueda ser almacenada y analizada para el monitoreo de la salud del paciente.| 3                                 |
-| 26    | TS09                            | Recuperar datos del estado de ánimo del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción para recuperar datos del estado de ánimo del paciente a través de una API RESTful, de manera que esta información pueda ser utilizada para el seguimiento y tratamiento del paciente.| 3                                 |
-| 27    | TS10                            | Recuperar datos de consumo de medicamentos válidos             | Como desarrollador, quiero implementar la opción de recuperar datos del consumo de medicamentos del paciente a través de una API RESTful, de manera que se pueda hacer seguimiento al cumplimiento del tratamiento por parte del paciente.| 3                                 |
-| 28    | TS12                            | Actualizar apuntes de la sesión terapéutica a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar los apuntes de una sesión terapéutica a través de una API RESTful, de manera que el profesional de salud mental pueda mantener los registros de la sesión actualizados.| 3                                 |
-| 29    | TS13                            | Añadir apuntes de la sesión terapéutica a través de un RESTful API | Como desarrollador, quiero implementar la funcionalidad para añadir apuntes de una sesión terapéutica a través de una API RESTful, de manera que el profesional de salud mental pueda registrar información relevante sobre la sesión y el progreso del paciente.| 3                                 |
-| 30    | TS16                            | Obtener recordatorio de actividades a través de un RESTful API | Como desarrollador, quiero implementar la opción para obtener el recordatorio de actividades a través de una API RESTful, de manera que los pacientes puedan visualizar sus próximos compromisos o tareas asignadas.| 3                                 |
-| 31    | TS18                            | Obtener notificación cuando el terapeuta agregue o modifique información a través de un RESTful API | Como desarrollador, quiero implementar la opción de obtener notificaciones cuando el terapeuta agregue o modifique información a través de una API RESTful, para que el paciente o los sistemas conectados puedan estar al tanto de actualizaciones importantes.| 3                                 |
-| 32    | TS20                            | Registro de confirmación de consumo de pastillas a través de un RESTful API | Como desarrollador, quiero implementar la opción de registrar la confirmación del consumo de pastillas a través de una API RESTful, de manera que se pueda hacer un seguimiento del cumplimiento del tratamiento por parte del paciente.| 3                                 |
-| 33    | TS21                            | Registro de funciones biológicas a través de un RESTful API    | Como desarrollador, quiero implementar la opción de registrar las funciones biológicas del paciente a través de una API RESTful, de manera que estos datos puedan ser almacenados para monitoreo y análisis clínico.| 3                                 |
-| 34    | TS06                            | Añadir historial médico del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción para añadir un historial previo del paciente a través de una API RESTful, para que el sistema pueda almacenar y gestionar la información clínica anterior del paciente para su consulta y análisis posterior.| 5                                 |
-| 35    | TS11                            | Actualizar información de consumo de pastillas del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar los apuntes de una sesión terapéutica a través de una API RESTful, de manera que el profesional de salud mental pueda mantener los registros de la sesión actualizados.| 5                                 |
-| 36    | TS24                            | Registro de sesión terapéutica a través de un RESTful API      | Como desarrollador, quiero implementar la opción para registrar una sesión terapéutica a través de una API RESTful, permitiendo a los profesionales de salud mental almacenar detalles de sus sesiones con los pacientes.| 5                                 |
-| 37    | TS25                            | Obtener sesión terapéutica a través de un RESTful API          | Como desarrollador, quiero implementar la opción para obtener la información de una sesión terapéutica a través de una API RESTful, permitiendo a los profesionales de salud mental y al sistema acceder a los detalles de las sesiones de un paciente.| 3                                 |
-| 38    | TS14                            | Actualizar diagnóstico del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar el diagnóstico del paciente a través de una API RESTful, de manera que el profesional de salud mental pueda modificar y mantener actualizado el diagnóstico del paciente en el sistema.| 5                                 |
-| 39    | TS17                            | Obtener datos del dashboard a través de un RESTful API         | Como desarrollador, quiero implementar la opción de obtener los datos del dashboard del paciente a través de una API RESTful, de manera que se pueda visualizar información resumida y relevante para el seguimiento de su estado de salud y progreso.| 5                                 |
-| 40    | TS19                            | Registro de estado de ánimo del paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de registrar el estado de ánimo del paciente a través de una API RESTful, para que la información del estado emocional del paciente sea almacenada y esté disponible para su análisis y seguimiento.| 5                                 |
-| 41    | TS22                            | Actualización de datos de acceso de un paciente a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar los datos de acceso de un paciente a través de una API RESTful, de manera que el paciente pueda modificar sus credenciales para mejorar la seguridad.| 5                                 |
-| 42    | TS23                            | Actualización de información del profesional de salud mental a través de un RESTful API | Como desarrollador, quiero implementar la opción de actualizar la información del profesional de salud mental a través de una API RESTful, de manera que los datos del profesional (como la especialidad o los datos de contacto) puedan mantenerse actualizados en el sistema.| 5                                 |
-| 43    | TS01                            | Añadir paciente a través de un RESTful API                     | Como desarrollador, quiero que se pueda añadir a un paciente a través de un API, para que el profesional de salud mental registre al paciente.                                            | 8                                 |
-| 44    | TS02                            | Añadir profesional de la salud mental a través de un RESTful API | Como desarrollador, quiero implementar la opción de añadir un profesional de la salud mental a través de una API RESTful, para que este pueda interactuar con los pacientes en el sistema.| 8                                 |
-| 45    | TS05                            | Inicio de sesión a través de un RESTful API                    | Como desarrollador, quiero implementar la funcionalidad para el inicio de sesión a través de una API RESTful, para que los usuarios puedan autenticarse y acceder a las funcionalidades del sistema de manera segura.| 8                                 |
-| 46    | TS15                            | Crear diagnóstico del paciente a través de un RESTful API      | Como desarrollador, quiero implementar la opción de crear un nuevo diagnóstico del paciente a través de una API RESTful, de manera que el profesional de salud mental pueda registrar un diagnóstico inicial para el paciente en el sistema.| 8                                 |
+| Order User Story | Título                                                  | Descripción                                                                                                                                                                                       | Story Points (Priority) |
+|------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1                | Registro como profesional de la salud mental            | Como profesional de la salud mental quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.                     | 8                       |
+| 2                | Inicio de sesión como paciente                          | Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.                                                                        | 8                       |
+| 3                | Inicio de sesión como profesional de la salud mental    | Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.                               | 8                       |
+| 4                | Iniciar Sesión como Paciente                            | Como Paciente, quiero poder iniciar sesión con mi usuario y contraseña para acceder a mi información personal y de salud dentro de la aplicación.                                                 | 8                       |
+| 5                | Registro de información personal del paciente           | Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.                   | 5                       |
+| 6                | Registro de estado de ánimo                             | Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver mi estado actual.                                                                                                  | 5                       |
+| 7                | Registro de funciones biológicas                        | Como paciente, quiero registrar la calidad de mis funciones biológicas para que mi profesional conozca mi estado actual de salud.                                                                 | 5                       |
+| 8                | Registrar Mi Estado de Salud Diario                     | Como Paciente, quiero poder registrar mi estado de salud diario (Mood, Hunger, Hydration, Sleep Quality, Energy Level) para llevar un seguimiento de mi bienestar.                                | 5                       |
+| 9                | Consultar Mi Lista de Medicamentos                      | Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados para conocer el nombre, el motivo, la frecuencia (Intervalo) y la Cantidad de cada uno.                              | 5                       |
+| 10               | Visualización de el estado actual de ánimo del paciente | Como profesional de la salud mental, quiero visualizar el estado de ánimo actual del paciente para evaluar su condición emocional.                                                                | 3                       |
+| 11               | Registro de medicamentos del paciente                   | Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.                                                       | 3                       |
+| 12               | Ver medicamentos                                        | Como paciente quiero poder ver los medicamentos que mi profesional de salud mental ha asignado para poder estar pendiente de cuales consumir.                                                     | 3                       |
+| 13               | Visualizar Información de Perfil                        | Como Paciente, quiero poder ver mi información personal (Correo Electrónico, Dirección, ID de Paciente y ID de Profesional) en la sección "Mi Perfil" para confirmar que mis datos son correctos. | 3                       |
+| 14               | Ver Próximas Citas                                      | Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.                | 3                       |
+| 15               | Creación de citas                                       | Como profesional de la salud quiero agendar las citas de mis pacientes.                                                                                                                           | 2                       |
+| 16               | Ver citas médicas                                       | Como paciente quiero poder ver las citas médicas programadas para poder saber que días ir al consultorio del profesional de salud mental.                                                         | 2                       |
+| 17               | Cerrar Sesión                                           | Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla de Mi Perfil para proteger mi privacidad.                                                                          | 2                       |
+| 18               | Encontrar información del propósito de la aplicación    | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.                             | 1                       |
+| 19               | Visualización de imágenes y gráficos relevantes         | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.                                | 1                       |
+| 20               | Tipografía cómoda y agradable estéticamente             | Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.                                          | 1                       |
+
