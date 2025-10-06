@@ -11,28 +11,31 @@ El backedn de PSYMED está desarrollado en Java utilizando el framework Spring B
 
 - Bounded context Medication:
   ```getId() test```
-
-![image 2.png](../../image%202.png)
+  
+<img width="1423" height="850" alt="image" src="https://github.com/user-attachments/assets/2de3127d-060d-4520-b793-06ba056bf2eb" />
 
 ```getName() test```
 
-![image 3.png](../../image%203.png)
+<img width="1478" height="713" alt="image (1)" src="https://github.com/user-attachments/assets/f92236ee-8b37-489e-b95c-b261ad93b30d" />
+
 
 ```getDescription()```
 
-![image 4.png](../../image%204.png)
+<img width="1428" height="923" alt="image (2)" src="https://github.com/user-attachments/assets/7900ac5a-792f-4cf0-b6d2-4453e142f6fc" />
+
 
 ```getPatientId()```
 
-![image 5.png](../../image%205.png)
+<img width="1474" height="880" alt="image (3)" src="https://github.com/user-attachments/assets/25d56c1c-5d80-4284-be05-c56e6b32e890" />
+
 
 ```getInterval()```
 
-![image 6.png](../../image%206.png)
+<img width="1430" height="850" alt="image (4)" src="https://github.com/user-attachments/assets/360f0a66-0a0d-4cee-a8f5-b996bf418183" />
 
 ```getQuantity()```
 
-![image 7.png](../../image%207.png)
+<img width="1283" height="841" alt="image (5)" src="https://github.com/user-attachments/assets/74f89ce1-8f84-4448-a9f6-62ebeef77a1b" />
 
 
 Pruebas unitarias para validar ingreso de registro de funciones biológicas del paciente
@@ -41,72 +44,74 @@ Los únicos valores permitidos son del 0 al 5
 
 ```Hydration```
 
-![image 11.png](../../image%2011.png)
+<img width="1920" height="1080" alt="image (6)" src="https://github.com/user-attachments/assets/1886452d-4c5d-4871-9bc6-f6b76987a7a9" />
 
 ```Hunger```
 
-![image 12.png](../../image%2012.png)
+<img width="1920" height="1080" alt="image (7)" src="https://github.com/user-attachments/assets/7b49227f-0088-474d-ba23-81ae1f35513b" />
+
 
 ```Sleep```
 
-![image 13.png](../../image%2013.png)
+<img width="1920" height="1080" alt="image (8)" src="https://github.com/user-attachments/assets/392de06c-0650-4bc5-b7af-732a935f295f" />
+
 
 ```Energy```
 
-![image 14.png](../../image%2014.png)
+<img width="1920" height="1080" alt="image (9)" src="https://github.com/user-attachments/assets/22e7d689-1e1a-43b1-838c-3bc7f5ab0219" />
+
 
 - Mood status:
 
 Pruebas unitarias para validar ingreso de registro del estado de ánimo del paciente
 
-![image 15.png](../../image%2015.png)
-
+<img width="1920" height="1080" alt="image (10)" src="https://github.com/user-attachments/assets/4f3bef8f-8d78-43b3-9d20-5a96e4acf7e9" />
 
 - Session class
 
 Esta prueba unitaria valída que las citas no se pueden crear en el pasado o en el futuro.
 
-![image 19.png](../../image%2019.png)
+<img width="1920" height="1080" alt="image (11)" src="https://github.com/user-attachments/assets/33b739cc-5381-4b70-bb3f-e2f95126237d" />
+
 
 - Session Command Service
 
 Esta prueba unitaria utiliza
 
-![image 20.png](../../image%2020.png)
-
+<img width="1920" height="1080" alt="image (12)" src="https://github.com/user-attachments/assets/1873802e-3139-4295-845b-76a411bb0aba" />
 
 
 También se valida que las citas deben ser en el futuro
 
-![image 22.png](../../image%2022.png)
+<img width="1919" height="1068" alt="image (13)" src="https://github.com/user-attachments/assets/7ba02f31-8e84-445c-9aa2-af7064242c21" />
+
 
 ProfessionalSessionController:
 No se pueden crear citas sin el id del paciente
 
-![image 23.png](../../image%2023.png)
+<img width="1912" height="1071" alt="image (14)" src="https://github.com/user-attachments/assets/ea4bb53b-3728-4627-85aa-6e21dc9a0c29" />
 
 De la misma manera no se puede crear una sesión sin el profesional de salud:
 
-![image 24.png](../../image%2024.png)
+<img width="1899" height="1069" alt="image (15)" src="https://github.com/user-attachments/assets/c71ae864-90a4-40dc-a302-7da43904c1de" />
 
 Tampoco se pueden crear sesiones con más de un médico
 
-![image 25.png](../../image%2025.png)
+<img width="1902" height="1072" alt="image (16)" src="https://github.com/user-attachments/assets/c43d3995-094c-401f-b97a-537d7b7e95cb" />
 
-![image 26.png](../../image%2026.png)
+<img width="1901" height="1066" alt="image (17)" src="https://github.com/user-attachments/assets/e39501da-dcf0-4cc4-b3c5-1914550e288d" />
 
 IAM:
 
 Validar creación de cuentas de acuerdo al rol del usuario (profesional o paciente)
 
-![image 27.png](../../image%2027.png)
-
+<img width="1910" height="1075" alt="image (18)" src="https://github.com/user-attachments/assets/9c9d1ce6-a219-4eb6-be9a-b136aed9ed37" />
 
 Profiles:
 
 Solo se aceptan direcciones sin comas por reglas de negocio
 
-![image 31.png](../../image%2031.png)
+<img width="1916" height="1077" alt="image (19)" src="https://github.com/user-attachments/assets/1b767a7a-fd21-45ae-a019-eea3a0803665" />
 
 ## 6.1.2. Core Integration Tests.
 
@@ -116,39 +121,44 @@ Resultado al usar ```mvn test```
 
 Prueba integral
 
-![image 9.png](../../image%209.png)
+<img width="1915" height="990" alt="image (20)" src="https://github.com/user-attachments/assets/3f1effbc-d85c-4237-8226-1374470f5774" />
+
 
 - PillController Test
 
-![image 10.png](../../image%2010.png)
+<img width="1920" height="1080" alt="image (21)" src="https://github.com/user-attachments/assets/d9727712-89eb-4af7-82ee-41b8c8876297" />
+
 
 - Biological Function Controller:
 
-![image 17.png](../../image%2017.png)
+<img width="1910" height="1077" alt="image (22)" src="https://github.com/user-attachments/assets/7f4e6c09-3ed2-498a-84e8-c57bf31f3134" />
+
 
 - MoodState Controller
 
-![image 18.png](../../image%2018.png)
+<img width="1908" height="1079" alt="image (23)" src="https://github.com/user-attachments/assets/532f5bfa-2cc7-429a-8a29-bf2fb0059903" />
+
 
 - SessionReservationController
 
-![image 21.png](../../image%2021.png)
+<img width="1920" height="1080" alt="image (24)" src="https://github.com/user-attachments/assets/9009ee96-5b50-4e9f-ab06-b05626fb0dae" />
 
 
 - IAM:
 
-![image 28.png](../../image%2028.png)
+<img width="1913" height="1075" alt="image (25)" src="https://github.com/user-attachments/assets/e090e41a-9a12-40f9-aa79-4a656823c545" />
 
 Solo debe retornar una cuenta cuando se verifica que esta existe
 
-![image 29.png](../../image%2029.png)
+<img width="1910" height="1075" alt="image (26)" src="https://github.com/user-attachments/assets/7fa62fd8-26b1-4cc8-928e-2d72f060becd" />
 
 
 Authentication Controller Test
 
 Se verifica la cuenta cuando el usuario hace sign in exitosamente
 
-![image 30.png](../../image%2030.png)
+<img width="1914" height="1076" alt="image (27)" src="https://github.com/user-attachments/assets/b7ccd37f-3d58-43db-b013-e7afa9c1914a" />
+
 
 ## 6.1.3. Core Behavior-Driven Development
 
@@ -157,7 +167,7 @@ Se usa lenguaje Gherkin para definir los escenarios de prueba de manera clara y 
 
 Estos archivos se encuentran en el repositorio: https://github.com/Diseno-de-experimentos-Grupo-2/psymed-features.git
 
-![img.png](img.png)
+<img width="1338" height="591" alt="features" src="https://github.com/user-attachments/assets/2e0164f1-835f-4911-adba-6312333119bd" />
 
 A continuación, se presentan los archivos de características (feature files) que agrupan las historias de usuario relacionadas:
 
