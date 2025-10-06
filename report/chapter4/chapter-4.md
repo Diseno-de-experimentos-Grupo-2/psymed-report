@@ -103,7 +103,7 @@ la armonía general de la interfaz.
       Uso: Texto principal o cuerpo de texto, ideal para párrafos largos y contenido estándar.
 
     - **Body 1 / 10px / Regular**  
-      Uso: Detalles secundarios, notas, etiquetas pequeñas o textos de ayuda.
+      Uso: Detalles secundarios, etiquetas pequeñas o textos de ayuda.
 - **Tipo de lenguaje**
   Utilizamos un lenguaje formal para garantizar que los usuarios comprendan 
 claramente la información proporcionada. Este enfoque también refleja nuestro 
@@ -698,8 +698,6 @@ Diagrama dividido por Bounded Context:
 ![dashboard](/assets/DC-Dashboard.jpeg)
 4. Medication Management
 ![medication](/assets/DC-MedicationManagement.jpeg)
-5. Session Notes
-![sesionnotes](/assets/DC-SessionNotes.jpeg)
 
 ### 4.9.2. Class Dictionary.
 
@@ -798,15 +796,16 @@ Esta es la Base de datos de la aplicación, con las tablas y relaciones necesari
 
 
 Tablas por bounded context:
-Las tablas de **BCPatient** almacenan la información de los pacientes, incluyendo su historial clínico, plan de tratamiento, funciones biológicas y estados de ánimo.  
+
+Las tablas de **BC Patient** almacenan la información de los pacientes, incluyendo su historial clínico, plan de tratamiento, funciones biológicas y estados de ánimo.  
 <img width="739" height="399" alt="image" src="https://github.com/user-attachments/assets/630e086e-9739-4d7b-b0c3-9f7ed563f506" />
 
 
-Las tablas de **BCProfessional** almacenan la información de los profesionales de la salud, incluyendo su especialidad y los tratamientos de sus pacientes.  
+Las tablas de **BC Professional** almacenan la información de los profesionales de la salud, incluyendo su especialidad y los tratamientos de sus pacientes.  
 ![ProfesionalsManagmentBC.png](/assets/ProfesionalsManagmentBC.png)
 
-Las tablas de **BCSeccion** almacenan la información de las secciones de la aplicación, incluyendo al profesional asignado y los pacientes que participan en cada sección, además de las notas que se toman en cada sección.  
+Las tablas de **BC Appointment** almacenan la información de las secciones de la aplicación, incluyendo al profesional asignado y los pacientes que participan en cada sección.
 <img width="475" height="586" alt="image" src="https://github.com/user-attachments/assets/ea7caaee-3fce-4d22-8686-0245c5ebbeb7" />
 
-Las tablas de **BCMedication** almacenan la información de los medicamentos y prescripciones que se le asignan a los pacientes.  
+Las tablas de **BC Medication** almacenan la información de los medicamentos y prescripciones que se le asignan a los pacientes.  
 ![MedicalManagmentBC.png](/assets/MedicalManagmentBC.png)

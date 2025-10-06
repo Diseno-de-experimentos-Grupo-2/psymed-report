@@ -142,7 +142,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 - ¿Qué tan seguido interactúas con tu terapeuta, psicólogo o psiquiatra? (Sesiones, chats, llamadas, etc.)
 - ¿Has utilizado alguna vez una plataforma digital para gestionar tus citas o tratamientos médicos? Si es así, ¿cómo fue tu experiencia? ¿Qué aspectos te resultaron más útiles o frustrantes?
 - ¿Te sentirías cómodo utilizando una plataforma digital para interactuar con tu profesional de la salud mental?
-- ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, notas de las sesiones, etc.
+- ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, etc.
 - ¿Te gustaría poder comunicarte con tu profesional de salud mental a través de la plataforma? ¿Qué tipo de comunicación preferirías (mensajes, videollamadas, etc.)?
 
 #### _Preguntas Subjetivas_
@@ -196,7 +196,7 @@ Entrevistado 2:
 
 Resumen:
 
-El entrevistado utiliza plataformas diariamente por su trabajo y no ha utilizado anteriormente alguna herramienta que lo ayude a gestionar pacientes. Menciona que la información se registra mediante un sistema de historia clínica informatizada. Explicó que una sesión toma 45 minutos y las terapias no deben pasar de una hora ya que puede generar agotamiento tanto para el paciente como para el profesional. Además, recalcó la necesidad de hacer seguimiento a los pacientes, sobre todo a aquellos que están en crisis. No obstante, la información del paciente no puede pasar a terceras personas a menos que tenga alguna discapacidad o psicosis. En esos casos se asigna a una persona responsable del paciente.
+El entrevistado utiliza plataformas diariamente por su trabajo y no ha utilizado anteriormente alguna herramienta que lo ayude a gestionar pacientes. Explicó que una sesión toma 45 minutos y las terapias no deben pasar de una hora ya que puede generar agotamiento tanto para el paciente como para el profesional. Además, recalcó la necesidad de hacer seguimiento a los pacientes, sobre todo a aquellos que están en crisis. No obstante, la información del paciente no puede pasar a terceras personas a menos que tenga alguna discapacidad o psicosis. En esos casos se asigna a una persona responsable del paciente.
 Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro proyecto:
 
 - Botón de emergencia
@@ -235,14 +235,14 @@ Entrevistado 1:
     <img src="/assets/Interview1.jpeg"/></img>
 </div>
 
-| Nombre               | Ximena        |
-|----------------------|---------------|
-| Apellido             | Falckenheiner |
-| Edad                 | 23 años       |
-| Distrito             | Jesús María   |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo             |
-| Inicio de entrevista | 1:07:47 minutos |
-| Fin de entrevista    | 1:14:23 minutos |
+| Nombre               | Ximena                                                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Falckenheiner                                                                                                                   |
+| Edad                 | 23 años                                                                                                                         |
+| Distrito             | Jesús María                                                                                                                     |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| Inicio de entrevista | 1:07:47 minutos                                                                                                                 |
+| Fin de entrevista    | 1:14:23 minutos                                                                                                                 |
 
 Resumen:
 
@@ -260,14 +260,14 @@ Entrevistado 2:
 </div>
 
 
-| Nombre               | Alejandra                                                                                                                                      |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Chavez                                                                                                                                         |
-| Edad                 | 20 años                                                                                                                                        |
-| Distrito             | Lince                                                                                                                                          |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
-| Inicio de entrevista | 1:14:23 minutos                                                                                                                                |
-| Fin de entrevista    | 1:24:13 minutos                                                                                                                                |
+| Nombre               | Alessandra                                                                                                                      |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                                          |
+| Edad                 | 20 años                                                                                                                         |
+| Distrito             | Lince                                                                                                                           |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| Inicio de entrevista | 1:14:23 minutos                                                                                                                 |
+| Fin de entrevista    | 1:24:13 minutos                                                                                                                 |
 **Resumen:**
 
 La entrevistada menciona que utiliza plataformas digitales
@@ -283,7 +283,7 @@ con una plataforma que le ayude a llevar un control de sus
 sesiones y tratamiento. Finalmente, brindó feedback sobre
 el proyecto con las siguientes ideas:
 
-- Informacion sobre tips de auto-ayuda.
+- Información sobre tips de autoayuda.
 - Interacciones virtuales para momentos de crisis.
 - Recordatorios de citas.
 - Información general sobre el terapeuta.
@@ -297,14 +297,14 @@ Entrevistado 3:
 </div>
 
 
-| Nombre               | Sebastian                                                                                                                                      |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | muñiz                                                                                                                                          |
-| Edad                 | 21 años                                                                                                                                        |
-| Distrito             | Pueblo libre                                                                                                                                   |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
-| Inicio de entrevista | 1:24:13 minutos                                                                                                                                |
-| Fin de entrevista    | 139:22 minutos                                                                                                                                 |
+| Nombre               | Sebastian                                                                                                                       |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Muñiz                                                                                                                           |
+| Edad                 | 21 años                                                                                                                         |
+| Distrito             | Pueblo libre                                                                                                                    |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| Inicio de entrevista | 1:24:13 minutos                                                                                                                 |
+| Fin de entrevista    | 139:22 minutos                                                                                                                  |
 
 
 **Resumen:**
@@ -349,7 +349,7 @@ comunicación.
 ![AL-medic2.jpg](/assets/AL-medic2.jpg)
 ![AL-medic3.jpg](/assets/AL-medic3.jpg)
 ![AL-medic4.jpg](/assets/AL-medic4.jpg)
-![Al-medic5.jpg](/assets/AL-medic5.jpg)
+![Al-medic5.jpg](/assets/Al-medic5.jpg)
 - 
 - **Segmento 2: Pacientes**
 
@@ -363,9 +363,9 @@ inclinación marcada hacia un solo dispositivo, ya que usan en gran
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
 ![Al-Pat1.png](/assets/Al-Pat1.png)
-![Al-pat2.png](/assets/Al-Pat2.png)
-![Al-pat3.png](/assets/Al-Pat3.png)
-![Al-pat4.png](/assets/Al-Pat4.png)
+![Al-pat2.png](/assets/Al-pat2.png)
+![Al-pat3.png](/assets/Al-pat3.png)
+![Al-pat4.png](/assets/Al-pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -397,30 +397,21 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](/assets/So-patient.png)
+![So-Patient.png](/assets/SO-patient.png)
 
 ## **User Task Matrix**
 
 En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los User Persona (que representan a cada segmento) realizan para cumplir sus objetivos. No se deben confundir tareas (tasks) con opciones o características de software, pues las tareas deben ser realizadas por los segmentos independientemente de la existencia de la solución de software.
 
 
-| Tareas                                                | Médicos de la salud mental/ Importancia | Médicos de la salud mental/ Frecuencia | Pacientes/ Importancia                 | Pacientes/ Frecuencia                  |
-|-------------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
-| Gestión y actualización de historias clínicas         | Alta                                   | Siempre                                | -                                      | -                                      |
-| Programación y gestión de citas                       | Alta                                   | Siempre                                | Alta                                   | A veces                                |
-| Comunicación con otros profesionales de la salud      | Media                                  | A veces                                | -                                      | -                                      |
-| Registro de notas de sesiones                         | Alta                                   | Siempre                                | -                                      | -                                      |
-| Acceso a la información médica relevante              | Alta                                   | Siempre                                | -                                      | -                                      |
-| Revisión de tratamientos y planes terapéuticos        | Alta                                   | A veces                                | -                                      | -                                      |
-| Generación de reportes clínicos                       | Media                                  | A veces                                | -                                      | -                                      |
-| Coordinación de reuniones de equipo multidisciplinario| Media                                  | Nunca                                  | -                                      | -                                      |
-| Agendar y gestionar citas                             | -                                      | -                                      | Alta                                   | A veces                                |
-| Acceso a información sobre tratamientos               | -                                      | -                                      | Alta                                   | A veces                                |
-| Comunicación con el médico                            | -                                      | -                                      | Alta                                   | A veces                                |
-| Seguimiento de citas y recordatorios                  | -                                      | -                                      | Alta                                   | Siempre                                |
-| Acceso a sus propios registros clínicos               | -                                      | -                                      | Media                                  | A veces                                |
-| Participación en encuestas de seguimiento de salud    | -                                      | -                                      | Media                                  | Nunca                                  |
-| Revisión de facturas y pagos                          | -                                      | -                                      | Media                                  | Nunca                                  |
+| Tareas                                         | Médicos de la salud mental/ Importancia | Médicos de la salud mental/ Frecuencia | Pacientes/ Importancia | Pacientes/ Frecuencia |
+|------------------------------------------------|-----------------------------------------|----------------------------------------|------------------------|-----------------------|
+| Programación y gestión de citas                | Alta                                    | Siempre                                | Alta                   | A veces               |
+| Revisión de tratamientos y planes terapéuticos | Alta                                    | A veces                                | -                      | -                     |
+| Generación de reportes clínicos                | Media                                   | A veces                                | -                      | -                     |
+| Coordinación de reuniones                      | Media                                   | Nunca                                  | -                      | -                     |
+| Agendar y gestionar citas                      | -                                       | -                                      | Alta                   | A veces               |
+| Seguimiento de citas y recordatorios           | -                                       | -                                      | Alta                   | Siempre               |
 
 
 ### **Análisis de la Matriz**
@@ -428,7 +419,7 @@ En esta sección se presenta el **User Task Matrix**, que concentra las tareas q
 En la matriz presentada, se pueden observar las siguientes tareas con mayor frecuencia e importancia:
 
 - **Médicos de la salud mental**:
-  - La gestión y actualización de historias clínicas, la programación y gestión de citas, el registro de notas de sesiones, y el acceso a la información médica relevante se destacan por su alta importancia y su frecuencia "Siempre", ya que son esenciales para el desempeño diario de los profesionales.
+  - La programación y gestión de citas y el acceso a la información médica relevante se destacan por su alta importancia y su frecuencia "Siempre", ya que son esenciales para el desempeño diario de los profesionales.
   - La generación de reportes clínicos y la coordinación de reuniones de equipo multidisciplinario, aunque importantes, tienen una frecuencia menor, ya que estas tareas no son realizadas de manera continua.
 
 - **Pacientes**:
@@ -474,7 +465,7 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 - Mental Health Professional (Profesional de la Salud Mental): Persona encargada de la gestión y seguimiento de uno o varios pacientes. Este profesional puede registrar y actualizar información clínica, citas, medicamentos, y realizar un seguimiento del progreso del paciente.
 
 
-- Session (Sesión): Interacción entre el profesional de la salud mental y el paciente. Cada sesión puede generar notas, diagnósticos y actualizaciones en el historial clínico del paciente.
+- Session (Sesión): Interacción entre el profesional de la salud mental y el paciente.
 
 - Medication (Medicamento): Tratamiento prescrito al paciente por el profesional de la salud mental. El estado de los medicamentos puede ser monitoreado y ajustado a lo largo del tiempo.
 
@@ -488,7 +479,7 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 - Appointment (Cita): Fecha y hora programada para una sesión entre el paciente y el profesional de la salud mental.
 
 
-- Diagnosis (Diagnóstico): Evaluación médica realizada por el profesional de la salud mental basada en las sesiones y en el historial clínico del paciente.
+- Diagnosis (Diagnóstico): Evaluación médica realizada por el profesional de la salud mental basada en las sesiones.
 
 
 - Follow-up (Seguimiento): Proceso mediante el cual el profesional de la salud mental revisa y ajusta el tratamiento y plan del paciente, basándose en los datos recolectados (estado emocional, funciones biológicas, y otros).
