@@ -666,6 +666,8 @@ Entonces puede ver todas las citas programas y los detalles de hora y fecha.</li
 </tr>
 </table>
 
+# Historias de usuario para la aplicación Móvil
+
 US12 - Iniciar Sesión como Paciente
 <table>
 <tr>
