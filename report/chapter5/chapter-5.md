@@ -251,11 +251,13 @@ Enlace del Backend deployment: https://psymed-production.up.railway.app
 
 Front-end Web Application: 
 
-
+<img width="453" height="236" alt="ins" src="https://github.com/user-attachments/assets/2eb5abba-04ec-494e-835e-467f60a994b1" />
 
 Back-end Web Application:
 
+<img width="451" height="233" alt="2" src="https://github.com/user-attachments/assets/48a629d2-ae13-4855-9a80-484cfecd9ba9" />
 
 Mobile Application: 
 
+<img width="456" height="237" alt="3" src="https://github.com/user-attachments/assets/9db9ca0a-679f-42f1-9879-1b79bf06f242" />
 
