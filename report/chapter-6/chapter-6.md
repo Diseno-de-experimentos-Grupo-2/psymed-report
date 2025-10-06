@@ -12,30 +12,30 @@ El backedn de PSYMED está desarrollado en Java utilizando el framework Spring B
 - Bounded context Medication:
   ```getId() test```
   
-<img width="1423" height="850" alt="image" src="https://github.com/user-attachments/assets/2de3127d-060d-4520-b793-06ba056bf2eb" />
+<img src="https://github.com/user-attachments/assets/2de3127d-060d-4520-b793-06ba056bf2eb" />
 
 ```getName() test```
 
-<img width="1478" height="713" alt="image (1)" src="https://github.com/user-attachments/assets/f92236ee-8b37-489e-b95c-b261ad93b30d" />
+<img src="https://github.com/user-attachments/assets/f92236ee-8b37-489e-b95c-b261ad93b30d" />
 
 
 ```getDescription()```
 
-<img width="1428" height="923" alt="image (2)" src="https://github.com/user-attachments/assets/7900ac5a-792f-4cf0-b6d2-4453e142f6fc" />
+<img src="https://github.com/user-attachments/assets/7900ac5a-792f-4cf0-b6d2-4453e142f6fc" />
 
 
 ```getPatientId()```
 
-<img width="1474" height="880" alt="image (3)" src="https://github.com/user-attachments/assets/25d56c1c-5d80-4284-be05-c56e6b32e890" />
+<img src="https://github.com/user-attachments/assets/25d56c1c-5d80-4284-be05-c56e6b32e890" />
 
 
 ```getInterval()```
 
-<img width="1430" height="850" alt="image (4)" src="https://github.com/user-attachments/assets/360f0a66-0a0d-4cee-a8f5-b996bf418183" />
+<img src="https://github.com/user-attachments/assets/360f0a66-0a0d-4cee-a8f5-b996bf418183" />
 
 ```getQuantity()```
 
-<img width="1283" height="841" alt="image (5)" src="https://github.com/user-attachments/assets/74f89ce1-8f84-4448-a9f6-62ebeef77a1b" />
+<img src="https://github.com/user-attachments/assets/74f89ce1-8f84-4448-a9f6-62ebeef77a1b" />
 
 
 Pruebas unitarias para validar ingreso de registro de funciones biológicas del paciente
@@ -44,74 +44,74 @@ Los únicos valores permitidos son del 0 al 5
 
 ```Hydration```
 
-<img width="1920" height="1080" alt="image (6)" src="https://github.com/user-attachments/assets/1886452d-4c5d-4871-9bc6-f6b76987a7a9" />
+<img src="https://github.com/user-attachments/assets/1886452d-4c5d-4871-9bc6-f6b76987a7a9" />
 
 ```Hunger```
 
-<img width="1920" height="1080" alt="image (7)" src="https://github.com/user-attachments/assets/7b49227f-0088-474d-ba23-81ae1f35513b" />
+<img src="https://github.com/user-attachments/assets/7b49227f-0088-474d-ba23-81ae1f35513b" />
 
 
 ```Sleep```
 
-<img width="1920" height="1080" alt="image (8)" src="https://github.com/user-attachments/assets/392de06c-0650-4bc5-b7af-732a935f295f" />
+<img src="https://github.com/user-attachments/assets/392de06c-0650-4bc5-b7af-732a935f295f" />
 
 
 ```Energy```
 
-<img width="1920" height="1080" alt="image (9)" src="https://github.com/user-attachments/assets/22e7d689-1e1a-43b1-838c-3bc7f5ab0219" />
+<img src="https://github.com/user-attachments/assets/22e7d689-1e1a-43b1-838c-3bc7f5ab0219" />
 
 
 - Mood status:
 
 Pruebas unitarias para validar ingreso de registro del estado de ánimo del paciente
 
-<img width="1920" height="1080" alt="image (10)" src="https://github.com/user-attachments/assets/4f3bef8f-8d78-43b3-9d20-5a96e4acf7e9" />
+<img src="https://github.com/user-attachments/assets/4f3bef8f-8d78-43b3-9d20-5a96e4acf7e9" />
 
 - Session class
 
 Esta prueba unitaria valída que las citas no se pueden crear en el pasado o en el futuro.
 
-<img width="1920" height="1080" alt="image (11)" src="https://github.com/user-attachments/assets/33b739cc-5381-4b70-bb3f-e2f95126237d" />
+<img src="https://github.com/user-attachments/assets/33b739cc-5381-4b70-bb3f-e2f95126237d" />
 
 
 - Session Command Service
 
 Esta prueba unitaria utiliza
 
-<img width="1920" height="1080" alt="image (12)" src="https://github.com/user-attachments/assets/1873802e-3139-4295-845b-76a411bb0aba" />
+<img src="https://github.com/user-attachments/assets/1873802e-3139-4295-845b-76a411bb0aba" />
 
 
 También se valida que las citas deben ser en el futuro
 
-<img width="1919" height="1068" alt="image (13)" src="https://github.com/user-attachments/assets/7ba02f31-8e84-445c-9aa2-af7064242c21" />
+<img src="https://github.com/user-attachments/assets/7ba02f31-8e84-445c-9aa2-af7064242c21" />
 
 
 ProfessionalSessionController:
 No se pueden crear citas sin el id del paciente
 
-<img width="1912" height="1071" alt="image (14)" src="https://github.com/user-attachments/assets/ea4bb53b-3728-4627-85aa-6e21dc9a0c29" />
+<img src="https://github.com/user-attachments/assets/ea4bb53b-3728-4627-85aa-6e21dc9a0c29" />
 
 De la misma manera no se puede crear una sesión sin el profesional de salud:
 
-<img width="1899" height="1069" alt="image (15)" src="https://github.com/user-attachments/assets/c71ae864-90a4-40dc-a302-7da43904c1de" />
+<img src="https://github.com/user-attachments/assets/c71ae864-90a4-40dc-a302-7da43904c1de" />
 
 Tampoco se pueden crear sesiones con más de un médico
 
-<img width="1902" height="1072" alt="image (16)" src="https://github.com/user-attachments/assets/c43d3995-094c-401f-b97a-537d7b7e95cb" />
+<img src="https://github.com/user-attachments/assets/c43d3995-094c-401f-b97a-537d7b7e95cb" />
 
-<img width="1901" height="1066" alt="image (17)" src="https://github.com/user-attachments/assets/e39501da-dcf0-4cc4-b3c5-1914550e288d" />
+<img src="https://github.com/user-attachments/assets/e39501da-dcf0-4cc4-b3c5-1914550e288d" />
 
 IAM:
 
 Validar creación de cuentas de acuerdo al rol del usuario (profesional o paciente)
 
-<img width="1910" height="1075" alt="image (18)" src="https://github.com/user-attachments/assets/9c9d1ce6-a219-4eb6-be9a-b136aed9ed37" />
+<img src="https://github.com/user-attachments/assets/9c9d1ce6-a219-4eb6-be9a-b136aed9ed37" />
 
 Profiles:
 
 Solo se aceptan direcciones sin comas por reglas de negocio
 
-<img width="1916" height="1077" alt="image (19)" src="https://github.com/user-attachments/assets/1b767a7a-fd21-45ae-a019-eea3a0803665" />
+<img src="https://github.com/user-attachments/assets/1b767a7a-fd21-45ae-a019-eea3a0803665" />
 
 ## 6.1.2. Core Integration Tests.
 
@@ -121,43 +121,43 @@ Resultado al usar ```mvn test```
 
 Prueba integral
 
-<img width="1915" height="990" alt="image (20)" src="https://github.com/user-attachments/assets/3f1effbc-d85c-4237-8226-1374470f5774" />
+<img src="https://github.com/user-attachments/assets/3f1effbc-d85c-4237-8226-1374470f5774" />
 
 
 - PillController Test
 
-<img width="1920" height="1080" alt="image (21)" src="https://github.com/user-attachments/assets/d9727712-89eb-4af7-82ee-41b8c8876297" />
+<img src="https://github.com/user-attachments/assets/d9727712-89eb-4af7-82ee-41b8c8876297" />
 
 
 - Biological Function Controller:
 
-<img width="1910" height="1077" alt="image (22)" src="https://github.com/user-attachments/assets/7f4e6c09-3ed2-498a-84e8-c57bf31f3134" />
+<img src="https://github.com/user-attachments/assets/7f4e6c09-3ed2-498a-84e8-c57bf31f3134" />
 
 
 - MoodState Controller
 
-<img width="1908" height="1079" alt="image (23)" src="https://github.com/user-attachments/assets/532f5bfa-2cc7-429a-8a29-bf2fb0059903" />
+<img src="https://github.com/user-attachments/assets/532f5bfa-2cc7-429a-8a29-bf2fb0059903" />
 
 
 - SessionReservationController
 
-<img width="1920" height="1080" alt="image (24)" src="https://github.com/user-attachments/assets/9009ee96-5b50-4e9f-ab06-b05626fb0dae" />
+<img src="https://github.com/user-attachments/assets/9009ee96-5b50-4e9f-ab06-b05626fb0dae" />
 
 
 - IAM:
 
-<img width="1913" height="1075" alt="image (25)" src="https://github.com/user-attachments/assets/e090e41a-9a12-40f9-aa79-4a656823c545" />
+<img src="https://github.com/user-attachments/assets/e090e41a-9a12-40f9-aa79-4a656823c545" />
 
 Solo debe retornar una cuenta cuando se verifica que esta existe
 
-<img width="1910" height="1075" alt="image (26)" src="https://github.com/user-attachments/assets/7fa62fd8-26b1-4cc8-928e-2d72f060becd" />
+<img src="https://github.com/user-attachments/assets/7fa62fd8-26b1-4cc8-928e-2d72f060becd" />
 
 
 Authentication Controller Test
 
 Se verifica la cuenta cuando el usuario hace sign in exitosamente
 
-<img width="1914" height="1076" alt="image (27)" src="https://github.com/user-attachments/assets/b7ccd37f-3d58-43db-b013-e7afa9c1914a" />
+<img src="https://github.com/user-attachments/assets/b7ccd37f-3d58-43db-b013-e7afa9c1914a" />
 
 
 ## 6.1.3. Core Behavior-Driven Development
@@ -167,7 +167,7 @@ Se usa lenguaje Gherkin para definir los escenarios de prueba de manera clara y 
 
 Estos archivos se encuentran en el repositorio: https://github.com/Diseno-de-experimentos-Grupo-2/psymed-features.git
 
-<img width="1338" height="591" alt="features" src="https://github.com/user-attachments/assets/2e0164f1-835f-4911-adba-6312333119bd" />
+<img src="https://github.com/user-attachments/assets/2e0164f1-835f-4911-adba-6312333119bd" />
 
 A continuación, se presentan los archivos de características (feature files) que agrupan las historias de usuario relacionadas:
 
@@ -403,75 +403,75 @@ Cada prueba está validada por los user stories:
 
 Como profesional de la salud mental quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.
 
-<img width="1920" height="1080" alt="cp" src="https://github.com/user-attachments/assets/fe36685e-3b6f-4ada-851f-6118a49745e1" />
+<img src="https://github.com/user-attachments/assets/fe36685e-3b6f-4ada-851f-6118a49745e1" />
 
 - US02	Inicio de sesión como pacientes
 
 Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.
 
-<img width="1920" height="1080" alt="pl" src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
+<img src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
 
 - US03	Inicio de sesión como profesional de la salud mental
 
 Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.
 
-<img width="1920" height="1080" alt="log" src="https://github.com/user-attachments/assets/a7f60860-edcb-4079-b530-0f3b8e069a49" />
+<img src="https://github.com/user-attachments/assets/a7f60860-edcb-4079-b530-0f3b8e069a49" />
 
 - US04	Registro de información personal del paciente
 
 Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.
 
-<img width="1920" height="1080" alt="p" src="https://github.com/user-attachments/assets/f49a2b65-35eb-42e3-b410-81c2bdb3e052" />
+<img src="https://github.com/user-attachments/assets/f49a2b65-35eb-42e3-b410-81c2bdb3e052" />
 
 - US05	Visualización del estado actual de ánimo del paciente
 
 Como profesional de la salud mental, quiero visualizar el estado de ánimo actual del paciente para evaluar su condición emocional.
 
-<img width="1920" height="1080" alt="mp" src="https://github.com/user-attachments/assets/517488bc-032c-4c4b-aec7-eda3a1a69e6a" />
+<img src="https://github.com/user-attachments/assets/517488bc-032c-4c4b-aec7-eda3a1a69e6a" />
 
 - US06	Registro de estado de ánimo
 
 Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver mi estado actual.
 
-<img width="1919" height="1080" alt="mood" src="https://github.com/user-attachments/assets/47fdc90f-1ce4-43f1-8601-bb128153590d" />
+<img src="https://github.com/user-attachments/assets/47fdc90f-1ce4-43f1-8601-bb128153590d" />
 
 Solo puede registrarse el estado de ánimo una vez al día
 
-<img width="1920" height="1080" alt="bm" src="https://github.com/user-attachments/assets/9c8b24cd-2492-41bd-988c-d73ba9992213" />
+<img src="https://github.com/user-attachments/assets/9c8b24cd-2492-41bd-988c-d73ba9992213" />
 
 - US07	Registro de funciones biológicas
 
 Como paciente, quiero registrar la calidad de mis funciones biológicas para que mi paciente conozca mi estado actual de salud.
 
-<img width="1920" height="1080" alt="bf" src="https://github.com/user-attachments/assets/e3941525-2db2-4497-9392-e6597dae2367" />
+<img src="https://github.com/user-attachments/assets/e3941525-2db2-4497-9392-e6597dae2367" />
 
 
 - US08	Registro de medicamentos del paciente
 
 Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico
 
-<img width="1920" height="1080" alt="cm" src="https://github.com/user-attachments/assets/eb15442f-db73-4bbb-b7ad-5136a61a036a" />
+<img src="https://github.com/user-attachments/assets/eb15442f-db73-4bbb-b7ad-5136a61a036a" />
 
 
 - Ver medicamentos
 
 Como paciente quiero poder ver los medicamentos que mi profesional de salud mental ha asignado para poder estar pendiente de cuales consumir
 
-<img width="1920" height="1080" alt="med" src="https://github.com/user-attachments/assets/6844c2bc-69bf-4c84-b2dc-5ee71e7c8e18" />
+<img src="https://github.com/user-attachments/assets/6844c2bc-69bf-4c84-b2dc-5ee71e7c8e18" />
 
 
 - Creación de citas
 
 Como profesional de la salud quiero agendar las citas de mis pacientes
 
-<img width="1920" height="1080" alt="cc" src="https://github.com/user-attachments/assets/e32a0d39-dc93-4509-b31c-ddf4958da6c9" />
+<img src="https://github.com/user-attachments/assets/e32a0d39-dc93-4509-b31c-ddf4958da6c9" />
 
 
 - Ver citas médicas
 
 Como paciente quiero poder ver las citas médicas programadas para poder saber que días ir al consultorio del profesional de salud mental
 
-<img width="1920" height="1080" alt="c" src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
+<img src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
 
 
 ### Versión Móvil
@@ -480,35 +480,35 @@ Como paciente quiero poder ver las citas médicas programadas para poder saber q
 
 Como Paciente, quiero poder iniciar sesión con mi usuario y contraseña para acceder a mi información personal y de salud dentro de la aplicación.
 
-<img width="1920" height="1080" alt="ccc" src="https://github.com/user-attachments/assets/010d7484-3461-4c85-9c71-dd3627833d7a" />
+<img src="https://github.com/user-attachments/assets/010d7484-3461-4c85-9c71-dd3627833d7a" />
 
 
 - US13	Visualizar Información de Perfil:
 
 Como Paciente, quiero poder ver mi información personal (Correo Electrónico, Dirección, ID de Paciente y ID de Profesional) en la sección "Mi Perfil" para confirmar que mis datos son correctos.
 
-<img width="1920" height="1080" alt="perfil" src="https://github.com/user-attachments/assets/927737b9-901f-4ff8-9ad9-f3570ce4748a" />
+<img src="https://github.com/user-attachments/assets/927737b9-901f-4ff8-9ad9-f3570ce4748a" />
 
 - US14	Cerrar Sesión:
 
 Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla de Mi Perfil para proteger mi privacidad.
 
-<img width="1920" height="1080" alt="cse" src="https://github.com/user-attachments/assets/dfda97a6-4b69-4b7e-8d0f-f3b95ec0d5a3" />
+<img src="https://github.com/user-attachments/assets/dfda97a6-4b69-4b7e-8d0f-f3b95ec0d5a3" />
 
 - US15	Registrar Mi Estado de Salud Diario:
 
 Como Paciente, quiero poder registrar mi estado de salud diario (Mood, Hunger, Hydration, Sleep Quality, Energy Level) para llevar un seguimiento de mi bienestar.
 
-<img width="1917" height="1080" alt="m3" src="https://github.com/user-attachments/assets/af11c2dd-44f5-4ea9-bb85-423d60b159a2" />
+<img src="https://github.com/user-attachments/assets/af11c2dd-44f5-4ea9-bb85-423d60b159a2" />
 
 
 - US16	Consultar Mi Lista de Medicamentos:
 
 Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados para conocer el nombre, el motivo, la frecuencia (Intervalo) y la Cantidad de cada uno.
 
-<img width="1920" height="1080" alt="m2" src="https://github.com/user-attachments/assets/79b82a41-10cb-42f4-9c8d-d341a9850327" />
+<img src="https://github.com/user-attachments/assets/79b82a41-10cb-42f4-9c8d-d341a9850327" />
 
 - US17	Ver Próximas Citas:
   Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.
   
-<img width="1920" height="1080" alt="citas" src="https://github.com/user-attachments/assets/bdff83fc-5368-4bba-8f72-09d30fdea540" />
+<img src="https://github.com/user-attachments/assets/bdff83fc-5368-4bba-8f72-09d30fdea540" />
