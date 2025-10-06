@@ -197,9 +197,6 @@ La Landing Page fue hecho deploy a través de GitHub Pages, y se puede acceder a
 ![alt text](../../assets/Landing3.png)
 ![alt text](../../assets/Landing4.png)
 ![alt text](../../assets/Landing5.png)
-![alt text](../../assets/Landing6.png)
-![alt text](../../assets/Landing7.png)
-![alt text](../../assets/Landing8.png)
 
 ### 5.2.1.3. Implemented Frontend-Web Application Evidence.
 
