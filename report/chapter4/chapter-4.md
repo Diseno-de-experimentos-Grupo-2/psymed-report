@@ -414,11 +414,21 @@ En esta sección se presenta el prototipo de la aplicación móvil para Android.
 
 El prototipo puede visualizarse en el siguiente enlace: [https://marvelapp.com/prototype/34ij6a2g](https://marvelapp.com/prototype/34ij6a2g)
 
+<br> 
+
+<img src="https://github.com/user-attachments/assets/2f3926b3-9351-4ca1-94e3-2b447b9b9357" />
+
+
 ### 4.5.2. iOS Mobile Applications Prototyping. 
 
 En esta sección se presenta el prototipo de la aplicación móvil para iOS. El prototipo refleja las pantallas principales, la navegación y la interacción previstas para los usuarios del sistema en dispositivos Apple.
 
 El prototipo puede visualizarse en el siguiente enlace: [https://marvelapp.com/prototype/34ij6a2g](https://marvelapp.com/prototype/34ij6a2g)
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/a1fb75d5-5c7a-4a90-9655-d5605377cfb6" />
+
 
 ## 4.6. Web Applications UX/UI Design
 
