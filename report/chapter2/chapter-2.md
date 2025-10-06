@@ -297,14 +297,14 @@ Entrevistado 3:
 </div>
 
 
-| Nombre               | Sebastian                                                                                                                                      |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | muñiz                                                                                                                                          |
-| Edad                 | 21 años                                                                                                                                        |
-| Distrito             | Pueblo libre                                                                                                                                   |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
-| Inicio de entrevista | 1:24:13 minutos                                                                                                                                |
-| Fin de entrevista    | 139:22 minutos                                                                                                                                 |
+| Nombre               | Sebastian                                                                                                                       |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Muñiz                                                                                                                           |
+| Edad                 | 21 años                                                                                                                         |
+| Distrito             | Pueblo libre                                                                                                                    |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| Inicio de entrevista | 1:24:13 minutos                                                                                                                 |
+| Fin de entrevista    | 139:22 minutos                                                                                                                  |
 
 
 **Resumen:**
