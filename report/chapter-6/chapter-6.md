@@ -480,19 +480,20 @@ Como paciente quiero poder ver las citas médicas programadas para poder saber q
 
 Como Paciente, quiero poder iniciar sesión con mi usuario y contraseña para acceder a mi información personal y de salud dentro de la aplicación.
 
+<img width="1920" height="1080" alt="ccc" src="https://github.com/user-attachments/assets/010d7484-3461-4c85-9c71-dd3627833d7a" />
 
 
 - US13	Visualizar Información de Perfil:
 
 Como Paciente, quiero poder ver mi información personal (Correo Electrónico, Dirección, ID de Paciente y ID de Profesional) en la sección "Mi Perfil" para confirmar que mis datos son correctos.
 
-
+<img width="1920" height="1080" alt="perfil" src="https://github.com/user-attachments/assets/927737b9-901f-4ff8-9ad9-f3570ce4748a" />
 
 - US14	Cerrar Sesión:
 
 Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla de Mi Perfil para proteger mi privacidad.
 
-
+<img width="1920" height="1080" alt="cse" src="https://github.com/user-attachments/assets/dfda97a6-4b69-4b7e-8d0f-f3b95ec0d5a3" />
 
 - US15	Registrar Mi Estado de Salud Diario:
 
