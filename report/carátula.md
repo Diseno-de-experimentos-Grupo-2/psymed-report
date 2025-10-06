@@ -76,7 +76,8 @@
 
 
 ## Project Report Collaboration Insights
-<img width="908" height="455" alt="image" src="https://github.com/user-attachments/assets/04cad86f-a510-4851-adff-0ccd40927754" />
+
+<img width="928" height="482" alt="inisss" src="https://github.com/user-attachments/assets/7234530d-4d15-47d8-bf5f-943253430be7" />
 
 # Contenido
 ## Tabla de Contenidos
