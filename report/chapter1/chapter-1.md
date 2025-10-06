@@ -182,7 +182,7 @@ El segmento inicial para la implementación de esta plataforma estará compuesto
 
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](/assets/Lean%20UX%20Canvas.png)
+<img src="https://github.com/Diseno-de-experimentos-Grupo-2/psymed-report/blob/tp/assets/Lean%20UX%20Canvas2.png?raw=true">
 
 ### Segmentos objetivo
 - Psiquiatras y Profesionales de la Salud Mental:
