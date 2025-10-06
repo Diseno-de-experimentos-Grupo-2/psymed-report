@@ -10,17 +10,13 @@ Trello: Plataforma de gestión de proyectos basada en tableros Kanban. Será uti
 
 Ruta de referencia: https://trello.com/es
 
-Tableros de la organización: https://trello.com/w/closedsource1/home
-
+Tableros de la organización: https://trello.com/invite/b/68e438bc12fe9651d240dfe1/ATTIc34f9aa0fa66bc1feb777cef9467dfeeE331B2D7/diseno
 
 
 
 **Product UX/UI Design**
 
 1. Figma: Herramienta colaborativa para el diseño de interfaces y prototipado. Se empleará en la construcción de los prototipos de la aplicación, tanto en su versión Desktop como en Mobile Web Browser. Facilita el diseño en equipo y permite iterar rápidamente en el aspecto visual antes del desarrollo.
-
-Ruta de referencia: https://www.figma.com/login
-2. Figma: Herramienta colaborativa para el diseño de interfaces y prototipado. Se empleará en la construcción de los prototipos de la aplicación, tanto en su versión Desktop como en Mobile Web Browser. Facilita el diseño en equipo y permite iterar rápidamente en el aspecto visual antes del desarrollo.
 
 Ruta de referencia: https://www.figma.com/login
 
@@ -147,136 +143,50 @@ Una vez completado el despliegue, la landing page quedará publicada y accesible
 
 ### 5.2.1.2. Sprint Backlog 1
 
-<table>
-<tr>
-    <th colspan="3">Sprint #</th>
-    <th colspan="10">Sprint 1</th>
-</tr>
-<tr>
-    <td colspan="3">User Story</td>
-    <td colspan="10">Work-Item/Task</td>
-</tr>
-<tr>
-    <td colspan="1">Id</td>
-    <td colspan="2">Title</td>
-    <td colspan="1">Id</td>
-    <td colspan="2">Title</td>
-    <td colspan="3">Description</td>
-    <td colspan="1">Estimation</td>
-    <td colspan="2">Assigned To</td>
-    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
-</tr>
-<tr>
-    <td colspan="1">US01</td>
-    <td colspan="2">Registro como profesional de la salud mental</td>
-    <td colspan="1">EP01</td>
-    <td colspan="2">Implementar módulo de registro de profesionales de salud mental</td>
-    <td colspan="3">Desarrollar el formulario de registro con validaciones, manejo de errores (campos vacíos y correo duplicado) y conexión al backend para la creación de cuenta con rol profesional.</td>
-    <td colspan="1">8</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">Inicio de Sesión como pacientes</td>
-    <td colspan="1">EP02</td>
-    <td colspan="2">Implementar módulo de inicio de sesión para pacientes</td>
-    <td colspan="3">Crear la vista de login para pacientes, con validación de credenciales, manejo de errores de autenticación y flujo de recuperación de contraseña mediante correo electrónico.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US03</td>
-    <td colspan="2">Inicio de sesión como profesional de la salud mental</td>
-    <td colspan="1">EP03</td>
-    <td colspan="2">Implementar módulo de inicio de sesión para profesionales de salud mental</td>
-    <td colspan="3">Desarrollar formulario de login con asignación de rol profesional, validación de credenciales, recuperación de contraseña y redirección al panel correspondiente.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US04</td>
-    <td colspan="2">Registro de información personal del paciente</td>
-    <td colspan="1">EP04</td>
-    <td colspan="2">Implementar registro de información personal del paciente</td>
-    <td colspan="3">Crear formulario y servicio que permita al profesional registrar y guardar datos personales del paciente en la base de datos, mostrando validaciones y confirmación de guardado.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US05</td>
-    <td colspan="2">Vizualización del estado actual de ánimo del paciente</td>
-    <td colspan="1">EP05</td>
-    <td colspan="2">Implementar vista de visualización del estado de ánimo del paciente</td>
-    <td colspan="3">Desarrollar interfaz que muestre el estado de ánimo actual y pasado del paciente, incluyendo manejo de casos sin registros.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US06</td>
-    <td colspan="2">Registro de estado de ánimo</td>
-    <td colspan="1">EP06</td>
-    <td colspan="2">Implementar registro y visualización de estado de ánimo del paciente</td>
-    <td colspan="3">Crear formulario para que el paciente registre su estado emocional, y vista con historial cronológico o calendario de registros.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US07</td>
-    <td colspan="2">Registro de funciones biológicas</td>
-    <td colspan="1">EP07</td>
-    <td colspan="2">Implementar formulario de registro de funciones biológicas</td>
-    <td colspan="3">Crear interfaz que permita registrar niveles de sueño, hambre, energía e hidratación (escala del 1 al 5) y guardar los datos en el backend.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US08</td>
-    <td colspan="2">Registro de medicamentos del paciente</td>
-    <td colspan="1">EP08</td>
-    <td colspan="2">Implementar registro de medicamentos del paciente</td>
-    <td colspan="3">Permitir al profesional ingresar, editar y guardar medicamentos en el perfil del paciente, validando campos y mostrando mensajes de éxito o error.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US09</td>
-    <td colspan="2">Ver medicamentos</td>
-    <td colspan="1">EP09</td>
-    <td colspan="2">Implementar vista de medicamentos del paciente</td>
-    <td colspan="3">Crear sección donde el paciente pueda ver los medicamentos recetados por su profesional, con detalles como dosis y frecuencia.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US10</td>
-    <td colspan="2">Creación de citas</td>
-    <td colspan="1">EP10</td>
-    <td colspan="2">Implementar módulo de creación de citas médicas</td>
-    <td colspan="3">Permitir al profesional agendar nuevas citas asociadas a pacientes, especificando fecha, hora y motivo, con almacenamiento en la base de datos.</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US11</td>
-    <td colspan="2">Ver citas médicas</td>
-    <td colspan="1">EP11</td>
-    <td colspan="2">Implementar vista de citas médicas para el paciente</td>
-    <td colspan="3">Mostrar al paciente la lista de citas programadas con fecha, hora y detalles del profesional asignado.</td>
-    <td colspan="1">4</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-</table>
+**Sprint 1 — Estado: DONE**  
+**Miembros:** Paolo, Romina, Marco, Fátima
+
+---
+
+## Resumen
+**Duración estimada:** 2 semanas  
+**Objetivo del sprint:** Implementar el flujo completo de autenticación, registro de usuarios (paciente y profesional), registro de datos clínicos y visualización básica de información en la aplicación web y móvil.
+
+---
+
+## User Stories Completadas
+
+| Nº | Título                                                         | Descripción                                                                     | Story Points | Responsable | Estado |
+|----|----------------------------------------------------------------|---------------------------------------------------------------------------------|--------------|-------------|--------|
+| 1  | Registro como profesional de la salud mental                   | Registro con credenciales para acceder a funcionalidades y gestionar pacientes. | 8            | Paolo       | DONE   |
+| 2  | Inicio de sesión como paciente                                 | Autenticación del paciente y acceso a su información personal y de tratamiento. | 8            | Romina      | DONE   |
+| 3  | Inicio de sesión como profesional de la salud mental           | Autenticación del profesional para gestionar datos de pacientes.                | 8            | Paolo       | DONE   |
+| 4  | Iniciar sesión como Paciente en la app móvil                   | Login móvil con usuario y contraseña.                                           | 8            | Fátima      | DONE   |
+| 5  | Registro de información personal del paciente                  | Ingreso de datos personales del paciente.                                       | 5            | Marco       | DONE   |
+| 6  | Registro de estado de ánimo                                    | Registro de estado emocional del paciente.                                      | 5            | Romina      | DONE   |
+| 7  | Registro de funciones biológicas                               | Registro de calidad de sueño, hambre, hidratación, etc.                         | 5            | Marco       | DONE   |
+| 8  | Registrar estado de salud diario (móvil)                       | Registro diario del estado físico y emocional del paciente.                     | 5            | Fátima      | DONE   |
+| 9  | Consultar lista de medicamentos (móvil)                        | Visualización de medicamentos asignados.                                        | 5            | Romina      | DONE   |
+| 10 | Visualización del estado de ánimo del paciente                 | Profesional visualiza el estado emocional del paciente.                         | 3            | Paolo       | DONE   |
+| 11 | Registro de medicamentos del paciente                          | Asignación de medicamentos por parte del profesional.                           | 3            | Marco       | DONE   |
+| 12 | Ver medicamentos                                               | Paciente visualiza medicamentos asignados.                                      | 3            | Fátima      | DONE   |
+| 13 | Visualizar información de perfil (móvil)                       | Visualización de datos de perfil del paciente.                                  | 3            | Romina      | DONE   |
+| 14 | Ver próximas citas (móvil)                                     | Listado de próximas citas médicas.                                              | 3            | Marco       | DONE   |
+| 15 | Creación de citas                                              | Profesional agenda citas con pacientes.                                         | 2            | Paolo       | DONE   |
+| 16 | Ver citas médicas                                              | Paciente consulta sus citas programadas.                                        | 2            | Fátima      | DONE   |
+| 17 | Cerrar sesión (móvil)                                          | Logout seguro desde la app.                                                     | 2            | Romina      | DONE   |
+| 18 | Información del propósito de la aplicación (Landing Page)      | Sección explicativa sobre la utilidad del sistema.                              | 1            | Fátima      | DONE   |
+| 19 | Visualización de imágenes y gráficos relevantes (Landing Page) | Diseño visual atractivo con gráficos informativos.                              | 1            | Marco       | DONE   |
+| 20 | Tipografía cómoda y estética (Landing Page)                    | Tipografía legible y estética para visitantes.                                  | 1            | Paolo       | DONE   |
+
+---
+
+## Totales
+- **Total de historias:** 20
+- **Total de Story Points:** 77
+- **Velocidad del equipo:** 77 pts/sprint
+- **Estado general:** 100% completado
+
 
 ### 5.2.1.2. Implmented Landing Page Evidence.
 
@@ -287,9 +197,6 @@ La Landing Page fue hecho deploy a través de GitHub Pages, y se puede acceder a
 ![alt text](../../assets/Landing3.png)
 ![alt text](../../assets/Landing4.png)
 ![alt text](../../assets/Landing5.png)
-![alt text](../../assets/Landing6.png)
-![alt text](../../assets/Landing7.png)
-![alt text](../../assets/Landing8.png)
 
 ### 5.2.1.3. Implemented Frontend-Web Application Evidence.
 
