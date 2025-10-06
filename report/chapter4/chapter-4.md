@@ -452,9 +452,6 @@ Cambio de Contraseña: Permite a los usuarios restablecer su contraseña en caso
 
 ![Wireframes.jpg](/assets/WireFrames(4).png)
 
-Profesionales Home: Pantalla de inicio para los profesionales de la salud, que proporciona acceso a todas las herramientas y funciones disponibles para el manejo de pacientes.
-
-![Wireframes.jpg](/assets/WireFrames(14).png)
 
 Perfil Profesional: Sección donde los profesionales pueden ver su información personal y profesional.
 
@@ -468,10 +465,6 @@ Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos 
 
 ![Wireframes.jpg](/assets/WireFrames(10).png)
 
-Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
-
-![Wireframes.jpg](/assets/WireFrames(13).png)
-
 Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
 
 ![Wireframes.jpg](/assets/WireFrames(5).png)
@@ -480,17 +473,9 @@ Edición de Cita: Función que permite modificar los detalles de una cita previa
 
 ![Wireframes.jpg](/assets/WireFrames(6).png)
 
-Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
-
-![Wireframes.jpg](/assets/WireFrames(16).png)
-
 Agenda Profesional: Calendario donde los profesionales pueden ver todas sus citas programadas y tareas pendientes, organizadas de manera diaria o semanal.
 
 ![Wireframes.jpg](/assets/WireFrames(2).png)
-
-Datos del Paciente: Pantalla que permite a los profesionales acceder a toda la información relevante de un paciente, incluyendo historial médico y documentación.
-
-![Wireframes.jpg](/assets/WireFrames(7).png)
 
 Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
 
@@ -499,10 +484,6 @@ Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los e
 Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
 
 ![Wireframes.jpg](/assets/WireFrames(1).png)
-
-Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
-
-![Wireframes.jpg](/assets/WireFrames(18).png)
 
 Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
 
@@ -514,14 +495,6 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 ### 4.6.3. Web Applications Mock-ups
 
 En este apartado se muestran los Mock-Ups de la Aplicación Web, con notable más detalle que los Wireframes. Cada pantalla tiene un nombre y propósito específico.
-
-Home: Pantalla principal de la aplicación, que proporciona acceso a las diferentes funciones y secciones, como el registro, inicio de sesión y navegación general de la aplicación.
-
-![Wireframes.jpg](/assets/MockUps(9).png)
-
-Register: Sección donde los nuevos usuarios pueden crear una cuenta proporcionando su información personal y credenciales para acceder a la aplicación.
-
-![Wireframes.jpg](/assets/MockUps(15).png)
 
 Login: Pantalla donde los usuarios existentes pueden ingresar sus credenciales para acceder a su cuenta y las funciones principales de la plataforma.
 
@@ -543,21 +516,9 @@ Agregar Paciente: Función que permite a los profesionales registrar nuevos paci
 
 ![Wireframes.jpg](/assets/MockUps(3).png)
 
-Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos los pacientes registrados bajo su cuidado, con opciones para ver detalles o realizar acciones.
-
-![Wireframes.jpg](/assets/MockUps(10).png)
-
-Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
-
-![Wireframes.jpg](/assets/MockUps(13).png)
-
 Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
 
 ![Wireframes.jpg](/assets/MockUps(5).png)
-
-Edición de Cita: Función que permite modificar los detalles de una cita previamente agendada, como cambiar la fecha, hora o propósito.
-
-![Wireframes.jpg](/assets/MockUps(6).png)
 
 Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
 
@@ -567,17 +528,9 @@ Agenda Profesional: Calendario donde los profesionales pueden ver todas sus cita
 
 ![Wireframes.jpg](/assets/MockUps(2).png)
 
-Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
-
-![Wireframes.jpg](/assets/MockUps(8).png)
-
 Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
 
 ![Wireframes.jpg](/assets/MockUps(1).png)
-
-Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
-
-![Wireframes.jpg](/assets/MockUps(18).png)
 
 Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
 
@@ -599,26 +552,6 @@ En este flow se puede ver el proceso por el que se ve el registro de citas de un
 
 <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/5d820bbf-715c-44f5-842b-4e26341cce03" />
 
-En este flow se puede ver como el profesional añade diagnosticos a los pacientes.
-
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/83c267f8-da70-46a7-a01a-5c9fdf162862" />
-
-En este flow se puede ver como el profesional edita los diganosticos de los pacientes.
-
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/f22421cd-2efa-42b3-ab76-f6bc1ff2cf42" />
-
-En este flow se puede ver como el profesional edita el historial clinico de los pacientes.
-
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/5e464f8f-972b-4d18-8159-47b07db6f554" />
-
-En este flow se puede ver como el profesional añade un historial clinico al paciente.
-
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/36d9fb44-c986-4bf2-9947-1b7c90318b07" />
-
-En este flow se puede ver como el profesional edita los datos de los pacientes
-
-<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/78c64038-1da0-489d-8094-9ab927bd2481" />
-
 En este flow se puede ver como el profesional observa las funciones biologicas
 
 <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/3109dfc8-9a5a-4434-893b-e934f31cca71" />
@@ -635,15 +568,9 @@ En este flow se puede observar como el profesional agrega un nuevo paciente.
 
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/3442137b-e316-4fdf-9fd1-2b32ee3497f7" />
 
-En este flow se puede observar como el profesional observa la pantalla de perfil.
-
-<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/537e9611-cb33-40ac-8156-64e252131860" />
-
-En este flow se puede observar como el profesional se loguea e ingresa a la pagina principal.
+En este flow se puede observar como el profesional se loguea e ingresa a la página principal.
 
 <img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/bf65b57c-e2ef-4852-bb9a-3de515237134" />
-
-En este flow se puede observar como el profesional se registra en la plataforma.
 
 ## 4.7. Web Applications Prototyping
 
