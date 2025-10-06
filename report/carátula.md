@@ -8,8 +8,8 @@
 ## <div style="text-align: center;"> Diseño de Experimentos de Ingeniería de Software</div>
 ## <div style="text-align: center;"> Nrc: 7508 </div>
 ## <div style="text-align: center;"> Docente: Julio Manuel Noriega Melendez </div>
-## <div style="text-align: center;"> Informe TB1</div>
-## <div style="text-align: center;"> Start up: CLOSED SOURCE </div>
+## <div style="text-align: center;"> Informe TP</div>
+## <div style="text-align: center;"> Start up: Go6U </div>
 ## <div style="text-align: center;"> Product: PSYMED </div>
 
 ### <div style="text-align: center;"> INTEGRANTES:</div>
