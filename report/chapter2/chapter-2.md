@@ -260,14 +260,14 @@ Entrevistado 2:
 </div>
 
 
-| Nombre               | Alejandra                                                                                                                                      |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Chavez                                                                                                                                         |
-| Edad                 | 20 años                                                                                                                                        |
-| Distrito             | Lince                                                                                                                                          |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
-| Inicio de entrevista | 1:14:23 minutos                                                                                                                                |
-| Fin de entrevista    | 1:24:13 minutos                                                                                                                                |
+| Nombre               | Alessandra                                                                                                                      |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                                          |
+| Edad                 | 20 años                                                                                                                         |
+| Distrito             | Lince                                                                                                                           |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| Inicio de entrevista | 1:14:23 minutos                                                                                                                 |
+| Fin de entrevista    | 1:24:13 minutos                                                                                                                 |
 **Resumen:**
 
 La entrevistada menciona que utiliza plataformas digitales
