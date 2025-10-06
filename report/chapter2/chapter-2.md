@@ -235,14 +235,14 @@ Entrevistado 1:
     <img src="/assets/Interview1.jpeg"/></img>
 </div>
 
-| Nombre               | Ximena        |
-|----------------------|---------------|
-| Apellido             | Falckenheiner |
-| Edad                 | 23 años       |
-| Distrito             | Jesús María   |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo             |
-| Inicio de entrevista | 1:07:47 minutos |
-| Fin de entrevista    | 1:14:23 minutos |
+| Nombre               | Ximena                                                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Falckenheiner                                                                                                                   |
+| Edad                 | 23 años                                                                                                                         |
+| Distrito             | Jesús María                                                                                                                     |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| Inicio de entrevista | 1:07:47 minutos                                                                                                                 |
+| Fin de entrevista    | 1:14:23 minutos                                                                                                                 |
 
 Resumen:
 
@@ -283,7 +283,7 @@ con una plataforma que le ayude a llevar un control de sus
 sesiones y tratamiento. Finalmente, brindó feedback sobre
 el proyecto con las siguientes ideas:
 
-- Informacion sobre tips de auto-ayuda.
+- Información sobre tips de autoayuda.
 - Interacciones virtuales para momentos de crisis.
 - Recordatorios de citas.
 - Información general sobre el terapeuta.
@@ -349,7 +349,7 @@ comunicación.
 ![AL-medic2.jpg](/assets/AL-medic2.jpg)
 ![AL-medic3.jpg](/assets/AL-medic3.jpg)
 ![AL-medic4.jpg](/assets/AL-medic4.jpg)
-![Al-medic5.jpg](/assets/AL-medic5.jpg)
+![Al-medic5.jpg](/assets/Al-medic5.jpg)
 - 
 - **Segmento 2: Pacientes**
 
@@ -363,9 +363,9 @@ inclinación marcada hacia un solo dispositivo, ya que usan en gran
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
 ![Al-Pat1.png](/assets/Al-Pat1.png)
-![Al-pat2.png](/assets/Al-Pat2.png)
-![Al-pat3.png](/assets/Al-Pat3.png)
-![Al-pat4.png](/assets/Al-Pat4.png)
+![Al-pat2.png](/assets/Al-pat2.png)
+![Al-pat3.png](/assets/Al-pat3.png)
+![Al-pat4.png](/assets/Al-pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -397,7 +397,7 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](/assets/So-patient.png)
+![So-Patient.png](/assets/SO-patient.png)
 
 ## **User Task Matrix**
 
