@@ -686,7 +686,7 @@ US12 - Iniciar Sesión como Paciente
 <th colspan="4">Title</th>
 </tr>
 <tr>
-<td colspan="4">Iniciar Sesión como Paciente</td>
+<td colspan="4">Iniciar Sesión como Paciente en la aplicación móvil</td>
 </tr>
 <tr>
 <th colspan="4">Description</th>
@@ -761,7 +761,7 @@ US13 - Visualizar Información de Perfil
 <th colspan="4">Title</th>
 </tr>
 <tr>
-<td colspan="4">Visualizar Información de Perfil</td>
+<td colspan="4">Visualizar Información de Perfil en la aplicación móvil</td>
 </tr>
 <tr>
 <th colspan="4">Description</th>
@@ -816,7 +816,7 @@ US14 - Cerrar Sesión
 <th colspan="4">Title</th>
 </tr>
 <tr>
-<td colspan="4">Cerrar Sesión</td>
+<td colspan="4">Cerrar Sesión en la aplicación móvil</td>
 </tr>
 <tr>
 <th colspan="4">Description</th>
@@ -835,7 +835,7 @@ Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla 
 <li><b>Escenario 1: Cierre de Sesión Exitoso</b>
 
 
-Dado que estoy en la pantalla "Mi Perfil" e he iniciado sesión,
+Dado que estoy en la pantalla "Mi Perfil" he iniciado sesión,
 
 
 Cuando pulso el botón "Cerrar Sesión",
@@ -868,7 +868,7 @@ US15 - Registrar Mi Estado de Salud Diario
 <th colspan="4">Title</th>
 </tr>
 <tr>
-<td colspan="4">Registrar Mi Estado de Salud Diario</td>
+<td colspan="4">Registrar Mi Estado de Salud Diario en la aplicación móvil</td>
 </tr>
 <tr>
 <th colspan="4">Description</th>
@@ -930,7 +930,7 @@ US16 - Consultar Mi Lista de Medicamentos
 <th colspan="4">Title</th>
 </tr>
 <tr>
-<td colspan="4">Consultar Mi Lista de Medicamentos</td>
+<td colspan="4">Consultar Mi Lista de Medicamentos en la aplicación móvil</td>
 </tr>
 <tr>
 <th colspan="4">Description</th>
@@ -979,7 +979,7 @@ US17 - Ver Próximas Citas
 <th colspan="4">Title</th>
 </tr>
 <tr>
-<td colspan="4">Ver Próximas Citas</td>
+<td colspan="4">Ver Próximas Citas en la aplicación móvil</td>
 </tr>
 <tr>
 <th colspan="4">Description</th>
@@ -1208,26 +1208,26 @@ Entonces la landing page debe mostrar un estilo tipográfico consistente para ma
 
 ## 3.4 Product Backlog.
 
-| Order User Story | Título                                                  | Descripción                                                                                                                                                                                       | Story Points (Priority) |
-|------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 1                | Registro como profesional de la salud mental            | Como profesional de la salud mental quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.                     | 8                       |
-| 2                | Inicio de sesión como paciente                          | Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.                                                                        | 8                       |
-| 3                | Inicio de sesión como profesional de la salud mental    | Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.                               | 8                       |
-| 4                | Iniciar Sesión como Paciente                            | Como Paciente, quiero poder iniciar sesión con mi usuario y contraseña para acceder a mi información personal y de salud dentro de la aplicación.                                                 | 8                       |
-| 5                | Registro de información personal del paciente           | Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.                   | 5                       |
-| 6                | Registro de estado de ánimo                             | Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver mi estado actual.                                                                                                  | 5                       |
-| 7                | Registro de funciones biológicas                        | Como paciente, quiero registrar la calidad de mis funciones biológicas para que mi profesional conozca mi estado actual de salud.                                                                 | 5                       |
-| 8                | Registrar Mi Estado de Salud Diario                     | Como Paciente, quiero poder registrar mi estado de salud diario (Mood, Hunger, Hydration, Sleep Quality, Energy Level) para llevar un seguimiento de mi bienestar.                                | 5                       |
-| 9                | Consultar Mi Lista de Medicamentos                      | Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados para conocer el nombre, el motivo, la frecuencia (Intervalo) y la Cantidad de cada uno.                              | 5                       |
-| 10               | Visualización de el estado actual de ánimo del paciente | Como profesional de la salud mental, quiero visualizar el estado de ánimo actual del paciente para evaluar su condición emocional.                                                                | 3                       |
-| 11               | Registro de medicamentos del paciente                   | Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.                                                       | 3                       |
-| 12               | Ver medicamentos                                        | Como paciente quiero poder ver los medicamentos que mi profesional de salud mental ha asignado para poder estar pendiente de cuales consumir.                                                     | 3                       |
-| 13               | Visualizar Información de Perfil                        | Como Paciente, quiero poder ver mi información personal (Correo Electrónico, Dirección, ID de Paciente y ID de Profesional) en la sección "Mi Perfil" para confirmar que mis datos son correctos. | 3                       |
-| 14               | Ver Próximas Citas                                      | Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.                | 3                       |
-| 15               | Creación de citas                                       | Como profesional de la salud quiero agendar las citas de mis pacientes.                                                                                                                           | 2                       |
-| 16               | Ver citas médicas                                       | Como paciente quiero poder ver las citas médicas programadas para poder saber que días ir al consultorio del profesional de salud mental.                                                         | 2                       |
-| 17               | Cerrar Sesión                                           | Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla de Mi Perfil para proteger mi privacidad.                                                                          | 2                       |
-| 18               | Encontrar información del propósito de la aplicación    | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.                             | 1                       |
-| 19               | Visualización de imágenes y gráficos relevantes         | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.                                | 1                       |
-| 20               | Tipografía cómoda y agradable estéticamente             | Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.                                          | 1                       |
+| Order User Story | Título                                                     | Descripción                                                                                                                                                                                       | Story Points (Priority) |
+|------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1                | Registro como profesional de la salud mental               | Como profesional de la salud mental quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.                     | 8                       |
+| 2                | Inicio de sesión como paciente                             | Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.                                                                        | 8                       |
+| 3                | Inicio de sesión como profesional de la salud mental       | Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.                               | 8                       |
+| 4                | Iniciar Sesión como Paciente en la aplicación móvil        | Como Paciente, quiero poder iniciar sesión con mi usuario y contraseña para acceder a mi información personal y de salud dentro de la aplicación.                                                 | 8                       |
+| 5                | Registro de información personal del paciente              | Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.                   | 5                       |
+| 6                | Registro de estado de ánimo                                | Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver mi estado actual.                                                                                                  | 5                       |
+| 7                | Registro de funciones biológicas                           | Como paciente, quiero registrar la calidad de mis funciones biológicas para que mi profesional conozca mi estado actual de salud.                                                                 | 5                       |
+| 8                | Registrar Mi Estado de Salud Diario en la aplicación móvil | Como Paciente, quiero poder registrar mi estado de salud diario (Mood, Hunger, Hydration, Sleep Quality, Energy Level) para llevar un seguimiento de mi bienestar.                                | 5                       |
+| 9                | Consultar Mi Lista de Medicamentos en la aplicación móvil  | Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados para conocer el nombre, el motivo, la frecuencia (Intervalo) y la Cantidad de cada uno.                              | 5                       |
+| 10               | Visualización de el estado actual de ánimo del paciente    | Como profesional de la salud mental, quiero visualizar el estado de ánimo actual del paciente para evaluar su condición emocional.                                                                | 3                       |
+| 11               | Registro de medicamentos del paciente                      | Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico.                                                       | 3                       |
+| 12               | Ver medicamentos                                           | Como paciente quiero poder ver los medicamentos que mi profesional de salud mental ha asignado para poder estar pendiente de cuales consumir.                                                     | 3                       |
+| 13               | Visualizar Información de Perfil en la aplicación móvil    | Como Paciente, quiero poder ver mi información personal (Correo Electrónico, Dirección, ID de Paciente y ID de Profesional) en la sección "Mi Perfil" para confirmar que mis datos son correctos. | 3                       |
+| 14               | Ver Próximas Citas en la aplicación móvil                  | Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.                | 3                       |
+| 15               | Creación de citas                                          | Como profesional de la salud quiero agendar las citas de mis pacientes.                                                                                                                           | 2                       |
+| 16               | Ver citas médicas                                          | Como paciente quiero poder ver las citas médicas programadas para poder saber que días ir al consultorio del profesional de salud mental.                                                         | 2                       |
+| 17               | Cerrar Sesión en la aplicación móvil                       | Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla de Mi Perfil para proteger mi privacidad.                                                                          | 2                       |
+| 18               | Encontrar información del propósito de la aplicación       | Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.                             | 1                       |
+| 19               | Visualización de imágenes y gráficos relevantes            | Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.                                | 1                       |
+| 20               | Tipografía cómoda y agradable estéticamente                | Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.                                          | 1                       |
 
