@@ -1,4 +1,5 @@
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1 Software Configuration Management
 En este apartado se describe el proceso mediante el cual se organiza, gestiona y controla la configuración del software y los cambios en el desarrollo del proyecto. El objetivo es garantizar que todos los integrantes del equipo trabajen bajo un mismo entorno, utilizando herramientas estandarizadas y metodologías que aseguren la trazabilidad, la calidad y la colaboración continua.
 ### 5.1.1. Software Development Environment Configuration.
@@ -343,6 +344,11 @@ Enlace del Backend deployment: https://psymed-production.up.railway.app
 
 Front-end Web Application: 
 
+
+
 Back-end Web Application:
+
+
+Mobile Application: 
 
 
