@@ -403,55 +403,75 @@ Cada prueba está validada por los user stories:
 
 Como profesional de la salud mental quiero registrarme con mis credenciales para poder acceder a las funcionalidades específicas y gestionar la información de mis pacientes.
 
+<img width="1920" height="1080" alt="cp" src="https://github.com/user-attachments/assets/fe36685e-3b6f-4ada-851f-6118a49745e1" />
 
 - US02	Inicio de sesión como pacientes
 
 Como paciente, quiero iniciar sesión en la plataforma para acceder a mi información personal y seguimiento de tratamiento.
 
+<img width="1920" height="1080" alt="pl" src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
 
 - US03	Inicio de sesión como profesional de la salud mental
 
 Como profesional de la salud mental, quiero iniciar sesión en la plataforma para gestionar la información de mis pacientes y acceder a herramientas de seguimiento.
 
+<img width="1920" height="1080" alt="log" src="https://github.com/user-attachments/assets/a7f60860-edcb-4079-b530-0f3b8e069a49" />
 
 - US04	Registro de información personal del paciente
 
 Como profesional de la salud mental, quiero registrar la información personal del paciente para tener una referencia detallada y precisa de sus datos básicos en cada consulta.
 
+<img width="1920" height="1080" alt="p" src="https://github.com/user-attachments/assets/f49a2b65-35eb-42e3-b410-81c2bdb3e052" />
 
 - US05	Visualización del estado actual de ánimo del paciente
 
 Como profesional de la salud mental, quiero visualizar el estado de ánimo actual del paciente para evaluar su condición emocional.
 
+<img width="1920" height="1080" alt="mp" src="https://github.com/user-attachments/assets/517488bc-032c-4c4b-aec7-eda3a1a69e6a" />
 
 - US06	Registro de estado de ánimo
 
 Como paciente, quiero comunicarle a mi profesional mi estado de ánimo para ver mi estado actual.
 
+<img width="1919" height="1080" alt="mood" src="https://github.com/user-attachments/assets/47fdc90f-1ce4-43f1-8601-bb128153590d" />
+
+Solo puede registrarse el estado de ánimo una vez al día
+
+<img width="1920" height="1080" alt="bm" src="https://github.com/user-attachments/assets/9c8b24cd-2492-41bd-988c-d73ba9992213" />
 
 - US07	Registro de funciones biológicas
 
 Como paciente, quiero registrar la calidad de mis funciones biológicas para que mi paciente conozca mi estado actual de salud.
+
+<img width="1920" height="1080" alt="bf" src="https://github.com/user-attachments/assets/e3941525-2db2-4497-9392-e6597dae2367" />
 
 
 - US08	Registro de medicamentos del paciente
 
 Como profesional de la salud mental, quiero registrar los medicamentos del paciente para seguir adecuadamente su tratamiento farmacológico
 
+<img width="1920" height="1080" alt="cm" src="https://github.com/user-attachments/assets/eb15442f-db73-4bbb-b7ad-5136a61a036a" />
+
 
 - Ver medicamentos
 
 Como paciente quiero poder ver los medicamentos que mi profesional de salud mental ha asignado para poder estar pendiente de cuales consumir
+
+<img width="1920" height="1080" alt="med" src="https://github.com/user-attachments/assets/6844c2bc-69bf-4c84-b2dc-5ee71e7c8e18" />
 
 
 - Creación de citas
 
 Como profesional de la salud quiero agendar las citas de mis pacientes
 
+<img width="1920" height="1080" alt="cc" src="https://github.com/user-attachments/assets/e32a0d39-dc93-4509-b31c-ddf4958da6c9" />
+
 
 - Ver citas médicas
 
 Como paciente quiero poder ver las citas médicas programadas para poder saber que días ir al consultorio del profesional de salud mental
+
+<img width="1920" height="1080" alt="c" src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
 
 
 ### Versión Móvil
@@ -478,13 +498,16 @@ Como Paciente, quiero poder cerrar mi sesión de forma segura desde la pantalla 
 
 Como Paciente, quiero poder registrar mi estado de salud diario (Mood, Hunger, Hydration, Sleep Quality, Energy Level) para llevar un seguimiento de mi bienestar.
 
+<img width="1917" height="1080" alt="m3" src="https://github.com/user-attachments/assets/af11c2dd-44f5-4ea9-bb85-423d60b159a2" />
 
 
 - US16	Consultar Mi Lista de Medicamentos:
 
 Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados para conocer el nombre, el motivo, la frecuencia (Intervalo) y la Cantidad de cada uno.
 
-
+<img width="1920" height="1080" alt="m2" src="https://github.com/user-attachments/assets/79b82a41-10cb-42f4-9c8d-d341a9850327" />
 
 - US17	Ver Próximas Citas:
   Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.
+  
+<img width="1920" height="1080" alt="citas" src="https://github.com/user-attachments/assets/bdff83fc-5368-4bba-8f72-09d30fdea540" />
