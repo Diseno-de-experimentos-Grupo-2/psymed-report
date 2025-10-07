@@ -261,3 +261,109 @@ Mobile Application:
 
 <img width="456" height="237" alt="3" src="https://github.com/user-attachments/assets/9db9ca0a-679f-42f1-9879-1b79bf06f242" />
 
+
+### 5.2.4. Acuerdo SAAS
+
+# Términos de Uso del Servicio SaaS
+
+**Última actualización:** Octubre 2025  
+**Jurisdicción aplicable:** Perú  
+
+Estos Términos de Uso regulan el acceso y utilización de la plataforma de salud mental (“la Plataforma”), disponible en versión web y aplicación móvil, que conecta a **profesionales de la salud mental** y **pacientes** para el registro, seguimiento y gestión de información clínica y de bienestar emocional.
+
+---
+
+## 1. Aceptación de los Términos
+Al registrarse o acceder a la Plataforma, el usuario (ya sea **profesional de la salud mental** o **paciente**) acepta cumplir con estos Términos de Uso y con las políticas complementarias, incluyendo la Política de Privacidad y el Aviso de Tratamiento de Datos Personales.
+
+---
+
+## 2. Naturaleza del Servicio
+La Plataforma es un **Software como Servicio (SaaS)** que permite:
+- El registro y autenticación segura de usuarios (pacientes y profesionales).  
+- El registro, visualización y gestión de información personal y médica.  
+- El seguimiento diario del estado emocional y de salud del paciente.  
+- La programación, visualización y gestión de citas médicas.  
+- La comunicación clínica entre profesional y paciente a través de funcionalidades internas.
+
+El servicio **no sustituye la atención médica presencial** ni constituye diagnóstico clínico automatizado.
+
+---
+
+## 3. Registro y Autenticación
+- Los **profesionales** deben registrarse con credenciales verificables (número de colegiatura o documento equivalente).  
+- Los **pacientes** deben registrarse con datos personales válidos y mantener su cuenta actualizada.  
+- Cada usuario es responsable de la **confidencialidad de sus credenciales** y del uso de su cuenta.  
+- El uso indebido, falsificación de identidad o acceso no autorizado constituye violación de los presentes términos.
+
+---
+
+## 4. Uso Aceptable
+Los usuarios deben:
+- Utilizar la Plataforma exclusivamente con fines clínicos, terapéuticos o de seguimiento personal autorizados.  
+- Abstenerse de compartir, divulgar o manipular información médica sin consentimiento.  
+- No alterar, copiar, revender ni intentar obtener el código fuente del sistema.  
+- No usar la Plataforma para actividades fraudulentas o que contravengan la ley peruana o normas sanitarias vigentes.
+
+---
+
+## 5. Datos Personales y Confidencialidad
+- Toda la información médica, emocional y personal registrada es **confidencial** y tratada conforme a la **Ley N.º 29733 - Ley de Protección de Datos Personales (Perú)**.  
+- El proveedor del servicio actúa como **encargado del tratamiento**, y los profesionales como **responsables del tratamiento** en relación con los datos de sus pacientes.  
+- Los datos pueden ser almacenados en servidores en la nube dentro o fuera del país, garantizando estándares internacionales de seguridad (cifrado, control de acceso y anonimización).  
+
+---
+
+## 6. Funcionalidades Clave
+1. **Autenticación Segura:** Implementación de OAuth2/JWT y cifrado SSL/TLS.  
+2. **Registro de Pacientes:** Almacenamiento de datos personales y clínicos básicos.  
+3. **Seguimiento Diario:** Registro de estado emocional, calidad del sueño, energía y hábitos biológicos.  
+4. **Gestión de Medicación:** Asignación y visualización de medicamentos prescritos.  
+5. **Sistema de Citas:** Creación, visualización y recordatorios de citas entre profesional y paciente.  
+6. **Perfil de Usuario:** Acceso a información personal, profesional y de conexión terapéutica.  
+
+---
+
+## 7. Propiedad Intelectual
+Todos los derechos sobre el software, interfaz, base de datos, diseño, logotipos y contenido generado por el sistema pertenecen al **proveedor de la Plataforma**.  
+El usuario conserva los derechos sobre los datos que registra, pero otorga licencia limitada para su procesamiento dentro del sistema.
+
+---
+
+## 8. Responsabilidad
+- El proveedor no garantiza la ausencia total de errores ni interrupciones en el servicio, pero se compromete a mantener una **disponibilidad mínima del 95% mensual**.  
+- No se asume responsabilidad por decisiones clínicas tomadas fuera del contexto profesional.  
+- El uso indebido por parte del usuario o el incumplimiento de los términos libera al proveedor de toda responsabilidad.
+
+---
+
+## 9. Suspensión y Terminación
+La cuenta puede ser suspendida o eliminada si:
+- Se detecta uso indebido, acceso no autorizado o vulneración de seguridad.  
+- Se incumplen las obligaciones establecidas en estos Términos.  
+- A solicitud del usuario o de autoridad competente.
+
+---
+
+## 10. Modificaciones
+El proveedor podrá modificar estos Términos previa notificación dentro de la Plataforma.  
+La continuidad del uso implica aceptación de las actualizaciones.
+
+---
+
+## 11. Legislación Aplicable y Jurisdicción
+Estos Términos se rigen por la legislación peruana.  
+Cualquier controversia será resuelta ante los tribunales competentes del distrito judicial de Lima Metropolitana.
+
+---
+
+## 12. Contacto
+Para consultas o solicitudes relacionadas con los Términos de Uso:  
+**Correo:** soporte@plataformasaludmental.pe  
+**Teléfono:** +51 1 999 888 777  
+**Representante Legal:** Dirección Técnica del Proveedor SaaS de Salud Mental
+
+---
+
+**© 2025 Plataforma SaaS de Salud Mental — Todos los derechos reservados**
+
