@@ -550,9 +550,8 @@ Entrevistas a segmento profesionales:
 
 - Entrevista 1:
 
-<div align="center">
-  <img src="[/assets/Interview3.jpeg](https://github.com/user-attachments/assets/01abe387-ea7e-47bd-b52f-a11f8ce3dd9b)">
-</div>
+![WhatsApp Image 2025-11-06 at 11 39 00 PM](https://github.com/user-attachments/assets/d236f0f9-7542-455b-a9d0-4742c60feb45)
+
 
 | Nombre               | Karina          |
 |----------------------|-----------------|
