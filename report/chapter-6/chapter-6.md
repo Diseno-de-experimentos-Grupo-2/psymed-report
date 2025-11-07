@@ -512,3 +512,88 @@ Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados par
   Como Paciente, quiero poder ver una lista de mis citas médicas próximas con sus detalles (fecha, hora, duración y profesional ID) para estar informado y planificar mi asistencia.
   
 <img src="https://github.com/user-attachments/assets/bdff83fc-5368-4bba-8f72-09d30fdea540" />
+
+
+## 6.2. Static testing & Verification
+## 6.2.1. Static Code Analysis
+#### 6.2.1.1. Coding standard & Code conventions.
+#### 6.2.1.2. Code Quality & Code Security.
+### 6.2.2. Reviews
+
+## 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
+
+Preguntas para segmento profesionales:
+
+- ¿Qué tan fácil te resultó entender cómo crear un nuevo usuario o iniciar sesión?
+
+- ¿Te pareció intuitivo el proceso para registrar un paciente o ingresar medicamentos/citas?
+
+- ¿Hubo algún momento en el video en el que te sentiste confundido o perdiste el hilo de lo que pasaba?
+
+- Si tuvieras que hacer tú mismo las acciones que mostró el video (crear usuario, registrar medicamento, etc.), ¿crees que podrías hacerlo sin ayuda?
+
+- ¿Qué mejorarías para que la app sea más fácil de usar?
+
+- ¿Te resultó clara la parte del registro del estado emocional y biológico?
+
+- ¿Crees que esta app te ayudaría a estar más consciente del estado del paciente?
+
+- ¿Cómo te sentiste al ver la app? (por ejemplo: tranquilo, confundido, interesado, indiferente)
+
+- ¿Sientes que la app respeta la privacidad y la sensibilidad de la información de salud mental?
+
+
+### 6.3.2. Registro de Entrevistas.
+
+Entrevistas a segmento profesionales:
+
+- Entrevista 1:
+
+<div align="center">
+  <img src="/assets/Interview3.jpeg">
+</div>
+
+| Nombre               | Karina          |
+|----------------------|-----------------|
+| Apellido             | Ramirez         |
+| Edad                 | 51 años         |
+| Distrito             | La Molina       |
+| URL                  |                 |
+| Inicio de entrevista | 44:53 minutos   |
+| Fin de entrevista    | 1:07:47 minutos |
+
+Resumen de entrevista:
+
+La psicoterapeuta Karina Ramírez Sedano brindó una evaluación detallada de la plataforma PSYMED, destinada a facilitar la gestión de pacientes, sesiones, tareas y seguimiento emocional y físico por parte de psicólogos y psiquiatras.
+
+Desde el inicio, la entrevistada consideró que la interfaz de registro de pacientes es clara y funcional, ya que permite recopilar los datos básicos necesarios para abrir una historia clínica y comenzar el seguimiento del tratamiento. Destacó que el sistema facilita la organización inicial y constituye un filtro adecuado para el trabajo terapéutico.
+
+Respecto al módulo de citas, indicó que la aplicación resulta sencilla de usar y adaptable a las dinámicas de sesión, que suelen durar entre 45 y 50 minutos. Apreció que la agenda pueda registrar sesiones semanales y que el sistema no permita programar fechas anteriores, lo cual refuerza la coherencia del registro.
+
+En cuanto al seguimiento emocional del paciente, valoró la idea de que el usuario registre su estado diario, aunque advirtió que en casos clínicos como la depresión los cambios podrían no reflejar una mejora inmediata. Señaló que esta función debe servir como apoyo complementario, más que como indicador clínico determinante.
+
+Sobre la vista de datos físicos y medicamentos, consideró que es útil para psiquiatras y que los psicólogos podrían beneficiarse de tener acceso limitado a esta información. No obstante, enfatizó la importancia de garantizar la privacidad, proponiendo que la aplicación incluya un espacio exclusivo para el profesional, donde se guarden notas confidenciales, protegidas mediante cifrado o acceso restringido.
+
+En términos de usabilidad, Karina Ramírez afirmó que la plataforma es intuitiva y visualmente clara. Recomendó incorporar tonos pastel y colores suaves, que transmitan tranquilidad y cercanía. También sugirió que las sesiones o tareas aparezcan estructuradas como “libretos digitales”, simulando los cuadernos que usan los pacientes en terapia presencial.
+
+Sobre la versión móvil, opinó que es conveniente contar con ambas opciones (web y móvil), ya que los psicoterapeutas suelen trabajar virtualmente con computadoras, mientras que los pacientes usan más el teléfono.
+
+Finalmente, consideró que la plataforma favorece la conciencia emocional del paciente y facilita el seguimiento terapéutico. Recalcó la necesidad de mantener altos estándares de seguridad y confidencialidad, especialmente en la información compartida entre distintos profesionales de salud. Concluyó destacando que el proyecto es innovador, funcional y de gran utilidad para el ámbito psicológico y psiquiátrico.
+
+
+Entrevistas a segmento pacientes:
+
+
+### 6.3.3. Evaluacionessegún heurísticas.
+## 6.4. Auditoría de Experiencias de Usuario.
+### 6.4.1. Auditoría realizada.
+#### 6.4.1.1. Información del grupo auditado.
+#### 6.4.1.2. Cronograma de auditoría realizada.
+#### 6.4.1.3. Contenido de auditoría realizada.
+### 6.4.2. Auditoría recibida.
+#### 6.4.2.1. Información del grupo auditor.
+#### 6.4.2.2. Cronograma de auditoría recibida.
+#### 6.4.2.3. Contenido de auditoría recibida.
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
+
