@@ -551,7 +551,7 @@ Entrevistas a segmento profesionales:
 - Entrevista 1:
 
 <div align="center">
-  <img src="/assets/Interview3.jpeg">
+  <img src="[/assets/Interview3.jpeg](https://github.com/user-attachments/assets/01abe387-ea7e-47bd-b52f-a11f8ce3dd9b)">
 </div>
 
 | Nombre               | Karina          |
