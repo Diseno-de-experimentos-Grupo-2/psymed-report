@@ -48,6 +48,42 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 ¿La adopción del tema en color morado pastel en la versión móvil mejoraría la coherencia visual y retención de los usuarios sin afectar la legibilidad de los elementos interactivos?
 
 ### 8.1.5. Experiment Cards.
+
+|  | Experiment Card 1 |
+|----|----|
+| Question | ¿Cómo afecta a la experiencia del usuario el cambio del botón de inicio de sesión a color verde? |
+| Why | Queremos entender si un mayor contraste visual puede facilitar el reconocimiento de la acción principal y aumentar la frecuencia de inicio de sesión. |
+| What | Se cambiará el color del botón de inicio de sesión a verde y se observará si los usuarios identifican más rápido la acción, midiendo la cantidad de inicios exitosos y comentarios sobre claridad. |
+| Hypothesis | Cambiar el botón a color verde mejorará la visibilidad y aumentará la tasa de inicio de sesión debido a un reconocimiento visual más claro.|
+
+|  | Experiment Card 2 |
+|----|----|
+| Question | ¿La redirección automática al registro de estado de salud mejora la constancia de uso diario? |
+| Why | Queremos evaluar si reducir pasos manuales ayuda a que los usuarios registren su información con mayor frecuencia y permanezcan más activos dentro de la aplicación. |
+| What | Al iniciar sesión, el usuario será dirigido automáticamente a la sección de registro de estado de salud. Se analizará si se incrementa la cantidad de registros diarios. |
+| Hypothesis | Redirigir automáticamente a la pantalla de registro aumentará la continuidad de uso, ya que elimina fricción y pasos innecesarios. |
+
+|  | Experiment Card 3 |
+|----|----|
+| Question | ¿Cómo influye una imagen referencial de psicología en la percepción de claridad del dashboard médico? |
+| Why | Queremos explorar si un contexto visual puede ayudar a los profesionales a identificar más rápidamente su entorno de trabajo y sentir mayor guía visual. |
+| What | Se añadirá una imagen referencial en el dashboard médico y se solicitarán breves opiniones sobre claridad y orientación. |
+| Hypothesis | Incorporar una imagen referencial aumentará la percepción de claridad y mejorará la orientación visual dentro del dashboard. |
+
+|  | Experiment Card 4 |
+|----|----|
+| Question | ¿La inclusión del logo institucional en el dashboard del paciente fortalece la percepción de confianza? |
+| Why | Queremos entender si reforzar la identidad visual del sistema aumenta la credibilidad del servicio ante los pacientes. |
+| What | Se colocará el logo institucional en la parte superior del dashboard del paciente y se recogerá retroalimentación respecto a identidad y confianza. |
+| Hypothesis | Agregar el logo institucional mejorará la percepción de confiabilidad y pertenencia del usuario respecto a la plataforma. |
+
+|  | Experiment Card 5 |
+|----|----|
+| Question | ¿Cómo afecta el uso de un tema en color morado pastel a la experiencia visual y legibilidad en la versión móvil? |
+| Why | Queremos evaluar si la estética puede mejorarse sin afectar la lectura o navegación en pantallas pequeñas. |
+| What | Se aplicará un tema morado pastel en la interfaz móvil y se medirá la comprensión de elementos, comodidad visual y comentarios de usabilidad. |
+| Hypothesis | Adoptar el tema morado pastel hará la interfaz más agradable visualmente sin comprometer la legibilidad ni la usabilidad general. |
+
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses.
 ### 8.2.2. Domain Business Metrics
