@@ -119,6 +119,25 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 ### 8.2.2. Domain Business Metrics
 
+| Métrica de Negocio |	Descripción|	Cómo se mide|	Objetivo de Mejora |
+|--------------------|------------|-------------|--------------------|
+|Tasa de Retención de Usuario|	Mide la cantidad de usuarios que vuelven a la aplicación después de utilizarla por primera vez.|	Usuarios activos semanales / usuarios registrados.|	Aumentar la retención al mejorar la experiencia visual y navegación.|
+|Tasa de Compleción del Registro de Estado de Salud (móvil)|	Mide cuántos usuarios que entran efectivamente terminan registrando su estado de salud.	|Total de usuarios que inician sesión vs. los que completan la acción.	|Incrementar completitud gracias a la redirección directa.|
+|Engagement en el Dashboard (web)|	Mide la interacción dentro de los paneles del doctor y paciente.|	Clics, tiempo en página, número de elementos consultados por sesión.|	Incrementar la interacción gracias a los elementos visuales agregados.|
+|Tasa de Rebote en Login (web)|	Mide cuántos usuarios llegan al login pero se salen sin iniciar sesión.|	Sesiones que abandonan en login / sesiones totales en login.|	Disminuir el abandono gracias al botón más visible y atractivo.|
+|Nivel de Satisfacción Visual|	Evalúa la percepción estética y usabilidad del diseño.|	Encuesta interna o puntuación post-sesión (1–5).|	Aumentar bienestar visual gracias al nuevo tema morado pastel.|
+|Adopción del Tema (móvil)|	Mide cuántos usuarios mantienen el tema por defecto vs. cambios manuales (si aplica).	|Registro automático en preferencias de UI.	|Confirmar que el cambio de color es mejor aceptado visualmente.|
+
+**Explicación del Impacto al Negocio**
+
+- El cambio de color del botón de login influye directamente en la tasa de acceso, por lo que la tasa de rebote en login es clave.
+
+- La redirección a “Registrar Estado de Salud” mejora la tarea principal del usuario móvil, entonces la tasa de completitud debe aumentar.
+
+- Las imágenes agregadas en los dashboards fortalecen la identidad de la plataforma, lo que se refleja en engagement y tiempo en sesión.
+
+- El tema morado pastel impacta la experiencia visual, lo cual afecta la percepción de facilidad de uso y satisfacción.
+
 ### 8.2.3. Measures.
 
 1. Para medir el impacto del cambio de color del botón "Log in" a verde se puede considerar la tasa de clics (CTR) del botón y la tasa de conversión de inicio de sesión. Un aumento en CTR y en conversiones indicaría que el nuevo color mejora la visibilidad y la intención de inicio de sesión.
