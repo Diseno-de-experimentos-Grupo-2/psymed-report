@@ -86,6 +86,37 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses.
+
+| Hipótesis 1 | Cambio de color del botón de Log in a verde (Web) |
+|-|-|
+| Question |	¿El cambio del color del botón de “Iniciar Sesión” a verde ha incrementado la interacción y el número de inicios de sesión exitosos? |
+| Data analyze|	Para este análisis se utilizó Google Analytics y Datadog RUM. Se realizaron 30 pruebas durante sesiones de usuario en la aplicación web. Después del cambio al color verde, se observó que la tasa de clic (CTR) al botón pasó de 12.4% a 15.1%, lo que representa un incremento del 21.7% en interacción. Además, los inicios de sesión exitosos aumentaron un 9.8% en relación con la semana previa. Esto sugiere que el nuevo color mejora la visibilidad y sensación de acción en el usuario. <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://media.discordapp.net/attachments/1286768073453342767/1436762712334929960/content.png?ex=6910c90c&is=690f778c&hm=a8756d41424ff6325819d96f7ad95f326d05b5862c2e36910739d96d2de52c68&=&format=webp&quality=lossless"/> </p> |
+| Hypothesis|	El cambio del botón a verde mejora la tasa de interacción y aumenta los inicios de sesión exitosos, debido a una mayor claridad visual y estímulo de acción.|
+
+| Hipótesis 2 | Redirección inicial a registrar estado de salud (App móvil) |
+|-|-|
+| Question |	¿Enviar al usuario directamente a la vista de “Registrar estado de salud” mejora la frecuencia de registros realizados en la primera sesión? |
+| Data analyze|	Para este análisis se utilizó Firebase Analytics. Se realizaron 50 pruebas de sesión en dispositivos móviles. Antes de la modificación, solo el 32% de los usuarios completaba un registro de estado en la primera sesión. Después de aplicar la redirección automática, la cifra aumentó al 56%, lo que representa un incremento del 24 puntos porcentuales y una mejora significativa en el engagement inicial. <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://media.discordapp.net/attachments/1286768073453342767/1436802305927282789/vGPjBs3Lg888EBeeumlzJkzJ4sWLUqbNm2y22675cgjj8zAgQPTunXrNaoFaFgVpVItDwUDAADwqXDBBRfkwgsvTJJa144CaAgWcQcAAACg0ARYAAAAABSaAAsAAACAQhNgAQAAAFBoAiwAAAAACs2vEAIAAABQaGZgAQAAAFBoAiwAAAAACk2ABQAAAEChCbAAAAAAKDQBFgAAAACFJsACAAAAoNAEWAAAAAAUmgALAAAAgEITYAEAAABQaAIsAAAAAApNgAUAAABAoQmwAAAAACg0ARYAAAAAhSbAAgAAAKDQBFgAAAAAFJoACwAAAIBCE2ABAAAAUGgCLAAAAAAKTYAFAAAAQKEJsAAAAAAoNAEWAAAAAIUmwAIAAACg0ARYAAAAABSaAAsAAACAQhNgAQAAAFBoAiwAAAAACk2ABQAAAEChCbAAAAAAKDQBFgAAAACF9v8B3C4L27FCwWgAAAAASUVORK5CYII.png?ex=6910edec&is=690f9c6c&hm=6193d2d594c6a24022a81bc59ed51f672c99fb9f719b6861cef76c6026ebb334&=&format=webp&quality=lossless"/></p> |
+| Hypothesis |	La redirección aumenta la participación en el registro de estado de salud y fortalece el vínculo inicial del usuario con la aplicación.|
+
+| Hipótesis 3 | Imagen referencial de psicología en el dashboard del doctor (Web) |
+|-|-|
+| Question |	¿La inclusión de la imagen referencial mejora la comprensión visual del dashboard y aumenta la interacción con secciones relacionadas? |
+| Data analyze|	Se utilizó Hotjar Heatmaps y Google Analytics para analizar la atención visual y el flujo de navegación. Después de 20 sesiones monitoreadas, se observó que el área donde se colocó la imagen recibió un 33% más de fijaciones visuales, y los clics hacia los recursos psicológicos aumentaron en 11.4%. Esto indica un estímulo visual efectivo.  <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f081e919-aeb7-4e97-b45e-b4552a5aa5ba"/></p> |
+|Hypothesis|	La imagen referencial mejora la orientación visual y aumenta la probabilidad de interacción con recursos psicológicos en el dashboard.|
+
+| Hipótesis 4 | Imagen del logo en dashboard del paciente (Web) |
+|-|-|
+| Question |	¿La presencia del logo en el dashboard incrementa la percepción de identidad y confianza del usuario en la plataforma? |
+| Data analyze|	Para este análisis se aplicó una encuesta in-app corta (N=28) y revisión de flujos mediante Hotjar. La percepción de confianza pasó de 3.8 a 4.4/5 en promedio. Además, la tasa de permanencia en la pantalla inicial aumentó 8.9%, indicando menor abandono inmediato. <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e67d095c-d7f5-4a96-9b4c-6d6595d4fb27"/></p>|
+|Hypothesis|	Incluir el logo refuerza la identidad visual y genera mayor confianza, lo que reduce el abandono al ingresar al dashboard.|
+
+| Hipótesis 5 | Cambio de tema a morado pastel (App móvil) |
+|-|-|
+| Question |	¿El nuevo tema morado pastel mejora la satisfacción visual sin afectar la usabilidad general de la aplicación? |
+| Data analyze|	Se utilizaron pruebas con Lighthouse Mobile y encuestas in-app de preferencia visual (N=31). La puntuación de satisfacción estética aumentó de 3.9 a 4.6/5. Las mediciones de performance se mantuvieron estables (puntaje de rendimiento entre 74-78, sin variaciones significativas). No se detectaron problemas de contraste según validación automática. <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/150d579b-3217-41c4-9cce-657e1a72ec01"/></p>|
+|Hypothesis|	El nuevo tema aumenta la satisfacción visual del usuario sin comprometer accesibilidad ni rendimiento.|
+
 ### 8.2.2. Domain Business Metrics
 ### 8.2.3. Measures.
 ### 8.2.4. Conditions.
