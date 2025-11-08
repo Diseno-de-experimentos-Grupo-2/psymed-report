@@ -19,6 +19,17 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 - Para mejorar la consistencia estética entre plataformas, se podría implementar un cambio de tema de color hacia tonos morado pastel en la versión móvil, manteniendo una identidad visual uniforme.
 
 ### 8.1.3. Experiment-Ready Questions.
+
+- Cambio de Color del Botón de Inicio de Sesión: ¿El cambio del color del botón a verde facilita que los usuarios identifiquen más rápido la acción de iniciar sesión y aumenta la tasa de acceso exitoso?
+
+- Navegación en Aplicación Móvil: ¿Dirigir automáticamente al usuario a la vista de registro de estado de salud reduce el tiempo de navegación e incrementa la frecuencia de registro?
+
+- Imagen Referencial en Dashboard del Doctor: ¿La inclusión de una imagen relacionada con psicología en el dashboard del doctor mejora la percepción profesional y la claridad contextual de la interfaz?
+
+- Imagen del Logo en Dashboard del Paciente: ¿Mostrar el logo institucional en el dashboard del paciente aumenta el sentido de pertenencia y confianza en la plataforma?
+
+- Nuevo Tema en Versión Móvil: ¿El cambio de tema de color a morado pastel mantiene la legibilidad y mejora la consistencia visual en la aplicación móvil?
+
 ### 8.1.4. Question Backlog.
 ### 8.1.5. Experiment Cards.
 ## 8.2. Experiment Design
