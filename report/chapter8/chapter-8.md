@@ -31,6 +31,22 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 - Nuevo Tema en Versión Móvil: ¿El cambio de tema de color a morado pastel mantiene la legibilidad y mejora la consistencia visual en la aplicación móvil?
 
 ### 8.1.4. Question Backlog.
+
+- **Impacto del Botón Verde de Inicio de Sesión:**
+¿En qué medida el cambio del botón a color verde aumentaría la tasa de reconocimiento visual y la frecuencia de inicio de sesión por parte de los usuarios?
+
+- **Redirección Automática a Registro de Estado de Salud:**
+¿La acción de dirigir automáticamente al usuario al registro de su estado de salud al ingresar a la aplicación reduciría la fricción en la navegación y aumentaría la constancia de uso diario?
+
+- **Uso de Imagen de Psicología en el Dashboard del Doctor:**
+¿La incorporación de una imagen contextual relacionada con psicología en el dashboard médico incrementaría la percepción de claridad, sentido profesional y confianza en el entorno clínico digital?
+
+- **Inclusión del Logo Institucional en el Dashboard del Paciente:**
+¿Mostrar el logo institucional en el dashboard del paciente fortalecería la identidad de la plataforma y aumentaría la confianza y legitimidad del servicio?
+
+- **Consistencia Visual con Tema Morado Pastel en Móvil:**
+¿La adopción del tema en color morado pastel en la versión móvil mejoraría la coherencia visual y retención de los usuarios sin afectar la legibilidad de los elementos interactivos?
+
 ### 8.1.5. Experiment Cards.
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses.
