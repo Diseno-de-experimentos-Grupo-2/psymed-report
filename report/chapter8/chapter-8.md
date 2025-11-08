@@ -119,6 +119,8 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 ### 8.2.2. Domain Business Metrics
 
+### 8.2.3. Measures.
+
 1. Para medir el impacto del cambio de color del botón "Log in" a verde se puede considerar la tasa de clics (CTR) del botón y la tasa de conversión de inicio de sesión. Un aumento en CTR y en conversiones indicaría que el nuevo color mejora la visibilidad y la intención de inicio de sesión.
 
 - Fuente de datos: Google Analytics / Mixpanel / eventos front (o Datadog RUM si usarás Datadog).
@@ -198,8 +200,6 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 20. Medir porcentaje de rollback o hotfixes necesarios tras la entrega y la frecuencia de despliegues correctivos. Alto porcentaje indica problemas en QA/pipeline.
 
 - Fuente de datos: Registro de deployments / CI/CD pipeline logs (GitHub Actions, Jenkins, Datadog events).
-
-### 8.2.3. Measures.
 ### 8.2.4. Conditions.
 ### 8.2.5. Scale Calculations and Decisions.
 ### 8.2.6. Methods Selection.
