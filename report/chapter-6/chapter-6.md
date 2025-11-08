@@ -614,6 +614,29 @@ Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para 
 
 Entrevistas a segmento pacientes:
 
+![alt text](/assets/sprint4/entrevista-marco.png)
+
+| Nombre               | Hortensia            |
+|----------------------|-----------------|
+| Apellido             | Eiji Nakamurakari         |
+| Edad                 | 21 años         |
+| Distrito             | Pueblo Libre       |
+| URL                  |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210790_upc_edu_pe/EXtAaJUAdK9EuGCCPjmhy7ABrB7VkCpccKvAT9yPiWNc1A?e=P4FBzj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D               |
+| Inicio de entrevista |  20:59  |
+| Fin de entrevista    |  21:09|
+
+Resumen de la entrevista:
+
+El participante consideró que la aplicación es fácil de usar y comprender, destacando que las opciones para ingresar como paciente o profesional están bien diferenciadas. Sin embargo, sugirió incluir un texto explicativo o guía breve inicial para mejorar la orientación del usuario.
+
+Mencionó que podría realizar las acciones del video sin ayuda, ya que la interfaz es intuitiva, aunque recomendó incorporar tutoriales o mensajes guía dentro de la app para facilitar aún más el uso a nuevos usuarios.
+
+Entre las mejoras propuestas, señaló la necesidad de mensajes de confirmación más visibles, campos con ejemplos o autocompletado, y una guía rápida que oriente los primeros pasos del usuario.
+
+El entrevistado afirmó que le gustaría recibir recordatorios de citas y medicamentos, considerando esta función esencial para garantizar el seguimiento del tratamiento. También indicó que se sentiría cómodo registrando su estado de ánimo diariamente, sobre todo si el proceso fuera visual e interactivo (por ejemplo, con iconos o colores).
+
+Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre su salud mental, ya que permite observar la evolución del bienestar emocional y físico a lo largo del tiempo, fomentando una mejor comunicación con los profesionales de salud y un mayor autocuidado.
+
 
 ### 6.3.3. Evaluacionessegún heurísticas.
 ## 6.4. Auditoría de Experiencias de Usuario.
