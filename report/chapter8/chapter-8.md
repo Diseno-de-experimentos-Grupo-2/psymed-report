@@ -309,6 +309,20 @@ La retroalimentación recopilada en cada fase será clave para decidir si:
 Se reevalúa la función antes de una liberación completa.
 
 ### 8.2.6. Methods Selection.
+
+Para la evaluación de las funciones implementadas, se seleccionarán métodos de experimentación que permitan medir el impacto de manera confiable y comparativa:
+
+● Pruebas A/B:
+Se utilizarán para comparar el comportamiento de los usuarios con y sin acceso a las funciones Crear Ubicación y Vista de Ayuda. Esto permitirá identificar si la nueva funcionalidad realmente mejora el uso y la interacción dentro de la plataforma.
+
+● Pruebas de Grupo de Control:
+Se definirá un grupo de usuarios que continuará utilizando la plataforma en su estado actual y otro grupo que utilizará las nuevas funciones. La comparación entre ambos permitirá atribuir cambios directamente a la nueva funcionalidad.
+
+● Experimentación en Entorno Real:
+Luego de validar la estabilidad en pruebas controladas, las funciones se habilitarán progresivamente a usuarios reales para observar su uso en el contexto cotidiano sin intervenciones artificiales.
+
+La selección final de métodos dependerá de la viabilidad técnica, el tamaño de la muestra disponible y los objetivos específicos de cada funcionalidad en evaluación.
+
 ### 8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.
 ### 8.2.8. Web and Mobile Tracking Plan.
 ## 8.3. Experimentation
