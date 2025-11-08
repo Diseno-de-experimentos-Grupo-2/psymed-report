@@ -118,6 +118,87 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 |Hypothesis|	El nuevo tema aumenta la satisfacción visual del usuario sin comprometer accesibilidad ni rendimiento.|
 
 ### 8.2.2. Domain Business Metrics
+
+1. Para medir el impacto del cambio de color del botón "Log in" a verde se puede considerar la tasa de clics (CTR) del botón y la tasa de conversión de inicio de sesión. Un aumento en CTR y en conversiones indicaría que el nuevo color mejora la visibilidad y la intención de inicio de sesión.
+
+- Fuente de datos: Google Analytics / Mixpanel / eventos front (o Datadog RUM si usarás Datadog).
+
+2. Para evaluar si el botón verde afecta la usabilidad, medir tiempo hasta el primer clic en la pantalla de login y tasa de rebote de la página de login. Menores tiempos y menor rebote indican mejor usabilidad.
+
+- Fuente de datos: RUM (Real User Monitoring), logs de frontend.
+
+3. Para validar la redirección en app móvil hacia "Registrar estado de salud" medir la tasa de éxito de redirección (porcentaje de sesiones donde la redirección ocurre correctamente) y la tasa de abandono después de la redirección. Una alta tasa de éxito y baja tasa de abandono indican flujo correcto y útil.
+
+- Fuente de datos: Firebase Analytics / Mobile Analytics / eventos en app / Datadog Mobile RUM.
+
+4. Medir completitud del formulario de estado de salud (porcentaje de usuarios que inician vs completan) tras la redirección. Aumentos significativos muestran que la redirección produce acciones esperadas.
+
+- Fuente de datos: Backend logs, eventos de formulario.
+
+5. Para la imagen referencial de psicología en dashboard de doctor, medir tiempo de carga de la vista y error rate de carga de la imagen. Si la imagen incrementa tiempos excesivos o provoca errores, debe optimizarse.
+
+- Fuente de datos: Lighthouse / RUM / Datadog Synthetic & logs.
+
+6. Evaluar engagement en dashboard de doctor (tiempo medio por sesión en dashboard, acciones por sesión) después de añadir la imagen. Un aumento sugiere que la imagen aporta valor informativo/estético.
+
+- Fuente de datos: Analytics del dashboard.
+
+7. Para la imagen del logo en dashboard de paciente, medir percepción/UX mediante una encuesta in-app (CSAT) y retención en la pantalla (tiempo promedio). Mejores puntuaciones y mayor tiempo apoyan la hipótesis de percepción positiva.
+
+- Fuente de datos: Encuestas in-app + analytics.
+
+8. Para el cambio del tema a morado pastel en versión móvil, medir NPS/CSAT en muestras de usuarios móviles y tasa de permanencia en la app tras la actualización de tema. Mejoras sugieren mayor satisfacción visual y usabilidad.
+
+- Fuente de datos: Encuestas + Firebase / analytics.
+
+9. Medir errores y crashes introducidos por los cambios (crash rate, exceptions por versión). Cualquier aumento requiere rollback/investigación.
+
+- Fuente de datos: Sentry / Datadog APM / logs móviles.
+
+10. Para todos los cambios visuales, medir funnel de conversión (p. ej. abrir app → ver login → iniciar sesión → completar acción) y comparar antes/después para ver dónde impactan los cambios.
+
+- Fuente de datos: Eventos de producto / herramientas de analítica.
+
+11. Medir tasa de adopción por cohorte: porcentaje de usuarios que usan la nueva funcionalidad (p. ej. usuarios móviles que son redirigidos) por cohortes diarias/semanales. Indica si la función se está usando con el tiempo.
+
+- Fuente de datos: Cohort analysis en analytics/Firebase.
+
+12. Medir retención (D1, D7, D30) de usuarios expuestos a los cambios vs no expuestos (A/B). Mayor retención sugiere efecto positivo a largo plazo.
+
+- Fuente de datos: Analytics / A/B testing platform.
+
+13. Medir tiempos de respuesta de backend relacionados con las nuevas acciones (p. ej. guardado del estado de salud). Aumentos pueden indicar cuello de botella.
+
+- Fuente de datos: Datadog APM / logs de servidor.
+
+14. Medir uso de recursos del frontend (CPU, memoria) y TTFB / LCP / CLS en páginas afectadas (login, dashboards). Valores estables/óptimos confirman que los cambios visuales no degradan performance.
+
+- Fuente de datos: Lighthouse, Datadog RUM, Synthetics.
+
+15. Medir tasa de errores de validación en formularios (por ejemplo, en registro de estado de salud). Un aumento puede significar problemas de UX o bugs en la redirección/flow.
+
+- Fuente de datos: Backend logs, eventos de error.
+
+16. Medir feedback cualitativo: número y sentimiento de comentarios/soporte relacionados con las nuevas features (tickets, reviews, encuestas). Complementa métricas cuantitativas.
+
+- Fuente de datos: Sistema de tickets, Zendesk, comentarios en Play/App Store, encuestas in-app.
+
+17. Medir eficacia del A/B test para cambios visuales: tamaño del efecto en métricas clave (CTR, conversión), p-value y confianza estadística. Decisión basada en umbral predefinido.
+
+- Fuente de datos: Plataforma de A/B testing (Optimizely / Firebase A/B / herramienta interna).
+
+18. Medir impacto en soporte/operaciones: número de incidencias generadas tras el deploy y tiempo medio de resolución (MTTR). Un aumento requiere ajuste de rollout o rollback.
+
+- Fuente de datos: Datadog logs/alerts, sistema de incidencias.
+
+19. Medir adopción por segmento (p. ej. nuevos usuarios vs recurrentes; Android vs iOS) para detectar diferencias de comportamiento e identificar optimizaciones específicas.
+
+- Fuente de datos: Analytics segmentado.
+
+20. Medir porcentaje de rollback o hotfixes necesarios tras la entrega y la frecuencia de despliegues correctivos. Alto porcentaje indica problemas en QA/pipeline.
+
+- Fuente de datos: Registro de deployments / CI/CD pipeline logs (GitHub Actions, Jenkins, Datadog events).
+
 ### 8.2.3. Measures.
 ### 8.2.4. Conditions.
 ### 8.2.5. Scale Calculations and Decisions.
