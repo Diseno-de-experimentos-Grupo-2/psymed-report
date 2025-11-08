@@ -113,3 +113,15 @@ El pipeline de monitoreo continuo con Datadog se organiza en las siguientes etap
 | Procesamiento y Análisis |	Los datos se clasifican automáticamente y se correlacionan entre servicios.|
 | Visualización	| Se construyen dashboards en Datadog para observar el rendimiento del sistema.|
 | Evaluación Continua |	Se revisan métricas e indicadores clave para detectar anomalías o degradaciones.|
+
+### 7.4.3. Alerting Pipeline Components
+
+El sistema de alertamiento en Datadog permite activar notificaciones cuando ocurre un comportamiento fuera de lo esperado:
+
+| Etapa	| Descripción |
+|-------|-------------|
+| Definición de Umbrales |	Se establecen valores críticos (por ejemplo, latencia alta o errores 500).|
+| Monitoreo Activo|	Datadog evalúa constantemente las métricas emitidas por la aplicación.|
+| Detección de Anomalías|	Se identifican patrones o eventos inusuales en tiempo real.|
+| Generación de Alertas|	Se gatillan alertas si los valores superan los umbrales definidos.|
+| Registro de Incidentes|	Toda alerta queda registrada para análisis y mejora futura.|
