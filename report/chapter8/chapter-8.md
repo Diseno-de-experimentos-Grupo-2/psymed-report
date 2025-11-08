@@ -241,7 +241,73 @@ En caso de ser necesario, se establecerán acuerdos con instituciones o comunida
 
 ● Medición y Evaluación Continua:
 Durante todo el período de pruebas, el desempeño de la aplicación será monitoreado en tiempo real mediante métricas como CPU usage, tasa de clics, tiempo de permanencia y tasa de éxito en la navegación. Los resultados se evaluarán semanalmente para decidir si se requieren ajustes, optimizaciones o cambios en la interfaz.
+
 ### 8.2.5. Scale Calculations and Decisions.
+
+● Tamaño de la Muestra Piloto:
+
+Antes de aplicar los cambios de manera definitiva en la plataforma, se seleccionará una muestra piloto de entre 20 y 50 usuarios activos que utilicen la aplicación de forma regular. Este grupo permitirá observar el comportamiento real de los usuarios frente a las funciones Crear Ubicación y Vista de Ayuda sin afectar a la totalidad de la comunidad.
+
+● Pruebas en Pequeña Escala:
+
+Las primeras pruebas se realizarán con grupos reducidos, preferiblemente usuarios que ya estén familiarizados con la interfaz. Esto permitirá identificar dificultades en la navegación, carga del sistema o confusión en la interacción antes de abrir la funcionalidad al resto de usuarios.
+
+● Expansión Progresiva:
+
+Si los resultados del piloto muestran mejoras en los indicadores clave (uso activo, menor tiempo de búsqueda, disminución en solicitudes de soporte), las funciones se extenderán progresivamente a más usuarios dentro de la misma plataforma. La expansión se realizará por etapas para evitar saturaciones o fallos en producción.
+
+● Escalabilidad y Recursos Técnicos:
+
+La decisión de escalar la implementación dependerá de:
+
+- Capacidad del servidor para soportar el aumento de solicitudes.
+
+- Carga promedio del CPU después de habilitar las funciones.
+
+- Tasa de errores o cuellos de carga registrados.
+
+- Disponibilidad de personal para soporte y monitoreo.
+
+Si las métricas se mantienen dentro de los rangos esperados, se continuará con el despliegue de manera controlada.
+
+● Monitoreo Continuo:
+
+Durante el proceso de expansión se realizará un seguimiento constante de:
+
+- Tiempo de respuesta de la aplicación.
+
+- Porcentaje de uso de la nueva funcionalidad.
+
+- Feedback reportado por los usuarios.
+
+Esto permitirá actuar rápidamente ante posibles problemas de rendimiento o usabilidad.
+
+● Evaluación de Resultados:
+
+Los resultados obtenidos del piloto se compararán con las métricas iniciales (línea base) para evaluar si:
+
+- La función realmente mejora la experiencia.
+
+- Reduce la necesidad de soporte adicional.
+
+- Aumenta la interacción y el tiempo útil dentro de la plataforma.
+
+Solo si los resultados son positivos se procederá con la expansión total.
+
+● Comunicación con Usuarios y Equipos:
+
+Se informará a los usuarios sobre los cambios implementados, explicando su propósito y beneficios. Además, el equipo técnico y de soporte será preparado para responder dudas o incidencias durante la adopción.
+
+● Retroalimentación de Usuarios:
+
+La retroalimentación recopilada en cada fase será clave para decidir si:
+
+- Se continúa avanzando con la expansión.
+
+- Se realizan ajustes de diseño o experiencia.
+
+Se reevalúa la función antes de una liberación completa.
+
 ### 8.2.6. Methods Selection.
 ### 8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.
 ### 8.2.8. Web and Mobile Tracking Plan.
