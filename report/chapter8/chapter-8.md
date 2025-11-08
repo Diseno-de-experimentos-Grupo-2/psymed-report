@@ -351,7 +351,45 @@ Medir el impacto de Crear Ubicación y Vista de Ayuda en la participación del u
 - Nivel de interacción por sesión (clics, vistas, rutas navegadas).
 
 Estas métricas permitirán determinar si las funcionalidades están mejorando la experiencia de usuario y el rendimiento general del sistema.
+
 ### 8.2.8. Web and Mobile Tracking Plan.
+
+Para asegurar la correcta recopilación de datos que respalde los experimentos, se implementará un plan de seguimiento unificado tanto en la versión web como móvil de la plataforma:
+
+● Instrumentación de Eventos de Usuario:
+
+Se definirán eventos clave como:
+
+ - Crear una ubicación
+
+ - Editar una ubicación
+
+ - Abrir Vista de Ayuda
+
+ - Tiempo dentro de la ventana de ayuda
+
+ - Acciones posteriores a recibir ayuda
+
+● Integración de Herramientas de Monitoreo:
+
+Se utilizarán herramientas como:
+
+ - Datadog para monitoreo de rendimiento, consumo de CPU y tiempo de respuesta.
+
+ - Google Analytics o Mixpanel para rastrear interacciones del usuario.
+
+ - Logging centralizado para registrar errores y acciones relevantes.
+
+● Sincronización entre Web y Móvil:
+
+Los mismos identificadores de usuario y los mismos eventos serán registrados en ambas plataformas para mantener coherencia en el análisis de datos.
+
+● Control de Privacidad y Consentimiento:
+
+Los usuarios serán informados sobre la recopilación de datos con fines de mejora de la experiencia y deberán otorgar consentimiento previo.
+
+Este plan permitirá evaluar con precisión el impacto de cada cambio en el uso real de la plataforma.
+
 ## 8.3. Experimentation
 ### 8.3.1. To-Be User Stories.
 ### 8.3.2.To-Be Product Backlog
