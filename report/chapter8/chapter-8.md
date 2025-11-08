@@ -324,6 +324,33 @@ Luego de validar la estabilidad en pruebas controladas, las funciones se habilit
 La selección final de métodos dependerá de la viabilidad técnica, el tamaño de la muestra disponible y los objetivos específicos de cada funcionalidad en evaluación.
 
 ### 8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.
+
+Se establecerán indicadores y métricas para evaluar el desempeño y la adopción de las nuevas funciones:
+
+**Objetivo General:**
+Medir el impacto de Crear Ubicación y Vista de Ayuda en la participación del usuario, la eficiencia de navegación y la carga del sistema.
+
+**KPIs Principales:**
+
+- Tasa de Uso de la Función: Porcentaje de usuarios que utilizan las funciones nuevas frente al total de usuarios activos.
+
+- Tiempo Promedio de Navegación: Tiempo utilizado para completar tareas comunes dentro de la plataforma.
+
+- Reducción de Solicitudes de Soporte: Número de consultas dirigidas al soporte antes y después de la implementación.
+
+- Carga Promedio del CPU: Nivel de consumo de recursos tras la habilitación de las nuevas funciones.
+
+**Métricas Específicas:**
+
+- Número de ubicaciones creadas por día/semana.
+
+- Cantidad de veces que se abre la ventana Vista de Ayuda.
+
+- Variación en el porcentaje de errores o caídas del sistema.
+
+- Nivel de interacción por sesión (clics, vistas, rutas navegadas).
+
+Estas métricas permitirán determinar si las funcionalidades están mejorando la experiencia de usuario y el rendimiento general del sistema.
 ### 8.2.8. Web and Mobile Tracking Plan.
 ## 8.3. Experimentation
 ### 8.3.1. To-Be User Stories.
