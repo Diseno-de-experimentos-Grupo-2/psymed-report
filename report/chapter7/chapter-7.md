@@ -125,3 +125,15 @@ El sistema de alertamiento en Datadog permite activar notificaciones cuando ocur
 | Detección de Anomalías|	Se identifican patrones o eventos inusuales en tiempo real.|
 | Generación de Alertas|	Se gatillan alertas si los valores superan los umbrales definidos.|
 | Registro de Incidentes|	Toda alerta queda registrada para análisis y mejora futura.|
+
+### 7.4.4. Notification Pipeline Components
+
+Una vez generadas las alertas, Datadog se encarga de comunicar oportunamente a los equipos responsables:
+
+| Etapa	| Descripción |
+|-------|-------------|
+| Enrutamiento de Notificaciones|	Se selecciona a qué canal o grupo se enviará la alerta.|
+| Comunicación Automática|	Las alertas se envían por correo, Slack, Teams u otro medio configurado.|
+| Confirmación de Atención|	El equipo responsable reconoce y atiende la alerta.|
+| Escalamiento|	Si no se resuelve a tiempo, Datadog escala la notificación a un nivel superior.|
+| Cierre del Incidente|	Se resuelve el problema y se documenta para referencia y optimización futura.|
