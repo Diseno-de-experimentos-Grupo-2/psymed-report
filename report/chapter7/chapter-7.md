@@ -81,3 +81,7 @@ Los elementos fundamentales de un pipeline orientado al despliegue en producció
 **e. Supervisión Continua (Continuous Monitoring):** Una vez desplegada, la aplicación es monitoreada de manera constante para garantizar su rendimiento, disponibilidad y estabilidad, atendiendo incidentes en tiempo real.
 
 **f. Reversión (Rollback):** Ante la detección de fallas críticas, el pipeline contempla mecanismos de reversión inmediata hacia una versión previa estable de la aplicación.
+
+## 7.4. Continuous Monitoring
+
+El Continuous Monitoring se refiere a la supervisión constante del comportamiento, rendimiento y disponibilidad de la aplicación una vez desplegada, con el fin de detectar incidentes de manera temprana y garantizar su correcto funcionamiento en el entorno productivo. Esta práctica forma parte esencial del ciclo DevOps, ya que permite obtener retroalimentación continua sobre el estado del sistema y facilita la toma de decisiones rápidas para mantener la calidad del servicio.
