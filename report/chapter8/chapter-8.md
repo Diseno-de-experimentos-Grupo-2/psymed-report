@@ -200,7 +200,47 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 20. Medir porcentaje de rollback o hotfixes necesarios tras la entrega y la frecuencia de despliegues correctivos. Alto porcentaje indica problemas en QA/pipeline.
 
 - Fuente de datos: Registro de deployments / CI/CD pipeline logs (GitHub Actions, Jenkins, Datadog events).
+
 ### 8.2.4. Conditions.
+
+**● Público Objetivo:**
+
+El público objetivo de las pruebas serán usuarios activos de la plataforma, principalmente estudiantes y jóvenes adultos que ya utilizan o están familiarizados con la herramienta. La selección no estará limitada por ubicación, pero el piloto inicial se realizará con usuarios de Lima para facilitar observación y retroalimentación directa.
+
+**● Entorno de Pruebas:**
+
+Las pruebas se llevarán a cabo en un entorno controlado, utilizando versiones de prueba (staging) de la aplicación. Se monitoreará el rendimiento del sistema antes y después de habilitar las nuevas funciones para comparar resultados con claridad.
+
+**● Usuarios Participantes:**
+
+Se seleccionará un grupo reducido de usuarios piloto que utilizarán la plataforma con la nueva función habilitada (Vista de Ayuda y Crear Ubicación). Estos usuarios serán guiados y se les solicitará retroalimentación directa durante el periodo de pruebas.
+
+**● Período de Evaluación:**
+
+Las pruebas se realizarán durante un período de 2 a 4 semanas, tiempo suficiente para observar patrones de uso, identificar errores recurrentes y evaluar impacto en la experiencia del usuario y el rendimiento del sistema.
+
+**● Control de Variables Externas:**
+
+Se controlarán factores como horarios de alto tráfico, versiones de navegador, tipos de dispositivo y velocidad de red, para evitar que estos influyan en los resultados y permitir una medición precisa del desempeño real de la nueva funcionalidad.
+
+**● Participación Activa de Usuarios:**
+
+Se incentivará la participación activa mediante breves mensajes dentro de la aplicación, recordatorios y encuestas rápidas para recopilar retroalimentación sobre facilidad de uso, claridad de la función y utilidad percibida.
+
+**● Consentimiento Informado:**
+
+Los usuarios participantes serán informados previamente sobre los objetivos del experimento y el tipo de datos que se recolectarán (uso de la función, tiempos de interacción, niveles de satisfacción), asegurando su consentimiento voluntario.
+
+**● Muestra Representativa:**
+
+La muestra incluirá usuarios con distintos niveles de experiencia tecnológica (bajo, medio y alto), para evaluar si las funciones resultan igualmente accesibles para todos los perfiles de usuario.
+
+**● Colaboración con Entornos Educativos y Grupos de Comunidad:**
+
+En caso de ser necesario, se establecerán acuerdos con instituciones o comunidades estudiantiles para facilitar adopción, uso guiado y retroalimentación colectiva.
+
+● Medición y Evaluación Continua:
+Durante todo el período de pruebas, el desempeño de la aplicación será monitoreado en tiempo real mediante métricas como CPU usage, tasa de clics, tiempo de permanencia y tasa de éxito en la navegación. Los resultados se evaluarán semanalmente para decidir si se requieren ajustes, optimizaciones o cambios en la interfaz.
 ### 8.2.5. Scale Calculations and Decisions.
 ### 8.2.6. Methods Selection.
 ### 8.2.7. Data Analytics: Goals, KPIs and Metrics Selection.
