@@ -101,3 +101,15 @@ Para el monitoreo continuo de la aplicación en producción se utiliza Datadog, 
 - Definición de paneles de visualización (dashboards) para el análisis continuo.
 - Establecimiento de umbrales y reglas automáticas de alertas.
 - Revisión periódica de tendencias para mejorar rendimiento y estabilidad.
+
+### 7.4.2. Monitoring Pipeline Components
+
+El pipeline de monitoreo continuo con Datadog se organiza en las siguientes etapas:
+
+|Etapa	| Descripción |
+|-------|-------------|
+| Instrumentación	| La aplicación es configurada para enviar métricas y logs hacia Datadog.|
+| Recolección |	Datadog recibe datos en tiempo real desde la aplicación y la infraestructura.|
+| Procesamiento y Análisis |	Los datos se clasifican automáticamente y se correlacionan entre servicios.|
+| Visualización	| Se construyen dashboards en Datadog para observar el rendimiento del sistema.|
+| Evaluación Continua |	Se revisan métricas e indicadores clave para detectar anomalías o degradaciones.|
