@@ -85,3 +85,19 @@ Los elementos fundamentales de un pipeline orientado al despliegue en producció
 ## 7.4. Continuous Monitoring
 
 El Continuous Monitoring se refiere a la supervisión constante del comportamiento, rendimiento y disponibilidad de la aplicación una vez desplegada, con el fin de detectar incidentes de manera temprana y garantizar su correcto funcionamiento en el entorno productivo. Esta práctica forma parte esencial del ciclo DevOps, ya que permite obtener retroalimentación continua sobre el estado del sistema y facilita la toma de decisiones rápidas para mantener la calidad del servicio.
+
+### 7.4.1. Tools and Practices
+
+Para el monitoreo continuo de la aplicación en producción se utiliza Datadog, una plataforma unificada que permite observar métricas, logs y trazas en tiempo real. Esto facilita la detección temprana de incidencias y el análisis del rendimiento del sistema.
+
+**Herramienta Principal:**
+
+- **Datadog**: Plataforma de observabilidad que integra monitoreo de infraestructura, análisis de logs, trazabilidad de servicios y generación de alertas en un solo entorno.
+
+**Prácticas Aplicadas:**
+
+- Configuración de métricas de uso de recursos (CPU, memoria, latencia, throughput).
+- Recolección centralizada de logs para diagnóstico y auditoría.
+- Definición de paneles de visualización (dashboards) para el análisis continuo.
+- Establecimiento de umbrales y reglas automáticas de alertas.
+- Revisión periódica de tendencias para mejorar rendimiento y estabilidad.
