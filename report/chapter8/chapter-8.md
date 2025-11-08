@@ -1,5 +1,9 @@
 # Capítulo VIII: Experiment-Driven Development
+
 ## 8.1.Experiment Planning
+
+Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuario que pueden dificultar la navegación fluida y la identificación visual dentro del sistema. Algunos botones poseen colores que no destacan, ciertos dashboards carecen de elementos visuales representativos, y en la aplicación móvil el flujo de ingreso no conduce directamente a la funcionalidad esperada por los usuarios. Además, la identidad visual no es consistente entre versión web y móvil, lo que afecta la coherencia de marca y la percepción general de profesionalismo.
+
 ### 8.1.1. As-Is Summary.
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.
 ### 8.1.3. Experiment-Ready Questions.
