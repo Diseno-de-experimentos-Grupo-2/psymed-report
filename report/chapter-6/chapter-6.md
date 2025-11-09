@@ -618,7 +618,7 @@ Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para 
 
 | Nombre               | Valerie            |
 |----------------------|-----------------|
-| Apellido             |          |
+| Apellido             | Hikaru Ouchida         |
 | Edad                 | 29 años         |
 | Distrito             | Lince       |
 | URL                  |                 |
