@@ -302,6 +302,7 @@ Para consultas o solicitudes relacionadas con los Términos de Uso:
 
 ### 5.2.5. Implemented Native-Mobile Application Evidence
 
+<img width="988" height="564" alt="image" src="https://github.com/user-attachments/assets/711ccfe7-7b70-4174-a35f-16a32abfde99" />
 
 
 ### 5.2.6. Implemented RESTful API and Severless Backend Evidence.
