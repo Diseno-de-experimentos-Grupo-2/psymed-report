@@ -543,6 +543,31 @@ Preguntas para segmento profesionales:
 
 - ¿Sientes que la app respeta la privacidad y la sensibilidad de la información de salud mental?
 
+Preguntas para segmento pacientes:
+
+¿Qué tan fácil te resultó entender cómo crear un nuevo usuario o iniciar sesión?
+
+- ¿Te pareció intuitivo el proceso para registrar un paciente o ingresar medicamentos/citas?
+
+- ¿Hubo algún momento en el video en el que te sentiste confundido o perdiste el hilo de lo que pasaba?
+
+- Si tuvieras que hacer tú mismo las acciones que mostró el video (crear usuario, registrar medicamento, etc.), ¿crees que podrías hacerlo sin ayuda?
+
+- ¿Qué mejorarías para que la app sea más fácil de usar?
+
+- ¿Te resultó clara la parte del registro del estado emocional y biológico?
+
+- ¿Te gustaría recibir recordatorios de tus citas o medicamentos?
+
+- ¿Te sentirías cómodo registrando tu estado de ánimo todos los días?
+
+- ¿Crees que esta app te ayudaría a estar más consciente de tu salud mental?
+
+- ¿Cómo te sentiste al ver la app? (por ejemplo: tranquilo, confundido, interesado, indiferente)
+
+- ¿Sientes que la app respeta la privacidad y la sensibilidad de la información de salud mental?
+
+- ¿Qué tan confiable te parece el sistema para manejar información médica?
 
 ### 6.3.2. Registro de Entrevistas.
 
@@ -553,14 +578,14 @@ Entrevistas a segmento profesionales:
 ![WhatsApp Image 2025-11-06 at 11 39 00 PM](https://github.com/user-attachments/assets/d236f0f9-7542-455b-a9d0-4742c60feb45)
 
 
-| Nombre               | Karina          |
-|----------------------|-----------------|
-| Apellido             | Ramirez         |
-| Edad                 | 51 años         |
-| Distrito             | La Molina       |
-| URL                  |                 |
-| Inicio de entrevista |    |
-| Fin de entrevista    |  |
+| Nombre               | Karina    |
+|----------------------|-----------|
+| Apellido             | Ramirez   |
+| Edad                 | 51 años   |
+| Distrito             | La Molina |
+| URL                  |           |
+| Inicio de entrevista |           |
+| Fin de entrevista    |           |
 
 Resumen de entrevista:
 
@@ -585,14 +610,14 @@ Finalmente, consideró que la plataforma favorece la conciencia emocional del pa
 ![WhatsApp Image 2025-11-08 at 12 04 54 PM](https://github.com/user-attachments/assets/b29e3748-54f2-481f-bfca-aa277d20838a)
 
 
-| Nombre               | Hortensia            |
-|----------------------|-----------------|
-| Apellido             | Piedra Cáceres         |
-| Edad                 | 36 años         |
+| Nombre               | Hortensia      |
+|----------------------|----------------|
+| Apellido             | Piedra Cáceres |
+| Edad                 | 36 años        |
 | Distrito             | Arequipa       |
-| URL                  |                 |
-| Inicio de entrevista |    |
-| Fin de entrevista    |  |
+| URL                  |                |
+| Inicio de entrevista |                |
+| Fin de entrevista    |                |
 
 Resumen de entrevista:
 
@@ -616,14 +641,14 @@ Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para 
 
 ![WhatsApp Image 2025-11-09 at 2 11 16 PM](https://github.com/user-attachments/assets/4bbee769-9e23-43ea-b749-1a0a2063e341)
 
-| Nombre               | Valerie            |
-|----------------------|-----------------|
-| Apellido             | Hikaru Ouchida         |
-| Edad                 | 29 años         |
-| Distrito             | Lince       |
-| URL                  |                 |
-| Inicio de entrevista |    |
-| Fin de entrevista    |  |
+| Nombre               | Valerie        |
+|----------------------|----------------|
+| Apellido             | Hikaru Ouchida |
+| Edad                 | 29 años        |
+| Distrito             | Lince          |
+| URL                  |                |
+| Inicio de entrevista |                |
+| Fin de entrevista    |                |
 
 Resumen de entrevista:
 
@@ -643,14 +668,14 @@ Entrevistas a segmento pacientes:
 
 ![alt text](/assets/sprint4/entrevista-marco.png)
 
-| Nombre               | Hortensia            |
-|----------------------|-----------------|
-| Apellido             | Eiji Nakamurakari         |
-| Edad                 | 21 años         |
-| Distrito             | Pueblo Libre       |
-| URL                  |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210790_upc_edu_pe/EXtAaJUAdK9EuGCCPjmhy7ABrB7VkCpccKvAT9yPiWNc1A?e=P4FBzj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D               |
-| Inicio de entrevista |  20:59  |
-| Fin de entrevista    |  21:09|
+| Nombre               | Hortensia                                                                                                                                                                                                                                                                                                              |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Eiji Nakamurakari                                                                                                                                                                                                                                                                                                      |
+| Edad                 | 21 años                                                                                                                                                                                                                                                                                                                |
+| Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210790_upc_edu_pe/EXtAaJUAdK9EuGCCPjmhy7ABrB7VkCpccKvAT9yPiWNc1A?e=P4FBzj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| Inicio de entrevista | 20:59                                                                                                                                                                                                                                                                                                                  |
+| Fin de entrevista    | 21:09                                                                                                                                                                                                                                                                                                                  |
 
 Resumen de la entrevista:
 
@@ -665,7 +690,7 @@ El entrevistado afirmó que le gustaría recibir recordatorios de citas y medica
 Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre su salud mental, ya que permite observar la evolución del bienestar emocional y físico a lo largo del tiempo, fomentando una mejor comunicación con los profesionales de salud y un mayor autocuidado.
 
 
-### 6.3.3. Evaluacionessegún heurísticas.
+### 6.3.3. Evaluaciones según heurísticas.
 ## 6.4. Auditoría de Experiencias de Usuario.
 ### 6.4.1. Auditoría realizada.
 #### 6.4.1.1. Información del grupo auditado.
