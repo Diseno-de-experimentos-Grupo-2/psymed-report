@@ -349,7 +349,7 @@ Mobile Application:
 
 ## 5.3. Video About the Product
 
-Link del video en Microsoft Stream:
+Link del video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ERtCRO01wHlJntlIPSmkMNEBUhio16Q-peexkXdtASr1CQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oqLPpd
 
 <br>
 
