@@ -347,6 +347,10 @@ Mobile Application:
 
 <img width="456" height="237" alt="3" src="https://github.com/user-attachments/assets/9db9ca0a-679f-42f1-9879-1b79bf06f242" />
 
+## 5.3. Video About the Product
+
+Link del video en Microsoft Stream:
+
 
 
 
