@@ -143,19 +143,6 @@ Una vez completado el despliegue, la landing page quedará publicada y accesible
 
 ### 5.2.1.2. Sprint Backlog 1
 
-**Sprint 1 — Estado: DONE**  
-**Miembros:** Paolo, Romina, Marco, Fátima
-
----
-
-## Resumen
-**Duración estimada:** 2 semanas  
-**Objetivo del sprint:** Implementar el flujo completo de autenticación, registro de usuarios (paciente y profesional), registro de datos clínicos y visualización básica de información en la aplicación web y móvil.
-
----
-
-## User Stories Completadas
-
 | Nº | Título                                                         | Descripción                                                                     | Story Points | Responsable | Estado |
 |----|----------------------------------------------------------------|---------------------------------------------------------------------------------|--------------|-------------|--------|
 | 1  | Registro como profesional de la salud mental                   | Registro con credenciales para acceder a funcionalidades y gestionar pacientes. | 8            | Paolo       | DONE   |
@@ -178,15 +165,6 @@ Una vez completado el despliegue, la landing page quedará publicada y accesible
 | 18 | Información del propósito de la aplicación (Landing Page)      | Sección explicativa sobre la utilidad del sistema.                              | 1            | Fátima      | DONE   |
 | 19 | Visualización de imágenes y gráficos relevantes (Landing Page) | Diseño visual atractivo con gráficos informativos.                              | 1            | Marco       | DONE   |
 | 20 | Tipografía cómoda y estética (Landing Page)                    | Tipografía legible y estética para visitantes.                                  | 1            | Paolo       | DONE   |
-
----
-
-## Totales
-- **Total de historias:** 20
-- **Total de Story Points:** 77
-- **Velocidad del equipo:** 77 pts/sprint
-- **Estado general:** 100% completado
-
 
 ### 5.2.1.2. Implmented Landing Page Evidence.
 
