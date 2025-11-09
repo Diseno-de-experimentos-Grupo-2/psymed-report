@@ -351,6 +351,9 @@ Mobile Application:
 
 Link del video en Microsoft Stream:
 
+<br>
+
+<img width="1357" height="765" alt="image" src="https://github.com/user-attachments/assets/6135843d-fcef-4bb1-b39e-7e78b0dc6c57" />
 
 
 
