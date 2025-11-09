@@ -14,7 +14,7 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 - Para reforzar la orientación profesional del dashboard del doctor en la versión web, se podría agregar una imagen referencial relacionada con psicología que acompañe los elementos visuales existentes.
 
-- Para fortalecer la coherencia visual y la pertenencia del usuario en el dashboard del paciente en la versión web, se podría incorporar la imagen del logo institucional.
+- Para incrementar la armonía visual del dashboard en la versión web, se podría cambiar el color del toolbar a cyan oscuro para generar un contraste esteticamente atractivo.
 
 - Para mejorar la consistencia estética entre plataformas, se podría implementar un cambio de tema de color hacia tonos morado pastel en la versión móvil, manteniendo una identidad visual uniforme.
 
@@ -26,7 +26,7 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 - Imagen Referencial en Dashboard del Doctor: ¿La inclusión de una imagen relacionada con psicología en el dashboard del doctor mejora la percepción profesional y la claridad contextual de la interfaz?
 
-- Imagen del Logo en Dashboard del Paciente: ¿Mostrar el logo institucional en el dashboard del paciente aumenta el sentido de pertenencia y confianza en la plataforma?
+- Colorimetría del Toolbar: ¿El cambio de tonalidad del toolbar a cyan oscuro genera un impacto positivo en la primera vista del usuario hacia la aplicación web?
 
 - Nuevo Tema en Versión Móvil: ¿El cambio de tema de color a morado pastel mantiene la legibilidad y mejora la consistencia visual en la aplicación móvil?
 
@@ -41,8 +41,8 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 - **Uso de Imagen de Psicología en el Dashboard del Doctor:**
 ¿La incorporación de una imagen contextual relacionada con psicología en el dashboard médico incrementaría la percepción de claridad, sentido profesional y confianza en el entorno clínico digital?
 
-- **Inclusión del Logo Institucional en el Dashboard del Paciente:**
-¿Mostrar el logo institucional en el dashboard del paciente fortalecería la identidad de la plataforma y aumentaría la confianza y legitimidad del servicio?
+- **Mejora de armonía visual con cyan oscuro al toolbar web:**
+¿Cambiar el color del toolbar de negro azabache a cyan oscuro incrementaría la atracción visual del paciente y médico al ingresar al dashboard de la aplicación web?
 
 - **Consistencia Visual con Tema Morado Pastel en Móvil:**
 ¿La adopción del tema en color morado pastel en la versión móvil mejoraría la coherencia visual y retención de los usuarios sin afectar la legibilidad de los elementos interactivos?
@@ -72,10 +72,10 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 |  | Experiment Card 4 |
 |----|----|
-| Question | ¿La inclusión del logo institucional en el dashboard del paciente fortalece la percepción de confianza? |
-| Why | Queremos entender si reforzar la identidad visual del sistema aumenta la credibilidad del servicio ante los pacientes. |
-| What | Se colocará el logo institucional en la parte superior del dashboard del paciente y se recogerá retroalimentación respecto a identidad y confianza. |
-| Hypothesis | Agregar el logo institucional mejorará la percepción de confiabilidad y pertenencia del usuario respecto a la plataforma. |
+| Question | ¿Cómo afecta el cambio de negro azabache a cyan oscuro en la percepción y atracción del usuario en la app web? |
+| Why | Queremos entender si reforzar la armonía visual del sistema aumenta la atracción del servicio ante los usuarios. |
+| What | Se cambiará el color del toolbar a cyan oscuro y se medirá la atracción del usuario al producto Psymed. |
+| Hypothesis | Cambiar el color del toolbar a cyan oscuro incrementará la armonía visual y atracción del usuario frente al diseño web. |
 
 |  | Experiment Card 5 |
 |----|----|
@@ -105,11 +105,11 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 | Data analyze|	Se utilizó Hotjar Heatmaps y Google Analytics para analizar la atención visual y el flujo de navegación. Después de 20 sesiones monitoreadas, se observó que el área donde se colocó la imagen recibió un 33% más de fijaciones visuales, y los clics hacia los recursos psicológicos aumentaron en 11.4%. Esto indica un estímulo visual efectivo.  <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f081e919-aeb7-4e97-b45e-b4552a5aa5ba"/></p> |
 |Hypothesis|	La imagen referencial mejora la orientación visual y aumenta la probabilidad de interacción con recursos psicológicos en el dashboard.|
 
-| Hipótesis 4 | Imagen del logo en dashboard del paciente (Web) |
+| Hipótesis 4 | Cambio de color al toolbar (Web) |
 |-|-|
-| Question |	¿La presencia del logo en el dashboard incrementa la percepción de identidad y confianza del usuario en la plataforma? |
-| Data analyze|	Para este análisis se aplicó una encuesta in-app corta (N=28) y revisión de flujos mediante Hotjar. La percepción de confianza pasó de 3.8 a 4.4/5 en promedio. Además, la tasa de permanencia en la pantalla inicial aumentó 8.9%, indicando menor abandono inmediato. <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e67d095c-d7f5-4a96-9b4c-6d6595d4fb27"/></p>|
-|Hypothesis|	Incluir el logo refuerza la identidad visual y genera mayor confianza, lo que reduce el abandono al ingresar al dashboard.|
+| Question |	¿El cambio de color mejora la armonía visual y atracción, mejorando la retención del usuario? |
+| Data analyze|	Para este análisis se aplicó una encuesta in-app corta (N=28) y revisión de flujos mediante Hotjar. La percepción de estética visual pasó de 3.8 a 4.4/5 en promedio. Además, la tasa de permanencia en la pantalla inicial aumentó 8.9%, indicando menor abandono inmediato. <br> <br> <p  align = "center"> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e67d095c-d7f5-4a96-9b4c-6d6595d4fb27"/></p>|
+|Hypothesis|	Cambiar el color del toolbar refuerza la armonía visual y genera mayor atracción, lo que reduce el abandono al ingresar al dashboard.|
 
 | Hipótesis 5 | Cambio de tema a morado pastel (App móvil) |
 |-|-|
@@ -135,6 +135,8 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 - La redirección a “Registrar Estado de Salud” mejora la tarea principal del usuario móvil, entonces la tasa de completitud debe aumentar.
 
 - Las imágenes agregadas en los dashboards fortalecen la identidad de la plataforma, lo que se refleja en engagement y tiempo en sesión.
+
+- El color cyan oscuro mejora la armonía visual, lo que aumenta la retención y atracción del usuario.
 
 - El tema morado pastel impacta la experiencia visual, lo cual afecta la percepción de facilidad de uso y satisfacción.
 
@@ -164,7 +166,7 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 
 - Fuente de datos: Analytics del dashboard.
 
-7. Para la imagen del logo en dashboard de paciente, medir percepción/UX mediante una encuesta in-app (CSAT) y retención en la pantalla (tiempo promedio). Mejores puntuaciones y mayor tiempo apoyan la hipótesis de percepción positiva.
+7. Para el cambio de color del toolbar, medir percepción/UX mediante una encuesta in-app (CSAT) y retención en la pantalla (tiempo promedio). Mejores puntuaciones y mayor tiempo apoyan la hipótesis de percepción positiva.
 
 - Fuente de datos: Encuestas in-app + analytics.
 
@@ -419,7 +421,7 @@ Este plan permitirá evaluar con precisión el impacto de cada cambio en el uso 
 | **UA04** | Mostrar mensaje de bienvenida antes de redirigir | Como usuario de la app móvil, quiero ver un mensaje de bienvenida al iniciar sesión, antes de ser redirigido, para tener una experiencia más cálida. | **Escenario 1: Mensaje previo a redirección**<br>Given que el usuario ingresa correctamente.<br>When la app valida el login.<br>Then se muestra un mensaje de “Bienvenido” durante 2 segundos antes de abrir “Registrar estado de salud”. | **E02** |
 | **UA05** | Agregar imagen referencial sobre psicología en dashboard del doctor | Como doctor que utiliza la app web, quiero ver una imagen representativa de la psicología en mi panel, para que la interfaz sea más profesional. | **Escenario 1: Visualización de imagen**<br>Given que el doctor accede al dashboard.<br>When la página carga.<br>Then se muestra la imagen referencial de psicología en un área visible. | **E03** |
 | **UA06** | Asegurar adaptabilidad de la imagen en diferentes resoluciones | Como doctor, quiero que la imagen del dashboard se adapte correctamente a distintos tamaños de pantalla, para evitar deformaciones. | **Escenario 1: Responsividad de imagen**<br>Given que el usuario cambia el tamaño del navegador.<br>When la imagen se redimensiona.<br>Then mantiene su proporción sin distorsión. | **E03** |
-| **UA07** | Agregar el logo institucional en el dashboard del paciente | Como paciente, quiero ver el logo de la aplicación en mi dashboard, para reconocer fácilmente la marca. | **Escenario 1: Logo visible en dashboard**<br>Given que el paciente ha iniciado sesión.<br>When se carga el panel principal.<br>Then se muestra el logo en la parte superior. | **E04** |
+| **UA07** | Cambiar el color del toolbar de la versión web | Como usuario, quiero que la aplicación web tenga un diseño atractivo, para que sea satisfactorio usarla. | **Escenario 1: Toolbar cyan oscuro**<br>Given que el paciente ha iniciado sesión.<br>When se carga el panel principal.<br>Then se muestra el toolbar cyan oscuro. | **E04** |
 | **UA08** | Ajustar la posición y tamaño del logo según el dispositivo | Como paciente, quiero que el logo se vea correctamente en cualquier dispositivo, para mantener una buena experiencia visual. | **Escenario 1: Comportamiento responsivo**<br>Given que el paciente accede desde distintas resoluciones (PC, tablet, móvil).<br>When cambia el tamaño de pantalla.<br>Then el logo mantiene su proporción. | **E04** |
 | **UA09** | Cambiar el tema de color a morado pastel (App móvil) | Como usuario móvil, quiero que la app adopte un tema de color morado pastel, para disfrutar una interfaz más moderna y agradable. | **Escenario 1: Aplicación del tema**<br>Given que el usuario abre la app.<br>When la interfaz carga.<br>Then todos los elementos visuales adoptan el tema morado pastel. | **E05** |
 | **UA10** | Mantener coherencia de colores en todas las vistas del tema morado pastel | Como usuario, quiero que el tema morado pastel se aplique de forma uniforme en toda la app, para mantener consistencia visual. | **Escenario 1: Verificación de consistencia del tema**<br>Given que el usuario navega entre secciones (inicio, perfil, estado de salud).<br>When cambia de vista.<br>Then el color morado pastel se mantiene igual en toda la aplicación. | **E05** |
@@ -434,7 +436,7 @@ Este plan permitirá evaluar con precisión el impacto de cada cambio en el uso 
 | 4 | UA04 | Mostrar mensaje de bienvenida antes de redirigir | 2 |
 | 5 | UA05 | Agregar imagen referencial sobre psicología en dashboard del doctor | 3 |
 | 6 | UA06 | Asegurar adaptabilidad de la imagen en diferentes resoluciones | 2 |
-| 7 | UA07 | Agregar el logo institucional en el dashboard del paciente | 3 |
+| 7 | UA07 | Cambiar el color del toolbar del la versión web | 3 |
 | 8 | UA08 | Ajustar la posición y tamaño del logo según el dispositivo | 2 |
 | 9 | UA09 | Cambiar el tema de color a morado pastel en la app móvil | 5 |
 | 10 | UA10 | Mantener coherencia de colores en todas las vistas del tema morado pastel | 3 |
