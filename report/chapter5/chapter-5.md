@@ -139,9 +139,7 @@ Una vez completado el despliegue, la landing page quedará publicada y accesible
 
 ## 5.2. Product Implementation & Deployment
 
-### 5.2.1. Sprint 1
-
-### 5.2.1.2. Sprint Backlog 1
+### 5.2.1. Sprint Backlog
 
 | Nº | Título                                                         | Descripción                                                                     | Story Points | Responsable | Estado |
 |----|----------------------------------------------------------------|---------------------------------------------------------------------------------|--------------|-------------|--------|
@@ -166,7 +164,7 @@ Una vez completado el despliegue, la landing page quedará publicada y accesible
 | 19 | Visualización de imágenes y gráficos relevantes (Landing Page) | Diseño visual atractivo con gráficos informativos.                              | 1            | Marco       | DONE   |
 | 20 | Tipografía cómoda y estética (Landing Page)                    | Tipografía legible y estética para visitantes.                                  | 1            | Paolo       | DONE   |
 
-### 5.2.1.2. Implmented Landing Page Evidence.
+### 5.2.2. Implmented Landing Page Evidence.
 
 La Landing Page fue hecho deploy a través de GitHub Pages, y se puede acceder a travéz de este enlace: https://diseno-de-experimentos-grupo-2.github.io/Landing-Page/
 
@@ -176,7 +174,7 @@ La Landing Page fue hecho deploy a través de GitHub Pages, y se puede acceder a
 ![alt text](../../assets/Landing4.png)
 ![alt text](../../assets/Landing5.png)
 
-### 5.2.1.3. Implemented Frontend-Web Application Evidence.
+### 5.2.3. Implemented Frontend-Web Application Evidence.
 
 El Frontend-Web se hizo deploy a través de , y se puede acceder desde el siguiente enlace: 
 
@@ -197,55 +195,12 @@ Profesional:
 ![alt text](../../assets/IMG-20240924-WA0030.jpg)
 ![alt text](../../assets/sprint3/df09.jpeg)
 
-### 5.2.1.4. Implemented RESTful API and Severless Backend Evidence.
-![alt text](../../assets/sprint4/backend_deployment.png)
-
-### 5.2.1.6. RESTful API documentation.
-Enlace al repositorio del Backend:https://github.com/Diseno-de-experimentos-Grupo-2/psymed-backend
-
-Enlace del Backend deployment: https://psymed-production.up.railway.app
-
-| **Endpoint**                                 | **Método** | **Descripción**                                    | **Parámetros**                      | **Respuesta**                                         | **Ejemplo**                                              |
-|----------------------------------------------|------------|----------------------------------------------------|------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
-| `/api/v1/professional-profiles`              | POST       | Create a new professional profile                  | JSON Body - `CreateProfessionalProfileResource` | `201 Created` - Profile created<br>`400 Bad Request` - Invalid input | `{"name": "Dr. John Doe", "specialty": "Psychiatrist"}` |
-| `/api/v1/professional-profiles/{profileId}`  | GET        | Retrieve a professional profile by its ID          | `{profileId} (Long)`               | `200 OK` - Profile found<br>`404 Not Found` - Profile not found | `{"id": 1, "name": "Dr. John Doe", "specialty": "Psychiatrist"}` |
-| `/api/v1/patient-profiles`                     | POST       | Create a new patient profile                       | JSON Body - `CreatePatientProfileResource` | `201 Created` - Profile created<br>`400 Bad Request` - Invalid input | `{"name": "Jane Doe", "age": 30, "diagnosis": "Anxiety"}` |
-| `/api/v1/patient-profiles/{profileId}`         | GET        | Retrieve a patient profile by its ID               | `{profileId} (Long)`               | `200 OK` - Profile found<br>`404 Not Found` - Profile not found | `{"id": 1, "name": "Jane Doe", "age": 30, "diagnosis": "Anxiety"}` |
-| `/api/v1/patient-profiles`                     | GET        | Retrieve all patient profiles                      | N/A                                | `200 OK` - List of profiles                                | `[{"id": 1, "name": "Jane Doe"}, {"id": 2, "name": "John Doe"}]` |
-| `/api/v1/patients/{patientId}/mood-states`               | POST       | Create a new mood state record for a patient            | `patientId (Long)`<br>JSON Body - `CreateMoodStateRecordResource` | `201 Created` - Mood state created<br>`400 Bad Request` - Invalid input | `{"date": "2024-11-17", "mood": "Happy", "notes": "Feeling great today!"}` |
-| `/api/v1/patients/{patientId}/mood-states`               | GET        | Retrieve all mood states for a specific patient         | `patientId (Long)`                         | `200 OK` - List of mood states<br>`404 Not Found` - Patient not found  | `[{"id": 1, "date": "2024-11-17", "mood": "Happy", "notes": "Feeling great today!"}]` |
-| `/api/v1/patients/{patientId}/biological-functions`       | POST       | Create a new biological function record for a patient     | `patientId (Long)`<br>JSON Body - `CreateBiologicalFunctionRecordResource` | `201 Created` - Biological function created<br>`400 Bad Request` - Invalid input | `{"date": "2024-11-17", "type": "Sleep", "value": "7 hours", "notes": "Slept well"}` |
-| `/api/v1/patients/{patientId}/biological-functions`       | GET        | Retrieve all biological function records for a specific patient | `patientId (Long)`                         | `200 OK` - List of biological functions<br>`404 Not Found` - Patient not found  | `[{"id": 1, "date": "2024-11-17", "type": "Sleep", "value": "7 hours"}]` |
-| `/api/v1/pills`                | POST        | Create a new medication                                 | JSON Body - `CreatePillResource`      | `201 Created` - Medication created<br>`400 Bad Request` - Invalid input<br>`404 Not Found` - Medication not found | `{"name": "Aspirin", "dosage": "500mg", "instructions": "Take one daily"}` |
-| `/api/v1/pills`                | GET         | Retrieve all medications                                | N/A                                   | `200 OK` - List of medications<br>`404 Not Found` - No medications found    | `[{"id": 1, "name": "Aspirin", "dosage": "500mg"}]`       |
-| `/api/v1/pills/{pillId}`       | DELETE      | Delete a medication by its ID                           | `pillId (Long)`                       | `200 OK` - Medication deleted<br>`404 Not Found` - Medication not found     | N/A                                                      |
-| `/api/v1/accounts/{accountId}`       | GET        | Retrieve account details by account ID       | `accountId (Long)`           | `200 OK` - Account found<br>`404 Not Found` - Account not found | `{"id": 1, "username": "johndoe", "email": "johndoe@example.com"}` |
-| `/api/v1/authentication/sign-in`         | POST       | Authenticate a user and generate a token               | JSON Body - `SignInResource`         | `200 OK` - User authenticated<br>`404 Not Found` - Invalid credentials | `{"username": "johndoe", "password": "password123"}`      |
-| `/api/v1/authentication/sign-up`         | POST       | Register a new user account                            | JSON Body - `SignUpResource`         | `201 Created` - Account created<br>`400 Bad Request` - Invalid input | `{"username": "janedoe", "email": "janedoe@example.com", "password": "securePass!"}` |
-
----
-
-### 5.2.1.7. Team Collaboration Insights.
-
-Front-end Web Application: 
-
-<img width="453" height="236" alt="ins" src="https://github.com/user-attachments/assets/2eb5abba-04ec-494e-835e-467f60a994b1" />
-
-Back-end Web Application:
-
-<img width="451" height="233" alt="2" src="https://github.com/user-attachments/assets/48a629d2-ae13-4855-9a80-484cfecd9ba9" />
-
-Mobile Application: 
-
-<img width="456" height="237" alt="3" src="https://github.com/user-attachments/assets/9db9ca0a-679f-42f1-9879-1b79bf06f242" />
-
-
 ### 5.2.4. Acuerdo SAAS
 
 # Términos de Uso del Servicio SaaS
 
 **Última actualización:** Octubre 2025  
-**Jurisdicción aplicable:** Perú  
+**Jurisdicción aplicable:** Perú
 
 Estos Términos de Uso regulan el acceso y utilización de la plataforma de salud mental (“la Plataforma”), disponible en versión web y aplicación móvil, que conecta a **profesionales de la salud mental** y **pacientes** para el registro, seguimiento y gestión de información clínica y de bienestar emocional.
 
@@ -258,10 +213,10 @@ Al registrarse o acceder a la Plataforma, el usuario (ya sea **profesional de la
 
 ## 2. Naturaleza del Servicio
 La Plataforma es un **Software como Servicio (SaaS)** que permite:
-- El registro y autenticación segura de usuarios (pacientes y profesionales).  
-- El registro, visualización y gestión de información personal y médica.  
-- El seguimiento diario del estado emocional y de salud del paciente.  
-- La programación, visualización y gestión de citas médicas.  
+- El registro y autenticación segura de usuarios (pacientes y profesionales).
+- El registro, visualización y gestión de información personal y médica.
+- El seguimiento diario del estado emocional y de salud del paciente.
+- La programación, visualización y gestión de citas médicas.
 - La comunicación clínica entre profesional y paciente a través de funcionalidades internas.
 
 El servicio **no sustituye la atención médica presencial** ni constituye diagnóstico clínico automatizado.
@@ -269,36 +224,36 @@ El servicio **no sustituye la atención médica presencial** ni constituye diagn
 ---
 
 ## 3. Registro y Autenticación
-- Los **profesionales** deben registrarse con credenciales verificables (número de colegiatura o documento equivalente).  
-- Los **pacientes** deben registrarse con datos personales válidos y mantener su cuenta actualizada.  
-- Cada usuario es responsable de la **confidencialidad de sus credenciales** y del uso de su cuenta.  
+- Los **profesionales** deben registrarse con credenciales verificables (número de colegiatura o documento equivalente).
+- Los **pacientes** deben registrarse con datos personales válidos y mantener su cuenta actualizada.
+- Cada usuario es responsable de la **confidencialidad de sus credenciales** y del uso de su cuenta.
 - El uso indebido, falsificación de identidad o acceso no autorizado constituye violación de los presentes términos.
 
 ---
 
 ## 4. Uso Aceptable
 Los usuarios deben:
-- Utilizar la Plataforma exclusivamente con fines clínicos, terapéuticos o de seguimiento personal autorizados.  
-- Abstenerse de compartir, divulgar o manipular información médica sin consentimiento.  
-- No alterar, copiar, revender ni intentar obtener el código fuente del sistema.  
+- Utilizar la Plataforma exclusivamente con fines clínicos, terapéuticos o de seguimiento personal autorizados.
+- Abstenerse de compartir, divulgar o manipular información médica sin consentimiento.
+- No alterar, copiar, revender ni intentar obtener el código fuente del sistema.
 - No usar la Plataforma para actividades fraudulentas o que contravengan la ley peruana o normas sanitarias vigentes.
 
 ---
 
 ## 5. Datos Personales y Confidencialidad
-- Toda la información médica, emocional y personal registrada es **confidencial** y tratada conforme a la **Ley N.º 29733 - Ley de Protección de Datos Personales (Perú)**.  
-- El proveedor del servicio actúa como **encargado del tratamiento**, y los profesionales como **responsables del tratamiento** en relación con los datos de sus pacientes.  
-- Los datos pueden ser almacenados en servidores en la nube dentro o fuera del país, garantizando estándares internacionales de seguridad (cifrado, control de acceso y anonimización).  
+- Toda la información médica, emocional y personal registrada es **confidencial** y tratada conforme a la **Ley N.º 29733 - Ley de Protección de Datos Personales (Perú)**.
+- El proveedor del servicio actúa como **encargado del tratamiento**, y los profesionales como **responsables del tratamiento** en relación con los datos de sus pacientes.
+- Los datos pueden ser almacenados en servidores en la nube dentro o fuera del país, garantizando estándares internacionales de seguridad (cifrado, control de acceso y anonimización).
 
 ---
 
 ## 6. Funcionalidades Clave
-1. **Autenticación Segura:** Implementación de OAuth2/JWT y cifrado SSL/TLS.  
-2. **Registro de Pacientes:** Almacenamiento de datos personales y clínicos básicos.  
-3. **Seguimiento Diario:** Registro de estado emocional, calidad del sueño, energía y hábitos biológicos.  
-4. **Gestión de Medicación:** Asignación y visualización de medicamentos prescritos.  
-5. **Sistema de Citas:** Creación, visualización y recordatorios de citas entre profesional y paciente.  
-6. **Perfil de Usuario:** Acceso a información personal, profesional y de conexión terapéutica.  
+1. **Autenticación Segura:** Implementación de OAuth2/JWT y cifrado SSL/TLS.
+2. **Registro de Pacientes:** Almacenamiento de datos personales y clínicos básicos.
+3. **Seguimiento Diario:** Registro de estado emocional, calidad del sueño, energía y hábitos biológicos.
+4. **Gestión de Medicación:** Asignación y visualización de medicamentos prescritos.
+5. **Sistema de Citas:** Creación, visualización y recordatorios de citas entre profesional y paciente.
+6. **Perfil de Usuario:** Acceso a información personal, profesional y de conexión terapéutica.
 
 ---
 
@@ -309,16 +264,16 @@ El usuario conserva los derechos sobre los datos que registra, pero otorga licen
 ---
 
 ## 8. Responsabilidad
-- El proveedor no garantiza la ausencia total de errores ni interrupciones en el servicio, pero se compromete a mantener una **disponibilidad mínima del 95% mensual**.  
-- No se asume responsabilidad por decisiones clínicas tomadas fuera del contexto profesional.  
+- El proveedor no garantiza la ausencia total de errores ni interrupciones en el servicio, pero se compromete a mantener una **disponibilidad mínima del 95% mensual**.
+- No se asume responsabilidad por decisiones clínicas tomadas fuera del contexto profesional.
 - El uso indebido por parte del usuario o el incumplimiento de los términos libera al proveedor de toda responsabilidad.
 
 ---
 
 ## 9. Suspensión y Terminación
 La cuenta puede ser suspendida o eliminada si:
-- Se detecta uso indebido, acceso no autorizado o vulneración de seguridad.  
-- Se incumplen las obligaciones establecidas en estos Términos.  
+- Se detecta uso indebido, acceso no autorizado o vulneración de seguridad.
+- Se incumplen las obligaciones establecidas en estos Términos.
 - A solicitud del usuario o de autoridad competente.
 
 ---
@@ -343,5 +298,54 @@ Para consultas o solicitudes relacionadas con los Términos de Uso:
 
 ---
 
-**© 2025 Plataforma SaaS de Salud Mental — Todos los derechos reservados**
+**© 2025 Plataforma SaaS de Psymed — Todos los derechos reservados**
+
+### 5.2.5. Implemented Native-Mobile Application Evidence
+
+
+
+### 5.2.6. Implemented RESTful API and Severless Backend Evidence.
+![alt text](../../assets/sprint4/backend_deployment.png)
+
+### 5.2.7. RESTful API documentation.
+Enlace al repositorio del Backend:https://github.com/Diseno-de-experimentos-Grupo-2/psymed-backend
+
+Enlace del Backend deployment: https://psymed-production.up.railway.app
+
+| **Endpoint**                                        | **Método** | **Descripción**                                                 | **Parámetros**                                                             | **Respuesta**                                                                                                     | **Ejemplo**                                                                           |
+|-----------------------------------------------------|------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| `/api/v1/professional-profiles`                     | POST       | Create a new professional profile                               | JSON Body - `CreateProfessionalProfileResource`                            | `201 Created` - Profile created<br>`400 Bad Request` - Invalid input                                              | `{"name": "Dr. John Doe", "specialty": "Psychiatrist"}`                               |
+| `/api/v1/professional-profiles/{profileId}`         | GET        | Retrieve a professional profile by its ID                       | `{profileId} (Long)`                                                       | `200 OK` - Profile found<br>`404 Not Found` - Profile not found                                                   | `{"id": 1, "name": "Dr. John Doe", "specialty": "Psychiatrist"}`                      |
+| `/api/v1/patient-profiles`                          | POST       | Create a new patient profile                                    | JSON Body - `CreatePatientProfileResource`                                 | `201 Created` - Profile created<br>`400 Bad Request` - Invalid input                                              | `{"name": "Jane Doe", "age": 30, "diagnosis": "Anxiety"}`                             |
+| `/api/v1/patient-profiles/{profileId}`              | GET        | Retrieve a patient profile by its ID                            | `{profileId} (Long)`                                                       | `200 OK` - Profile found<br>`404 Not Found` - Profile not found                                                   | `{"id": 1, "name": "Jane Doe", "age": 30, "diagnosis": "Anxiety"}`                    |
+| `/api/v1/patient-profiles`                          | GET        | Retrieve all patient profiles                                   | N/A                                                                        | `200 OK` - List of profiles                                                                                       | `[{"id": 1, "name": "Jane Doe"}, {"id": 2, "name": "John Doe"}]`                      |
+| `/api/v1/patients/{patientId}/mood-states`          | POST       | Create a new mood state record for a patient                    | `patientId (Long)`<br>JSON Body - `CreateMoodStateRecordResource`          | `201 Created` - Mood state created<br>`400 Bad Request` - Invalid input                                           | `{"date": "2024-11-17", "mood": "Happy", "notes": "Feeling great today!"}`            |
+| `/api/v1/patients/{patientId}/mood-states`          | GET        | Retrieve all mood states for a specific patient                 | `patientId (Long)`                                                         | `200 OK` - List of mood states<br>`404 Not Found` - Patient not found                                             | `[{"id": 1, "date": "2024-11-17", "mood": "Happy", "notes": "Feeling great today!"}]` |
+| `/api/v1/patients/{patientId}/biological-functions` | POST       | Create a new biological function record for a patient           | `patientId (Long)`<br>JSON Body - `CreateBiologicalFunctionRecordResource` | `201 Created` - Biological function created<br>`400 Bad Request` - Invalid input                                  | `{"date": "2024-11-17", "type": "Sleep", "value": "7 hours", "notes": "Slept well"}`  |
+| `/api/v1/patients/{patientId}/biological-functions` | GET        | Retrieve all biological function records for a specific patient | `patientId (Long)`                                                         | `200 OK` - List of biological functions<br>`404 Not Found` - Patient not found                                    | `[{"id": 1, "date": "2024-11-17", "type": "Sleep", "value": "7 hours"}]`              |
+| `/api/v1/pills`                                     | POST       | Create a new medication                                         | JSON Body - `CreatePillResource`                                           | `201 Created` - Medication created<br>`400 Bad Request` - Invalid input<br>`404 Not Found` - Medication not found | `{"name": "Aspirin", "dosage": "500mg", "instructions": "Take one daily"}`            |
+| `/api/v1/pills`                                     | GET        | Retrieve all medications                                        | N/A                                                                        | `200 OK` - List of medications<br>`404 Not Found` - No medications found                                          | `[{"id": 1, "name": "Aspirin", "dosage": "500mg"}]`                                   |
+| `/api/v1/pills/{pillId}`                            | DELETE     | Delete a medication by its ID                                   | `pillId (Long)`                                                            | `200 OK` - Medication deleted<br>`404 Not Found` - Medication not found                                           | N/A                                                                                   |
+| `/api/v1/accounts/{accountId}`                      | GET        | Retrieve account details by account ID                          | `accountId (Long)`                                                         | `200 OK` - Account found<br>`404 Not Found` - Account not found                                                   | `{"id": 1, "username": "johndoe", "email": "johndoe@example.com"}`                    |
+| `/api/v1/authentication/sign-in`                    | POST       | Authenticate a user and generate a token                        | JSON Body - `SignInResource`                                               | `200 OK` - User authenticated<br>`404 Not Found` - Invalid credentials                                            | `{"username": "johndoe", "password": "password123"}`                                  |
+| `/api/v1/authentication/sign-up`                    | POST       | Register a new user account                                     | JSON Body - `SignUpResource`                                               | `201 Created` - Account created<br>`400 Bad Request` - Invalid input                                              | `{"username": "janedoe", "email": "janedoe@example.com", "password": "securePass!"}`  |
+
+---
+
+### 5.2.8. Team Collaboration Insights.
+
+Front-end Web Application: 
+
+<img width="453" height="236" alt="ins" src="https://github.com/user-attachments/assets/2eb5abba-04ec-494e-835e-467f60a994b1" />
+
+Back-end Web Application:
+
+<img width="451" height="233" alt="2" src="https://github.com/user-attachments/assets/48a629d2-ae13-4855-9a80-484cfecd9ba9" />
+
+Mobile Application: 
+
+<img width="456" height="237" alt="3" src="https://github.com/user-attachments/assets/9db9ca0a-679f-42f1-9879-1b79bf06f242" />
+
+
+
 
