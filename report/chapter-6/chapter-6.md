@@ -517,8 +517,27 @@ Como Paciente, quiero poder ver la lista de medicamentos que tengo asignados par
 ## 6.2. Static testing & Verification
 ## 6.2.1. Static Code Analysis
 #### 6.2.1.1. Coding standard & Code conventions.
+
+En el código desarrollado se emplearon los lenguajes Java y TypeScript, aplicando sus respectivos estándares de 
+codificación. Para Java, se siguieron las convenciones definidas por la Google Java Style Guide, garantizando una 
+estructura clara, legible y coherente en nombres, formato y documentación. En el caso de TypeScript, utilizado 
+dentro del framework Angular, se aplicaron las recomendaciones de la Angular Style Guide y las reglas de ESLint, 
+asegurando buenas prácticas en la organización de archivos, nomenclatura y consistencia del código.
+
 #### 6.2.1.2. Code Quality & Code Security.
+
+En el desarrollo del proyecto se aplicaron prácticas de control de calidad y seguridad del código tanto en **Java** como en **TypeScript (Angular)**.  
+Para evaluar la calidad del código, se consideraron métricas de complejidad, duplicación y mantenibilidad, empleando herramientas como  **ESLint**, que permitió detectar y corregir inconsistencias según los estándares de codificación definidos (*Google Java Style Guide* y *Angular Style Guide*).
+
+En cuanto a la seguridad, se realizó la verificación de posibles vulnerabilidades comunes, como **inyecciones SQL**, y **manejo inseguro de datos sensibles**, asegurando que el código mantuviera altos niveles de **robustez**, **integridad** y **protección** frente a amenazas.
+
 ### 6.2.2. Reviews
+
+Se realizó una revisión exhaustiva del código desarrollado en **Java** y **TypeScript (Angular)** con el 
+objetivo de asegurar la correcta implementación de las buenas prácticas previamente mencionadas en cuanto a 
+**calidad** y **seguridad**. Estas revisiones permitieron verificar el cumplimiento de los estándares de codificación,
+así como la adecuada gestión de la **complejidad**, **mantenibilidad** y la mitigación de 
+vulnerabilidades como **inyecciones SQL**, y manejo de datos sensibles.
 
 ## 6.3. Validation Interviews.
 ### 6.3.1. Diseño de Entrevistas.
@@ -545,7 +564,7 @@ Preguntas para segmento profesionales:
 
 Preguntas para segmento pacientes:
 
-¿Qué tan fácil te resultó entender cómo crear un nuevo usuario o iniciar sesión?
+- ¿Qué tan fácil te resultó entender cómo crear un nuevo usuario o iniciar sesión?
 
 - ¿Te pareció intuitivo el proceso para registrar un paciente o ingresar medicamentos/citas?
 
@@ -567,7 +586,7 @@ Preguntas para segmento pacientes:
 
 - ¿Sientes que la app respeta la privacidad y la sensibilidad de la información de salud mental?
 
-- ¿Qué tan confiable te parece el sistema para manejar información médica?
+- ¿Qué tan confiable te parece el sistema para manejar información médica?
 
 ### 6.3.2. Registro de Entrevistas.
 
@@ -668,9 +687,9 @@ Entrevistas a segmento pacientes:
 
 ![alt text](/assets/sprint4/entrevista-marco.png)
 
-| Nombre               | Hortensia                                                                                                                                                                                                                                                                                                              |
+| Nombre               | Eiji                                                                                                                                                                                                                                                                                                                   |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Apellido             | Eiji Nakamurakari                                                                                                                                                                                                                                                                                                      |
+| Apellido             | Nakamurakari                                                                                                                                                                                                                                                                                                           |
 | Edad                 | 21 años                                                                                                                                                                                                                                                                                                                |
 | Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
 | URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210790_upc_edu_pe/EXtAaJUAdK9EuGCCPjmhy7ABrB7VkCpccKvAT9yPiWNc1A?e=P4FBzj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
@@ -691,14 +710,242 @@ Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre 
 
 
 ### 6.3.3. Evaluaciones según heurísticas.
+
+#### **UX Heuristics & Principles Evaluation**
+#### **Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  <br>
+**CURSO:** Diseño de Experimentos de Ingeniería de Software  <br>
+**NRC:** 7508<br>
+**PROFESORES:** Julio Manuel Noriega Melendez<br>
+**AUDITOR:** Paolo Torres <br>
+**CLIENTE(S):** Grupo Go6U<br>
+
+---
+
+#### **SITE o APP A EVALUAR:**
+**Psymed** – Aplicación para profesionales de la salud mental y pacientes que facilita la gestión de procesos interactivos entre ambos.
+
+---
+
+#### **TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de paciente
+2. Registro de profesional de la salud mental
+3. Inicio de sesión y acceso al panel principal
+4. Agendar una cita terapéutica
+5. Enviar mensaje al terapeuta o paciente
+6. Registrar notas o avances de sesión
+7. Visualizar historial clínico
+8. Cancelar o reprogramar una cita
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Generar reportes estadísticos de sesiones
+2. Configurar recordatorios automáticos por correo o SMS
+3. Integrar pagos en línea
+4. Exportar historial clínico a otros formatos
+5. Funcionalidades de supervisión entre terapeutas
+
+---
+
+#### **ESCALA DE SEVERIDAD:**
+
+| Nivel | Descripción                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No requiere corrección inmediata.            |
+| **2** | Problema menor: ocurre con cierta frecuencia o genera confusión leve. Se recomienda corregir en una futura iteración.                             |
+| **3** | Problema mayor: ocurre frecuentemente o impide al usuario completar una tarea sin ayuda. Debe corregirse con prioridad alta.                      |
+| **4** | Problema muy grave: impide completamente el uso de la herramienta o compromete la experiencia del usuario. Debe corregirse antes del lanzamiento. |
+
+---
+
+#### **TABLA RESUMEN:**
+
+| # | Problema                                                                                       | Escala de severidad | Heurística / Principio violado                |
+|---|------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------|
+| 1 | No existe un botón claro para regresar al panel principal desde la vista de historial clínico. | 3                   | Usability: Libertad y control del usuario     |
+| 2 | Los íconos de funciones no tienen etiquetas textuales para lectores de pantalla.               | 2                   | Inclusive Design: Experiencias comparables    |
+| 3 | La jerarquía visual de la sección de mensajes no resalta las conversaciones activas.           | 2                   | Information Architecture: Is it usable?       |
+| 4 | Al registrar una cita, no se muestra retroalimentación inmediata tras confirmar.               | 3                   | Usability: Visibilidad del estado del sistema |
+| 5 | El botón “Cancelar cita” está demasiado próximo al botón “Guardar cambios”.                    | 3                   | Usability: Prevención de errores              |
+
+---
+
 ## 6.4. Auditoría de Experiencias de Usuario.
 ### 6.4.1. Auditoría realizada.
 #### 6.4.1.1. Información del grupo auditado.
+
+- Nombre del grupo: Go6U
+- Integrantes: Paolo Torres, Romina Maita, Marco Nakasone, Fátima Asmad.
+- Producto: Psymed
+
 #### 6.4.1.2. Cronograma de auditoría realizada.
+
+La auditoría se realizó el 09 de noviembre de 2025, durante la semana de 11 del curso.
+
 #### 6.4.1.3. Contenido de auditoría realizada.
+
+### **Evaluación del desempeño del equipo – Proyecto Psymed**
+
+Durante el desarrollo del proyecto **Psymed**, perteneciente a la startup **Go6U**, se evidenció un desempeño sólido y comprometido por parte de todos los integrantes del equipo, tanto en la entrega **TP** como en la entrega **TB1**. Cada miembro asumió responsabilidades específicas que contribuyeron al cumplimiento de los objetivos propuestos dentro del curso **Diseño de Experimentos de Ingeniería de Software**.
+
+La **líder de equipo**, **Romina Guadalupe Maita Falckenheiner**, demostró un alto nivel de organización y liderazgo técnico. Participó activamente en el desarrollo de las *user stories*, la realización de entrevistas y el desarrollo del backend móvil, cumpliendo con todas sus responsabilidades en los plazos establecidos. Su desempeño sobresaliente se reflejó en una calificación máxima, evidenciando un control adecuado de los entregables y una gestión efectiva de la coordinación del grupo.
+
+**Paolo Torres Flores** destacó por su trabajo en la elaboración del *product backlog*, las *user stories* y el desarrollo del *frontend móvil*. Además, participó en el análisis competitivo y en la definición de estrategias y tácticas de posicionamiento. Cumplió de manera oportuna con todas sus asignaciones, mostrando claridad metodológica y consistencia en la documentación de los entregables, lo cual le permitió obtener también la máxima calificación.
+
+Por su parte, **Marco Nakasone Gómez** se encargó del desarrollo de artefactos clave para la fase de diseño, como el *Impact Map*, el *To-Be Scenario Mapping*, la *User Task Matrix* y los *Drivers de propósito y constraint*. Su trabajo evidenció un dominio de las herramientas analíticas y una comprensión profunda del modelo de interacción entre usuarios dentro del contexto de Psymed, cumpliendo con cada actividad dentro de los plazos establecidos.
+
+Finalmente, **Fátima Andrea Asmad Padilla** tuvo un rol fundamental en la revisión y documentación del proyecto, aportando a las correcciones y adaptaciones de capítulos previos y en la elaboración completa del capítulo 7. Su participación fue constante y rigurosa, cumpliendo con todas las entregas dentro de los plazos establecidos y manteniendo la coherencia entre los apartados técnicos y teóricos del informe.
+
+En síntesis, los resultados obtenidos en ambos reportes reflejan un equipo altamente colaborativo, disciplinado y orientado al logro. Todos los integrantes cumplieron sus funciones con eficiencia y compromiso, alcanzando calificaciones equivalentes a **20 sobre 20** en cada una de las entregas. Esto evidencia una gestión integral del proyecto, caracterizada por la responsabilidad individual, la comunicación efectiva y la alineación con los objetivos técnicos y metodológicos del curso.
+
+
 ### 6.4.2. Auditoría recibida.
 #### 6.4.2.1. Información del grupo auditor.
+
+Se realizó una auditoría de experiencia de usuario a la aplicación Psymed, llevada a cabo por el auditor Paolo Torres, como parte del grupo Go6U. El objetivo de esta auditoría fue evaluar la usabilidad, el diseño inclusivo y la arquitectura de la información de la aplicación, identificando áreas de mejora para optimizar la experiencia del usuario tanto para profesionales de la salud mental como para pacientes.
+
 #### 6.4.2.2. Cronograma de auditoría recibida.
+
+La auditoría se realizó el 09 de noviembre de 2025, durante la semana de 11 del curso.
+
 #### 6.4.2.3. Contenido de auditoría recibida.
+
+#### **UX Heuristics & Principles Evaluation**
+#### **Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  <br>
+**CURSO:** Diseño de Experimentos de Ingeniería de Software  <br>
+**NRC:** 7508 <br>
+**PROFESORES:** Julio Manuel Noriega Melendez<br>
+**AUDITOR:** Paolo Torres <br>
+**CLIENTE(S):** Grupo Go6U<br>
+
+---
+
+#### **SITE o APP A EVALUAR:**
+**Psymed** – Aplicación para profesionales de la salud mental y pacientes que facilita la gestión de procesos interactivos entre ambos.
+
+---
+
+#### **TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de paciente
+2. Registro de profesional de la salud mental
+3. Inicio de sesión y acceso al panel principal
+4. Agendar una cita terapéutica
+5. Enviar mensaje al terapeuta o paciente
+6. Registrar notas o avances de sesión
+7. Visualizar historial clínico
+8. Cancelar o reprogramar una cita
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Generar reportes estadísticos de sesiones
+2. Configurar recordatorios automáticos por correo o SMS
+3. Integrar pagos en línea
+4. Exportar historial clínico a otros formatos
+5. Funcionalidades de supervisión entre terapeutas
+
+---
+
+#### **ESCALA DE SEVERIDAD:**
+
+| Nivel | Descripción                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No requiere corrección inmediata.            |
+| **2** | Problema menor: ocurre con cierta frecuencia o genera confusión leve. Se recomienda corregir en una futura iteración.                             |
+| **3** | Problema mayor: ocurre frecuentemente o impide al usuario completar una tarea sin ayuda. Debe corregirse con prioridad alta.                      |
+| **4** | Problema muy grave: impide completamente el uso de la herramienta o compromete la experiencia del usuario. Debe corregirse antes del lanzamiento. |
+
+---
+
+#### **TABLA RESUMEN:**
+
+| # | Problema                                                                                       | Escala de severidad | Heurística / Principio violado                |
+|---|------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------|
+| 1 | No existe un botón claro para regresar al panel principal desde la vista de historial clínico. | 3                   | Usability: Libertad y control del usuario     |
+| 2 | Los íconos de funciones no tienen etiquetas textuales para lectores de pantalla.               | 2                   | Inclusive Design: Experiencias comparables    |
+| 3 | La jerarquía visual de la sección de mensajes no resalta las conversaciones activas.           | 2                   | Information Architecture: Is it usable?       |
+| 4 | Al registrar una cita, no se muestra retroalimentación inmediata tras confirmar.               | 3                   | Usability: Visibilidad del estado del sistema |
+| 5 | El botón “Cancelar cita” está demasiado próximo al botón “Guardar cambios”.                    | 3                   | Usability: Prevención de errores              |
+
+---
+
+#### **DESCRIPCIÓN DE PROBLEMAS:**
+
+#### **PROBLEMA #1: No existe un botón claro para regresar al panel principal desde la vista de historial clínico**
+**Severidad:** 3  
+**Heurística violada:** Usabilidad – Libertad y control del usuario  
+**Problema:**  
+Cuando el usuario revisa el historial clínico, no dispone de una opción visible que le permita regresar fácilmente al panel principal. Esto genera confusión y obliga a usar el navegador para retroceder, afectando la fluidez de la navegación.
+
+**Recomendación:**  
+Incorporar un botón “Volver al panel” o un ícono de navegación persistente en la interfaz, que permita retornar fácilmente sin perder el contexto actual.
+
+---
+
+#### **PROBLEMA #2: Los íconos de funciones no tienen etiquetas textuales para lectores de pantalla**
+**Severidad:** 2  
+**Heurística violada:** Inclusive Design – Proporciona experiencias comparables  
+**Problema:**  
+Algunos íconos, como el de mensajes o configuración, carecen de atributos `aria-label` o texto alternativo, lo que dificulta la interacción para usuarios con discapacidad visual.
+
+**Recomendación:**  
+Agregar etiquetas accesibles (`aria-label` o `alt`) a todos los elementos interactivos para garantizar compatibilidad con tecnologías de asistencia.
+
+---
+
+#### **PROBLEMA #3: La jerarquía visual de la sección de mensajes no resalta las conversaciones activas**
+**Severidad:** 2  
+**Heurística violada:** Information Architecture – Is it usable?  
+**Problema:**  
+La interfaz de mensajes no diferencia visualmente las conversaciones activas de las archivadas, dificultando la búsqueda y seguimiento de pacientes.
+
+**Recomendación:**  
+Aplicar un esquema visual claro (colores, tipografía o etiquetas) que distinga estados de conversación y facilite la navegación.
+
+---
+
+#### **PROBLEMA #4: Al registrar una cita, no se muestra retroalimentación inmediata tras confirmar**
+**Severidad:** 3  
+**Heurística violada:** Usabilidad – Visibilidad del estado del sistema  
+**Problema:**  
+Luego de presionar “Confirmar cita”, el sistema no muestra un mensaje o indicador que confirme la acción, generando incertidumbre sobre si la cita fue registrada correctamente.
+
+**Recomendación:**  
+Incluir una notificación visual o sonora (por ejemplo, un mensaje de éxito o un ícono animado) que confirme la creación de la cita.
+
+---
+
+#### **PROBLEMA #5: El botón “Cancelar cita” está demasiado próximo al botón “Guardar cambios”**
+**Severidad:** 3  
+**Heurística violada:** Usabilidad – Prevención de errores  
+**Problema:**  
+La cercanía entre ambos botones aumenta el riesgo de cancelación accidental, especialmente en pantallas táctiles o móviles.
+
+**Recomendación:**  
+Separar ambos botones con espacio suficiente o colores contrastantes para minimizar errores involuntarios.
+
+---
+
+**Versión del documento:** V1.0  
+**Puntaje total:** 20
+
+
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
+Tras la evaluación heurística realizada en **Psymed**, se efectuaron una serie de modificaciones destinadas a mejorar la **usabilidad**, **accesibilidad** y **arquitectura de la información** de la aplicación.
+
+Entre los principales ajustes se implementaron las siguientes acciones:
+
+- **Navegación mejorada:** Se añadió un botón visible para regresar al panel principal desde todas las vistas, garantizando mayor control y libertad de navegación.
+- **Accesibilidad reforzada:** Se incorporaron etiquetas `aria-label` y textos alternativos a los íconos y elementos interactivos para asegurar compatibilidad con lectores de pantalla.
+- **Jerarquía visual optimizada:** Se rediseñó la sección de mensajes, destacando las conversaciones activas mediante colores y tipografía diferenciada.
+- **Retroalimentación inmediata:** Se implementaron notificaciones visuales y mensajes de confirmación al registrar o modificar citas, mejorando la visibilidad del estado del sistema.
+- **Prevención de errores:** Se reajustó la ubicación y el diseño de los botones “Cancelar cita” y “Guardar cambios” para evitar cancelaciones accidentales.
+
+Estas modificaciones fortalecen la experiencia del usuario al interactuar con **Psymed**, promoviendo una interfaz más intuitiva, segura y alineada con los principios de diseño centrado en el usuario.
