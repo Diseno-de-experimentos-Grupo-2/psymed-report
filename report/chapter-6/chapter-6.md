@@ -602,9 +602,9 @@ Entrevistas a segmento profesionales:
 | Apellido             | Ramirez   |
 | Edad                 | 51 años   |
 | Distrito             | La Molina |
-| URL                  |           |
-| Inicio de entrevista |           |
-| Fin de entrevista    |           |
+| URL                  | https://acortar.link/W1pxX8           |
+| Inicio de entrevista | 00:01           |
+| Fin de entrevista    | 20:35          |
 
 Resumen de entrevista:
 
@@ -634,9 +634,9 @@ Finalmente, consideró que la plataforma favorece la conciencia emocional del pa
 | Apellido             | Piedra Cáceres |
 | Edad                 | 36 años        |
 | Distrito             | Arequipa       |
-| URL                  |                |
-| Inicio de entrevista |                |
-| Fin de entrevista    |                |
+| URL                  | https://acortar.link/xlvlUg               |
+| Inicio de entrevista | 00:01               |
+| Fin de entrevista    | 17:05               |
 
 Resumen de entrevista:
 
