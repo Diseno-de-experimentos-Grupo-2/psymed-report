@@ -665,9 +665,9 @@ Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para 
 | Apellido             | Hikaru Ouchida |
 | Edad                 | 29 años        |
 | Distrito             | Lince          |
-| URL                  |                |
-| Inicio de entrevista |                |
-| Fin de entrevista    |                |
+| URL                  | https://acortar.link/LMeRNa               |
+| Inicio de entrevista | 00:01               |
+| Fin de entrevista    | 09:45               |
 
 Resumen de entrevista:
 
