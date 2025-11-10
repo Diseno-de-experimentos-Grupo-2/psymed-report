@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/PSYMED.png" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
+  <td>PsyMed<br><img src="../../assets/PSYMED.jpeg" alt="PsyMed"></td>
+  <td>TherapyNotes<br><img src="../../assets/TherapyNotes.png" alt="TherapyNotes"></td>
+  <td>Teladoc<br><img src="../../assets/Teladoc.png" alt="Teladoc"></td>
+  <td>Talkspace<br><img src="../../assets/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -158,7 +158,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/Interview1PR.jpeg">
+  <img src="../../assets/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                           |
@@ -166,7 +166,7 @@ Entrevistado 1:
 | Apellido             | Mena                                                                                                                                           |
 | Edad                 | 37                                                                                                                                             |
 | Distrito             | Magdalena del Mar                                                                                                                              |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
+| URL                  | https://acortar.link/PqVQWR                |
 | Inicio de entrevista | 0:01 minutos                                                                                                                                   |
 | Fin de entrevista    | 26:45 minutos                                                                                                                                  |
 
@@ -182,7 +182,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/Interview2.jpeg">
+  <img src="../../assets/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                        |
@@ -190,7 +190,7 @@ Entrevistado 2:
 | Apellido             | Casas                                                                                                                                          |
 | Edad                 | 51 años                                                                                                                                        |
 | Distrito             | San Isidro                                                                                                                                     |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
+| URL                  | https://acortar.link/PqVQWR                |
 | Inicio de entrevista | 26:56 minutos                                                                                                                                  |
 | Fin de entrevista    | 44:43 minutos                                                                                                                                  |
 
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/Interview3.jpeg">
+  <img src="../../assets/Interview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -213,7 +213,7 @@ Entrevistado 3:
 | Apellido             | Ramirez                                                                                                                                        |
 | Edad                 | 51 años                                                                                                                                        |
 | Distrito             | Magdalena del Mar                                                                                                                              |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
+| URL                  | https://acortar.link/PqVQWR                |
 | Inicio de entrevista | 44:53 minutos                                                                                                                                  |
 | Fin de entrevista    | 1:07:47 minutos                                                                                                                                |
 
@@ -232,7 +232,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/Interview1.jpeg"/></img>
+  <img src="../../assets/Interview1.jpeg"/></img>
 </div>
 
 | Nombre               | Ximena                                                                                                                          |
@@ -240,7 +240,7 @@ Entrevistado 1:
 | Apellido             | Falckenheiner                                                                                                                   |
 | Edad                 | 23 años                                                                                                                         |
 | Distrito             | Jesús María                                                                                                                     |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| URL                  | https://acortar.link/PqVQWR |
 | Inicio de entrevista | 1:07:47 minutos                                                                                                                 |
 | Fin de entrevista    | 1:14:23 minutos                                                                                                                 |
 
@@ -256,7 +256,7 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 Entrevistado 2:
 
 <div align=center>
-    <img src="/assets/Interview2PT.png"/></img>
+  <img src="../../assets/Interview2PT.png"/></img>
 </div>
 
 
@@ -265,7 +265,7 @@ Entrevistado 2:
 | Apellido             | Chavez                                                                                                                          |
 | Edad                 | 20 años                                                                                                                         |
 | Distrito             | Lince                                                                                                                           |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| URL                  | https://acortar.link/PqVQWR |
 | Inicio de entrevista | 1:14:23 minutos                                                                                                                 |
 | Fin de entrevista    | 1:24:13 minutos                                                                                                                 |
 **Resumen:**
@@ -293,7 +293,7 @@ el proyecto con las siguientes ideas:
 Entrevistado 3:
 
 <div align=center>
-    <img src="/assets/Interview3PT.png"/></img>
+  <img src="../../assets/Interview3PT.png"/></img>
 </div>
 
 
@@ -302,7 +302,7 @@ Entrevistado 3:
 | Apellido             | Muñiz                                                                                                                           |
 | Edad                 | 21 años                                                                                                                         |
 | Distrito             | Pueblo libre                                                                                                                    |
-| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo |
+| URL                  | https://acortar.link/PqVQWR |
 | Inicio de entrevista | 1:24:13 minutos                                                                                                                 |
 | Fin de entrevista    | 139:22 minutos                                                                                                                  |
 
@@ -345,11 +345,11 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la 
 comunicación.
 
-![AL-medic1.jpg](/assets/AL-medic1.jpg)
-![AL-medic2.jpg](/assets/AL-medic2.jpg)
-![AL-medic3.jpg](/assets/AL-medic3.jpg)
-![AL-medic4.jpg](/assets/AL-medic4.jpg)
-![Al-medic5.jpg](/assets/Al-medic5.jpg)
+![AL-medic1.jpg](../../assets/AL-medic1.jpg)
+![AL-medic2.jpg](../../assets/AL-medic2.jpg)
+![AL-medic3.jpg](../../assets/AL-medic3.jpg)
+![AL-medic4.jpg](../../assets/AL-medic4.jpg)
+![Al-medic5.jpg](../../assets/Al-medic5.jpg)
 - 
 - **Segmento 2: Pacientes**
 
@@ -362,10 +362,10 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran 
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
-![Al-Pat1.png](/assets/Al-Pat1.png)
-![Al-pat2.png](/assets/Al-pat2.png)
-![Al-pat3.png](/assets/Al-pat3.png)
-![Al-pat4.png](/assets/Al-pat4.png)
+![Al-Pat1.png](../../assets/Al-Pat1.png)
+![Al-pat2.png](../../assets/Al-pat2.png)
+![Al-pat3.png](../../assets/Al-pat3.png)
+![Al-pat4.png](../../assets/Al-pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -393,11 +393,11 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
 
-![So-Mental Medic.png](/assets/So-Mental%20Medic.png)
+![So-Mental Medic.png](../../assets/So-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](/assets/SO-patient.png)
+![So-Patient.png](../../assets/SO-patient.png)
 
 ## **User Task Matrix**
 
@@ -435,9 +435,9 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![UJMMedico.jpg](/assets/UJMMedico.jpg)
+![UJMMedico.jpg](../../assets/UJMMedico.jpg)
 ### **Segmento 2: Pacientes**
-![UJMPaciente.png](/assets/UJMPaciente.png)
+![UJMPaciente.png](../../assets/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 
@@ -446,16 +446,16 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![EMMedico.jpg](/assets/EMMedico.jpg)
+![EMMedico.jpg](../../assets/EMMedico.jpg)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](/assets/EMPaciente.png)
+![Texto alternativo](../../assets/EMPaciente.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Pisquiatra  
-  ![as-is1](/assets/AS-IS%20Pisquiatra.jpg)
+  ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
 - **Segmento objetivo:** Paciente    
-  ![as-is2](/assets/AS-IS%20Cliente.jpg)
+  ![as-is2](../../assets/AS-IS%20Cliente.jpg)
 
 ## 2.4. Ubiquitous Language
 
