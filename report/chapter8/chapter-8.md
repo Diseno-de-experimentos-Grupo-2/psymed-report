@@ -117,6 +117,16 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 | Data analyze | 	Se utilizarán pruebas con Lighthouse Mobile y encuestas in-app de preferencia visual (N=31). La puntuación de satisfacción estética aumentará de 3.9 a 4.6/5. Las mediciones de performance se mantendrán estables (puntaje de rendimiento entre 74-78, sin variaciones significativas). No se detectarían problemas de contraste según validación automática. | 
 | Hypothesis   | 	El nuevo tema aumenta la satisfacción visual del usuario sin comprometer accesibilidad ni rendimiento.                                                                                                                                                                                                                                                         |
 
+### 8.2.1.1. Null & Alternative Hypotheses Statements
+
+| **Hypothesis 1**         | Cambio de color del botón de Log in a verde (Web)                                                                                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Question**             | ¿El cambio del color del botón de “Iniciar Sesión” a verde ha incrementado la interacción y el número de inicios de sesión exitosos?                                                             |
+| **Belief**               | El cambio del botón a verde mejora la visibilidad y genera mayor intención de acción del usuario.                                                                                                |
+| **Hypothesis (H₁)**      | Creemos que el cambio del color del botón de “Iniciar Sesión” a verde incrementará la tasa de clic (CTR) en un 21.7% y los inicios de sesión exitosos en un 9.8%, al mejorar la claridad visual. |
+| **Null Hypothesis (H₀)** | El cambio del color del botón de “Iniciar Sesión” a verde no tendrá efecto significativo en la tasa de interacción ni en los inicios de sesión exitosos.                                         |
+
+
 ### 8.2.2. Domain Business Metrics
 
 | Métrica de Negocio                                         | 	Descripción                                                                                     | 	Cómo se mide                                                          | 	Objetivo de Mejora                                                     |
