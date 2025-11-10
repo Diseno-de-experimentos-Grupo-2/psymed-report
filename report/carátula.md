@@ -1,5 +1,9 @@
 <p align="center">
+<<<<<<< HEAD
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"  style="width:200px; height:auto;">
+=======
+  <img src="/assets/UPC_logo_transparente.png"  style="width:200px; height:auto;" alt="logo">
+>>>>>>> d21de5da4fb8a090869c0ba803ab5478e364443b
 </p>
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
