@@ -1201,10 +1201,10 @@ Entonces la landing page debe mostrar un estilo tipográfico consistente para ma
 
 ## 3.3. Impact Mapping.
 ### Segmento profesionales:
-![Professionals_](/assets/professionals_IM.jpeg)
+![Professionals_](../..//assets/professionals_IM.jpeg)
 
 ### Segmento pacientes:
-![Patients_impactmapping](/assets/patients_IM.jpeg)
+![Patients_impactmapping](../..//assets/patients_IM.jpeg)
 
 ## 3.4 Product Backlog.
 
