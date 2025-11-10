@@ -126,6 +126,39 @@ Actualmente, la aplicación presenta aspectos de interfaz y experiencia de usuar
 | **Hypothesis (H₁)**      | Creemos que el cambio del color del botón de “Iniciar Sesión” a verde incrementará la tasa de clic (CTR) en un 21.7% y los inicios de sesión exitosos en un 9.8%, al mejorar la claridad visual. |
 | **Null Hypothesis (H₀)** | El cambio del color del botón de “Iniciar Sesión” a verde no tendrá efecto significativo en la tasa de interacción ni en los inicios de sesión exitosos.                                         |
 
+| **Hypothesis 2**         | Redirección inicial a registrar estado de salud (App móvil)                                                                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Question**             | ¿Enviar al usuario directamente a la vista de “Registrar estado de salud” mejora la frecuencia de registros realizados en la primera sesión?                                               |
+| **Belief**               | Una redirección automática guía al usuario y estimula la participación temprana.                                                                                                           |
+| **Hypothesis (H₁)**      | Se considera que redirigir al usuario directamente al registro de estado de salud incrementará la tasa de registros en primera sesión del 32% al 56%, fortaleciendo el engagement inicial. |
+| **Null Hypothesis (H₀)** | La redirección automática no modificará significativamente la frecuencia de registros en la primera sesión.                                                                                |
+
+
+| **Hypothesis 3**         | Imagen referencial de psicología en el dashboard del doctor (Web)                                                                      |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**             | ¿La inclusión de una imagen referencial mejora la comprensión visual y la interacción con secciones relacionadas?                      |
+| **Belief**               | Los elementos visuales facilitan la orientación y estimulan la exploración de contenidos.                                              |
+| **Hypothesis (H₁)**      | Se prevé que incluir una imagen referencial aumentará las fijaciones visuales en un 33% y los clics en recursos psicológicos en 11.4%. |
+| **Null Hypothesis (H₀)** | La inclusión de una imagen referencial no generará diferencias significativas en atención visual ni en interacción con las secciones.  |
+
+
+| **Hypothesis 4**         | Cambio de color al toolbar (Web)                                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Question**             | ¿El cambio de color del toolbar mejora la armonía visual y la retención del usuario?                                           |
+| **Belief**               | Un color más armónico genera mayor agrado estético y permanencia.                                                              |
+| **Hypothesis (H₁)**      | El cambio de color del toolbar incrementará la valoración estética promedio de 3.8 a 4.4/5 y aumentará la permanencia un 8.9%. |
+| **Null Hypothesis (H₀)** | El cambio de color del toolbar no tendrá impacto significativo en la percepción estética ni en la retención del usuario.       |
+
+
+
+| **Hypothesis 5**         | Cambio de tema a morado pastel (App móvil)                                                                                      |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Question**             | ¿El nuevo tema morado pastel mejora la satisfacción visual sin afectar la usabilidad general?                                   |
+| **Belief**               | Un esquema cromático suave mejora la percepción visual y mantiene el rendimiento técnico.                                       |
+| **Hypothesis (H₁)**      | El nuevo tema morado pastel aumentará la satisfacción estética de 3.9 a 4.6/5 sin afectar la performance ni el contraste.       |
+| **Null Hypothesis (H₀)** | El nuevo tema morado pastel no producirá diferencias significativas en la satisfacción visual ni en el rendimiento del sistema. |
+
+
 
 ### 8.2.2. Domain Business Metrics
 
