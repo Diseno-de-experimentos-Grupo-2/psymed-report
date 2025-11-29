@@ -615,5 +615,7 @@ La Landing Page representa uno de los primeros artefactos implementados dentro d
 Esta sección presenta la evidencia de implementación obtenida a partir del despliegue en un entorno productivo controlado (GitHub Pages), incluyendo capturas, artefactos visuales, ajustes aplicados y las mejoras derivadas de los experimentos realizados.
 El objetivo es demostrar cómo la Landing Page evolucionó mediante iteraciones medibles, apoyadas en datos y retroalimentación temprana, validando su rol dentro de la arquitectura final de la plataforma.
 
+<img src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
