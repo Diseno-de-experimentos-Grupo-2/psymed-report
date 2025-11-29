@@ -610,4 +610,10 @@ Garantizar un flujo de agendamiento claro y visualmente coherente.
 Construir una experiencia visual integrada que facilite adopción y confianza en la plataforma.
 
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
+La Landing Page representa uno de los primeros artefactos implementados dentro del ciclo de vida Pipeline-supported, Experiment-Driven To-Be. Su construcción permitió validar hipótesis tempranas relacionadas con navegabilidad, claridad del propósito, consistencia visual y percepción del producto por parte de usuarios externos.
+Esta sección presenta la evidencia de implementación obtenida a partir del despliegue en un entorno productivo controlado (GitHub Pages), incluyendo capturas, artefactos visuales, ajustes aplicados y las mejoras derivadas de los experimentos realizados.
+El objetivo es demostrar cómo la Landing Page evolucionó mediante iteraciones medibles, apoyadas en datos y retroalimentación temprana, validando su rol dentro de la arquitectura final de la plataforma.
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
