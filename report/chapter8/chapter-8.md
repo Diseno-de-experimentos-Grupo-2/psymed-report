@@ -619,3 +619,52 @@ El objetivo es demostrar cómo la Landing Page evolucionó mediante iteraciones 
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
+La aplicación web frontend constituye el componente central de interacción para profesionales de la salud y pacientes dentro de la plataforma. Como parte del ciclo de vida To-Be, su implementación fue sometida a un conjunto de experimentos iterativos destinados a evaluar usabilidad, consistencia visual, rendimiento, adaptabilidad y flujo de navegación.
+Esta sección presenta la evidencia concreta de la implementación lograda durante los sprints, incluyendo capturas de pantalla, funcionalidades completadas, integración con el backend y resultados obtenidos de las pruebas experimentales (UA01–UA08).
+Se documenta cómo el frontend evolucionó mediante un enfoque incremental soportado por pipelines y validado por experimentos, garantizando que las mejoras aplicadas respondieran a necesidades reales de los usuarios y a objetivos estratégicos de la plataforma.
+
+- US01	Registro como profesional de la salud mental
+
+<img src="https://github.com/user-attachments/assets/fe36685e-3b6f-4ada-851f-6118a49745e1" />
+
+- US02	Inicio de sesión como pacientes
+
+<img src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
+
+- US03	Inicio de sesión como profesional de la salud mental
+
+<img src="https://github.com/user-attachments/assets/a7f60860-edcb-4079-b530-0f3b8e069a49" />
+
+- US04	Registro de información personal del paciente
+
+<img src="https://github.com/user-attachments/assets/f49a2b65-35eb-42e3-b410-81c2bdb3e052" />
+
+- US05	Visualización del estado actual de ánimo del paciente
+
+<img src="https://github.com/user-attachments/assets/517488bc-032c-4c4b-aec7-eda3a1a69e6a" />
+
+- US06	Registro de estado de ánimo
+
+<img src="https://github.com/user-attachments/assets/47fdc90f-1ce4-43f1-8601-bb128153590d" />
+
+<img src="https://github.com/user-attachments/assets/9c8b24cd-2492-41bd-988c-d73ba9992213" />
+
+- US07	Registro de funciones biológicas
+
+<img src="https://github.com/user-attachments/assets/e3941525-2db2-4497-9392-e6597dae2367" />
+
+- US08	Registro de medicamentos del paciente
+
+<img src="https://github.com/user-attachments/assets/eb15442f-db73-4bbb-b7ad-5136a61a036a" />
+
+- Ver medicamentos
+
+<img src="https://github.com/user-attachments/assets/6844c2bc-69bf-4c84-b2dc-5ee71e7c8e18" />
+
+- Creación de citas
+
+<img src="https://github.com/user-attachments/assets/e32a0d39-dc93-4509-b31c-ddf4958da6c9" />
+
+- Ver citas médicas
+
+<img src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
