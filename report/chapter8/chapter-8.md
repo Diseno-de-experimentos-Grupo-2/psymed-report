@@ -478,3 +478,130 @@ Este plan permitirá evaluar con precisión el impacto de cada cambio en el uso 
 |   7   | UA06          | Cambiar el color del toolbar del la versión web                           |                3                 |
 |   9   | UA07          | Cambiar el tema de color a morado pastel en la app móvil                  |                5                 |
 |  10   | UA08          | Mantener coherencia de colores en todas las vistas del tema morado pastel |                3                 |
+
+### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+#### 8.3.3.1. To-Be Sprint Backlogs
+
+Los siguientes sprint backlogs representan la versión To-Be del ciclo de vida de la plataforma, resultado de aplicar un enfoque pipeline-supported, experiment-driven.
+El pipeline permitió validar hipótesis de diseño, consistencia visual, flujo de navegación y usabilidad tanto en la aplicación web como en la aplicación móvil, integrando los hallazgos en una versión mejorada del backlog.
+
+Los sprint backlogs To-Be combinan:
+
+- Historias de usuario funcionales iniciales (US01–US20).
+- Acciones de usuario experimentales (UA01–UA08) generadas a partir de pruebas rápidas y cuantificables.
+- Priorización ajustada (To-Be) en función del impacto demostrado mediante experimentación.
+
+A continuación se presentan los backlogs propuestos, organizados por sprint.
+
+**Sprint 1 — Autenticación, Acceso y Cuentas**
+
+**Objetivo:** Estabilizar los flujos base de acceso y registro.
+**Incluye historias funcionales + mejoras experimentales relacionadas con la experiencia de Login.**
+
+**User Stories Funcionales (To-Be)**
+
+- US01 – Registro como profesional de la salud mental
+- US02 – Inicio de sesión como paciente
+- US03 – Inicio de sesión como profesional
+- US12 – Inicio de sesión móvil
+- US14 – Cerrar sesión móvil
+
+**Historias Experimentales Integradas (To-Be)**
+
+|ID|	Experimento	|Justificación| To-Be	Story Points|
+|--|-------------|-------------|-------------------|
+|UA01|	Cambiar color del botón “Log In” a verde|	Aumentó claridad del CTA durante pruebas|	2|
+|UA02|	Consistencia del color del botón en todas las pantallas	|Aumentó cohesión visual del flujo|	2|
+
+**Sprint Goal To-Be**
+
+Mejorar la tasa de acceso exitoso mediante diseño consistente y flujos unificados en web y móvil.
+
+**Sprint 2 — Gestión de Pacientes y Datos Clínicos**
+
+**Objetivo:** Establecer los módulos base de registro y visualización de información del paciente.**
+
+**User Stories Funcionales (To-Be)**
+
+- US04 – Registro de información personal del paciente
+- US05 – Visualización del estado de ánimo
+- US08 – Registro de medicamentos
+- US09 – Ver medicamentos
+- US13 – Visualizar información de perfil
+
+**Historias Experimentales Integradas (To-Be)**
+
+|ID|	Experimento	|Justificación| To-Be	Story Points|
+|--|-------------|-------------|-------------------|
+| UA04|	Agregar imagen referencial de psicología en el dashboard del doctor	|Aumento de claridad visual durante pruebas	|3|
+|UA05	|Adaptabilidad de la imagen en distintas resoluciones|	Evita distorsión → consistencia UI|	2|
+
+**Sprint Goal To-Be**
+
+Optimizar la experiencia del profesional al visualizar y registrar información clave del paciente.
+
+**Sprint 3 — Bienestar Emocional y Salud Diaria**
+
+**Objetivo:** Integrar el módulo completo de registro y consulta de bienestar emocional y biológico.**
+
+**User Stories Funcionales (To-Be)**
+
+- US06 – Registro de estado de ánimo
+- US07 – Registro de funciones biológicas
+- US15 – Registro de salud diario (móvil)
+- US16 – Lista de medicamentos móvil
+- US17 – Ver próximas citas móvil
+
+**Historias Experimentales Integradas (To-Be)**
+
+|ID|	Experimento	|Justificación| To-Be	Story Points|
+|--|-------------|-------------|-------------------|
+|UA03	|Redirigir automáticamente a “Registrar estado de salud” al ingresar	|Aumenta tasa de registro diario|	3|
+
+**Sprint Goal To-Be**
+
+Automatizar el flujo del paciente para mejorar la captura diaria de información de salud.
+
+**Sprint 4 — Citas Médicas y Dashboard**
+
+**Objetivo:** Consolidar funcionalidades del módulo de citas y coherencia visual global.**
+
+**User Stories Funcionales (To-Be)**
+
+- US10 – Creación de cita
+- US11 – Ver citas web
+- US17 – (refuerzo) Citas en móvil
+
+**Historias Experimentales Integradas (To-Be)**
+
+|ID|	Experimento	|Justificación| To-Be	Story Points|
+|--|-------------|-------------|-------------------|
+|UA06|	Cambiar el color del toolbar web|	Mejora navegación y contraste	|3|
+
+**Sprint Goal To-Be**
+
+Garantizar un flujo de agendamiento claro y visualmente coherente.
+
+**Sprint 5 — Tema Visual, Consistencia Estética y Landing Page**
+
+**Objetivo:** Unificar identidad visual en web + móvil y fortalecer la experiencia del visitante en la landing page.**
+
+**User Stories Funcionales (Landing Page)**
+
+- US18 – Información del propósito de la aplicación
+- US19 – Imágenes y gráficos relevantes
+- US20 – Tipografía legible y estética
+
+**Historias Experimentales Integradas (To-Be)**
+
+|ID|	Experimento	|Justificación| To-Be	Story Points|
+|--|-------------|-------------|-------------------|
+|UA07	|Cambiar tema a morado pastel en app móvil	|Mejora identidad visual|	5|
+|UA08	|Coherencia de colores en todas las vistas	|Consistencia del sistema|	3|
+
+**Sprint Goal To-Be**
+
+Construir una experiencia visual integrada que facilite adopción y confianza en la plataforma.
+
+#### 8.3.3.2. Implemented To-Be Landing Page Evidence
+#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
