@@ -480,6 +480,12 @@ Este plan permitirá evaluar con precisión el impacto de cada cambio en el uso 
 |  10   | UA08          | Mantener coherencia de colores en todas las vistas del tema morado pastel |                3                 |
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+El ciclo de vida To-Be de la plataforma propone una evolución desde un desarrollo tradicional hacia un modelo altamente automatizado, continuo y guiado por experimentos, permitiendo que las decisiones de diseño, experiencia de usuario y priorización funcional se validen mediante evidencia real.
+Este enfoque integra pipelines CI/CD, prácticas de observabilidad, métricas de uso y un proceso de experimentación incremental (A/B testing, feature toggles y validación temprana con usuarios), garantizando que cada incremento del producto sea medible, trazable y alineado con los objetivos de valor.
+
+Dentro de esta visión, los Sprint Backlogs To-Be incorporan tanto historias de usuario funcionales como experimentos controlados (UAxx) diseñados para evaluar hipótesis sobre usabilidad, engagement y adecuación visual de la plataforma. Este enfoque permite que el equipo realice mejoras continuas basadas en datos y reduzca la incertidumbre en las decisiones de diseño.
+
 #### 8.3.3.1. To-Be Sprint Backlogs
 
 Los siguientes sprint backlogs representan la versión To-Be del ciclo de vida de la plataforma, resultado de aplicar un enfoque pipeline-supported, experiment-driven.
