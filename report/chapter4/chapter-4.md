@@ -19,8 +19,9 @@ tanto los médicos como sus pacientes se sientan apoyados en
 cada etapa de su interacción con la plataforma.
 
 <div align="center">
-  <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
+  <img src="../../assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
+
 - **Colors:**
 Nuestra paleta de colores se ha seleccionado para proporcionar un 
 entorno digital de apoyo a la salud mental y el bienestar, tanto para 

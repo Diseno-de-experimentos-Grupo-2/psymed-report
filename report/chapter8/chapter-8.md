@@ -668,3 +668,61 @@ Se documenta cómo el frontend evolucionó mediante un enfoque incremental sopor
 - Ver citas médicas
 
 <img src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
+
+#### 8.3.3.4. Implmented To-Be Native-Mobile Application Evidence
+#### 8.3.3.5. Implemented To-Be RESTful API and/ or Serverless Backend Evidence 
+
+Para la plataforma Psymed, se implementó un backend RESTful usando Spring Boot 3, con estructura basada en DDD ligero, controladores organizados por dominios y documentación generada automáticamente mediante Swagger/OpenAPI 3.0.
+
+El servidor se ejecuta localmente en:
+
+http://localhost:8080
+
+La documentación del API se encuentra disponible a través de:
+/v3/api-docs y visualizada mediante Swagger UI.
+
+A continuación, se presentan las evidencias de los módulos implementados y sus endpoints.
+
+![platform.png](/assets/sprint4/platform.png)
+
+- TS-01 Autenticación
+
+![authentication.png](/assets/sprint4/authentication.png)
+
+- TS-02 Gestión del perfil profesional
+
+![professional_profile.png](/assets/sprint4/professional_profile.png)
+
+- TS-03 Gestión del perfil del paciente
+
+![patient_profile.png](/assets/sprint4/patient_profile.png)
+
+- TS-04 Mood States
+
+![patient_report.png](/assets/sprint4/patient_report.png)
+
+- TS-05 Biological functions
+
+![patient_report.png](/assets/sprint4/patient_report.png)
+
+- TS-06 Medication management
+
+![medication.png](/assets/sprint4/medication.png)
+
+- TS-07 Gestión de sesiones profesionales
+
+![professional_sessions.png](/assets/sprint4/professional_sessions.png)
+
+- TS-08 Herramientas de sesión
+
+![session_tools.png](/assets/sprint4/session_tools.png)
+
+- TS-09 Historial clínico
+
+![patients_clinical_history](/assets/sprint4/patients_clinical_history.png)
+
+- TS-10 Gestión de cuentas
+
+![accounts.png](/assets/sprint4/accounts.png)
+
+
