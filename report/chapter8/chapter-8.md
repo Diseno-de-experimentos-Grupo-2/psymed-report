@@ -670,6 +670,57 @@ Se documenta cómo el frontend evolucionó mediante un enfoque incremental sopor
 <img src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
 
 #### 8.3.3.4. Implmented To-Be Native-Mobile Application Evidence
+
+##### Pacientes
+- US12 Inicio de sesión como paciente
+  
+![login.jpg](/assets/sprint4/login.jpg)
+
+- US13 Visualización de información de perfil
+
+![patient_profile.jpg](/assets/sprint4/patient_profile.jpg)
+
+- US14 Cerrar sesión
+
+![patient_profile.jpg](/assets/sprint4/patient_profile.jpg)
+
+- US15 Registrar mi estado de salud diario
+
+![mood_status.jpg](/assets/sprint4/mood_status.jpg)
+
+- US16 Consultar mi lista de medicamentos
+
+![medication_list.jpg](/assets/sprint4/medication_list.jpg)
+
+- US17 Ver proximas citas 
+
+![appointments.jpg](/assets/sprint4/appointments.jpg)
+
+##### Doctores
+- US03 Inicio de sesión como profesional de la salud mental 
+
+![login.jpg](/assets/sprint4/login.jpg)
+
+- US04 Registro de la información personal del paciente
+
+![new_patient.jpg](/assets/sprint4/new_patient.jpg)
+
+- US05 Visualización del estado actual de ánimo del paciente
+
+![patient_status.jpg](/assets/sprint4/patient_status.jpg)
+
+- US08 Registro de medicamentos del paciente
+
+![add_medication.jpg](/assets/sprint4/add_medication.jpg)
+
+- US10 Creación de citas
+
+![add_appointment.jpg](/assets/sprint4/add_appointment.jpg)
+
+- US11 Visualización de citas médicas
+
+![appointment_view](/assets/sprint4/appointment_view.jpg)
+
 #### 8.3.3.5. Implemented To-Be RESTful API and/ or Serverless Backend Evidence 
 
 Para la plataforma Psymed, se implementó un backend RESTful usando Spring Boot 3, con estructura basada en DDD ligero, controladores organizados por dominios y documentación generada automáticamente mediante Swagger/OpenAPI 3.0.
