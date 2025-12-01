@@ -639,49 +639,55 @@ Se documenta cómo el frontend evolucionó mediante un enfoque incremental sopor
 
 - US01	Registro como profesional de la salud mental
 
-<img src="https://github.com/user-attachments/assets/fe36685e-3b6f-4ada-851f-6118a49745e1" />
+![WhatsApp Image 2025-11-30 at 10 45 37 PM](https://github.com/user-attachments/assets/e5491218-11ca-48ba-9d3f-e87e3c189e0a)
+
 
 - US02	Inicio de sesión como pacientes
 
-<img src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
+![WhatsApp Image 2025-11-30 at 11 47 59 PM](https://github.com/user-attachments/assets/d44d100a-2d11-4823-aa56-1c946b988145)
+
 
 - US03	Inicio de sesión como profesional de la salud mental
 
-<img src="https://github.com/user-attachments/assets/a7f60860-edcb-4079-b530-0f3b8e069a49" />
+![WhatsApp Image 2025-11-30 at 11 48 34 PM](https://github.com/user-attachments/assets/9677258d-5f58-4261-b444-20d4b50317a9)
+
 
 - US04	Registro de información personal del paciente
 
-<img src="https://github.com/user-attachments/assets/f49a2b65-35eb-42e3-b410-81c2bdb3e052" />
+![WhatsApp Image 2025-11-30 at 11 49 21 PM](https://github.com/user-attachments/assets/98d1bb7d-6030-4b8f-90ca-4e5909e71a0e)
+
 
 - US05	Visualización del estado actual de ánimo del paciente
 
-<img src="https://github.com/user-attachments/assets/517488bc-032c-4c4b-aec7-eda3a1a69e6a" />
+![WhatsApp Image 2025-11-30 at 11 50 17 PM](https://github.com/user-attachments/assets/4f7fee9c-0156-41d5-8013-4270b9bbcce9)
+
 
 - US06	Registro de estado de ánimo
 
-<img src="https://github.com/user-attachments/assets/47fdc90f-1ce4-43f1-8601-bb128153590d" />
+![WhatsApp Image 2025-11-30 at 11 50 57 PM](https://github.com/user-attachments/assets/05f141e7-704a-4865-acd9-56a559cee18c)
 
-<img src="https://github.com/user-attachments/assets/9c8b24cd-2492-41bd-988c-d73ba9992213" />
 
 - US07	Registro de funciones biológicas
 
-<img src="https://github.com/user-attachments/assets/e3941525-2db2-4497-9392-e6597dae2367" />
+![WhatsApp Image 2025-11-30 at 11 51 25 PM](https://github.com/user-attachments/assets/b350e36c-980a-408d-9fdb-28ca128a7d94)
+
 
 - US08	Registro de medicamentos del paciente
 
-<img src="https://github.com/user-attachments/assets/eb15442f-db73-4bbb-b7ad-5136a61a036a" />
+![WhatsApp Image 2025-11-30 at 11 52 58 PM](https://github.com/user-attachments/assets/b6fee4e7-4c57-48ca-a930-ce6027567de2)
 
 - Ver medicamentos
 
-<img src="https://github.com/user-attachments/assets/6844c2bc-69bf-4c84-b2dc-5ee71e7c8e18" />
+![WhatsApp Image 2025-11-30 at 11 52 58 PM](https://github.com/user-attachments/assets/b2b734f2-6734-4b3f-8b79-ff38665a2fe2)
 
 - Creación de citas
 
-<img src="https://github.com/user-attachments/assets/e32a0d39-dc93-4509-b31c-ddf4958da6c9" />
+![WhatsApp Image 2025-11-30 at 11 53 45 PM](https://github.com/user-attachments/assets/fc742ed9-3618-486c-9ca2-182225becb87)
 
 - Ver citas médicas
 
-<img src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
+![WhatsApp Image 2025-11-30 at 11 54 36 PM](https://github.com/user-attachments/assets/3367be9c-a108-401a-a65c-579be56d30a4)
+
 
 #### 8.3.3.4. Implmented To-Be Native-Mobile Application Evidence
 
