@@ -639,49 +639,55 @@ Se documenta cómo el frontend evolucionó mediante un enfoque incremental sopor
 
 - US01	Registro como profesional de la salud mental
 
-<img src="https://github.com/user-attachments/assets/fe36685e-3b6f-4ada-851f-6118a49745e1" />
+![WhatsApp Image 2025-11-30 at 10 45 37 PM](https://github.com/user-attachments/assets/e5491218-11ca-48ba-9d3f-e87e3c189e0a)
+
 
 - US02	Inicio de sesión como pacientes
 
-<img src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
+![WhatsApp Image 2025-11-30 at 11 47 59 PM](https://github.com/user-attachments/assets/d44d100a-2d11-4823-aa56-1c946b988145)
+
 
 - US03	Inicio de sesión como profesional de la salud mental
 
-<img src="https://github.com/user-attachments/assets/a7f60860-edcb-4079-b530-0f3b8e069a49" />
+![WhatsApp Image 2025-11-30 at 11 48 34 PM](https://github.com/user-attachments/assets/9677258d-5f58-4261-b444-20d4b50317a9)
+
 
 - US04	Registro de información personal del paciente
 
-<img src="https://github.com/user-attachments/assets/f49a2b65-35eb-42e3-b410-81c2bdb3e052" />
+![WhatsApp Image 2025-11-30 at 11 49 21 PM](https://github.com/user-attachments/assets/98d1bb7d-6030-4b8f-90ca-4e5909e71a0e)
+
 
 - US05	Visualización del estado actual de ánimo del paciente
 
-<img src="https://github.com/user-attachments/assets/517488bc-032c-4c4b-aec7-eda3a1a69e6a" />
+![WhatsApp Image 2025-11-30 at 11 50 17 PM](https://github.com/user-attachments/assets/4f7fee9c-0156-41d5-8013-4270b9bbcce9)
+
 
 - US06	Registro de estado de ánimo
 
-<img src="https://github.com/user-attachments/assets/47fdc90f-1ce4-43f1-8601-bb128153590d" />
+![WhatsApp Image 2025-11-30 at 11 50 57 PM](https://github.com/user-attachments/assets/05f141e7-704a-4865-acd9-56a559cee18c)
 
-<img src="https://github.com/user-attachments/assets/9c8b24cd-2492-41bd-988c-d73ba9992213" />
 
 - US07	Registro de funciones biológicas
 
-<img src="https://github.com/user-attachments/assets/e3941525-2db2-4497-9392-e6597dae2367" />
+![WhatsApp Image 2025-11-30 at 11 51 25 PM](https://github.com/user-attachments/assets/b350e36c-980a-408d-9fdb-28ca128a7d94)
+
 
 - US08	Registro de medicamentos del paciente
 
-<img src="https://github.com/user-attachments/assets/eb15442f-db73-4bbb-b7ad-5136a61a036a" />
+![WhatsApp Image 2025-11-30 at 11 52 58 PM](https://github.com/user-attachments/assets/b6fee4e7-4c57-48ca-a930-ce6027567de2)
 
 - Ver medicamentos
 
-<img src="https://github.com/user-attachments/assets/6844c2bc-69bf-4c84-b2dc-5ee71e7c8e18" />
+![WhatsApp Image 2025-11-30 at 11 52 58 PM](https://github.com/user-attachments/assets/b2b734f2-6734-4b3f-8b79-ff38665a2fe2)
 
 - Creación de citas
 
-<img src="https://github.com/user-attachments/assets/e32a0d39-dc93-4509-b31c-ddf4958da6c9" />
+![WhatsApp Image 2025-11-30 at 11 53 45 PM](https://github.com/user-attachments/assets/fc742ed9-3618-486c-9ca2-182225becb87)
 
 - Ver citas médicas
 
-<img src="https://github.com/user-attachments/assets/152d1c1a-0136-4ccb-ad55-fc762ee5ea90" />
+![WhatsApp Image 2025-11-30 at 11 54 36 PM](https://github.com/user-attachments/assets/3367be9c-a108-401a-a65c-579be56d30a4)
+
 
 #### 8.3.3.4. Implmented To-Be Native-Mobile Application Evidence
 
@@ -739,7 +745,7 @@ Se documenta cómo el frontend evolucionó mediante un enfoque incremental sopor
 
 Para la plataforma Psymed, se implementó un backend RESTful usando Spring Boot 3, con estructura basada en DDD ligero, controladores organizados por dominios y documentación generada automáticamente mediante Swagger/OpenAPI 3.0.
 
-El servidor se ejecuta localmente en:
+El servidor se ejecuta en:
 
 https://psymed-backend-new.onrender.com/swagger-ui/index.html
 
@@ -964,34 +970,6 @@ Entre las mejoras propuestas, señaló la necesidad de mensajes de confirmación
 El entrevistado afirmó que le gustaría recibir recordatorios de citas y medicamentos, considerando esta función esencial para garantizar el seguimiento del tratamiento. También indicó que se sentiría cómodo registrando su estado de ánimo diariamente, sobre todo si el proceso fuera visual e interactivo (por ejemplo, con iconos o colores).
 
 Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre su salud mental, ya que permite observar la evolución del bienestar emocional y físico a lo largo del tiempo, fomentando una mejor comunicación con los profesionales de salud y un mayor autocuidado.
-
-- Entrevista 2:
-
-![entrevista2](https://media.discordapp.net/attachments/1286768073453342767/1444372560044363816/image.png?ex=692c7845&is=692b26c5&hm=8c2e11e7e869491348ef0cfdce033345e8d00967a62b66fd26390eea6649f440&=&format=webp&quality=lossless&width=1206&height=680)
-
-| Nombre               | Valerie        |
-|----------------------|----------------|
-| Apellido             | Ribana Ormeño |
-| Edad                 | 43 años        |
-| Distrito             | San Miguel          |
-| URL                  | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg)               |
-| Inicio de entrevista | 00:01               |
-| Fin de entrevista    | 03:50              |
-
-Resumen de entrevista:
-
-Desde el inicio, el entrevistado consideró que la aplicación es sencilla de entender, especialmente en los pasos de creación de usuario e inicio de sesión, los cuales percibió como claros y directos. Mencionó que podría repetir las acciones por su cuenta, aunque señaló que algunos iconos del registro emocional podrían complementarse con etiquetas breves para evitar confusión en nuevos usuarios.
-
-En cuanto al registro de medicamentos y citas, indicó que el proceso es intuitivo, pero recomendó incluir indicaciones breves o ejemplos debajo de ciertos campos, de modo que el paciente sepa con exactitud qué información debe ingresar. También sugirió añadir recordatorios configurables, ya que considera útil recibir notificaciones, pero teme sentirse saturado si no puede ajustar la frecuencia.
-
-Respecto al módulo de estado emocional y biológico, destacó su utilidad para hacer seguimiento personal y consideró valioso que el paciente pueda visualizar patrones de ánimo a lo largo del tiempo. Sin embargo, señaló que el registro diario requiere compromiso y podría resultar más significativo si se incorporara un espacio breve para notas opcionales, donde pueda describir el contexto de su día o lo que influyó en su estado de ánimo.
-
-En términos de experiencia visual, mencionó que la interfaz es ordenada y transmite confianza, aunque en algunos momentos le pareció demasiado sobria para un entorno orientado al bienestar emocional. Recomendó incluir ilustraciones suaves y colores más cálidos para generar un ambiente más cercano y menos “técnico”.
-
-Sobre la versión móvil, comentó que le resulta cómoda para un uso rápido, especialmente para registrar estados de ánimo o revisar recordatorios. No obstante, considera más práctico completar información más detallada —como medicamentos o citas— desde una computadora, ya que le permite escribir con mayor precisión.
-
-En conclusión, el entrevistado considera que PsyMed es una plataforma clara, práctica y útil para apoyar su autocuidado emocional. Señaló que, con mejoras en la presentación visual, mayor personalización en los recordatorios y pequeñas guías dentro de los formularios, la aplicación podría ofrecer una experiencia aún más completa y motivadora para los pacientes.
-
 
 ## 8.4. Experiment Aftermath & Analysis
 
@@ -1420,8 +1398,6 @@ El video se produce considerando:
 
 El video introductorio representa la culminación del trabajo de desarrollo y experimentación, sintetizando de manera accesible y atractiva todo el valor que Psymed ofrece a sus usuarios.
 
-# Conclusiones
-
 # Conclusiones y recomendaciones.
 
 - Conclusiones:
@@ -1485,11 +1461,14 @@ El video introductorio representa la culminación del trabajo de desarrollo y ex
 
 # Video App Validation
 
-https://acortar.link/LMeRNa 
+En esta sección se encuentra el enlace del video de entrevistas de validación
+
+https://acortar.link/LMeRNa
+
 
 # Video About-the-Team.
 
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/IQD4eTNYcgK4R5C-vCqZOtcPAbKvQccFFtG4x-436l1s3bs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWr6tq
 
 # Bibliografía
 
