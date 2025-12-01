@@ -1489,6 +1489,9 @@ El video introductorio representa la culminación del trabajo de desarrollo y ex
 
 # Video App Validation
 
+En esta sección se encuentra el enlace del video de entrevistas de validación
+
+https://acortar.link/LMeRNa
 
 
 # Video About-the-Team.
