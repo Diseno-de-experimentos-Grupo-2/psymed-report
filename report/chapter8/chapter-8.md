@@ -972,34 +972,6 @@ El entrevistado afirmó que le gustaría recibir recordatorios de citas y medica
 
 Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre su salud mental, ya que permite observar la evolución del bienestar emocional y físico a lo largo del tiempo, fomentando una mejor comunicación con los profesionales de salud y un mayor autocuidado.
 
-- Entrevista 2:
-  
-![WhatsApp Image 2025-12-01 at 8 13 24 AM](https://github.com/user-attachments/assets/8c38ef5b-5694-4dca-a8cf-fef016d5dbae)
-
-| Nombre               | Valerie        |
-|----------------------|----------------|
-| Apellido             | Ribana Ormeño |
-| Edad                 | 43 años        |
-| Distrito             | San Miguel          |
-| URL                  | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg)               |
-| Inicio de entrevista | 00:01               |
-| Fin de entrevista    | 03:50              |
-
-Resumen de entrevista:
-
-Desde el inicio, el entrevistado consideró que la aplicación es sencilla de entender, especialmente en los pasos de creación de usuario e inicio de sesión, los cuales percibió como claros y directos. Mencionó que podría repetir las acciones por su cuenta, aunque señaló que algunos iconos del registro emocional podrían complementarse con etiquetas breves para evitar confusión en nuevos usuarios.
-
-En cuanto al registro de medicamentos y citas, indicó que el proceso es intuitivo, pero recomendó incluir indicaciones breves o ejemplos debajo de ciertos campos, de modo que el paciente sepa con exactitud qué información debe ingresar. También sugirió añadir recordatorios configurables, ya que considera útil recibir notificaciones, pero teme sentirse saturado si no puede ajustar la frecuencia.
-
-Respecto al módulo de estado emocional y biológico, destacó su utilidad para hacer seguimiento personal y consideró valioso que el paciente pueda visualizar patrones de ánimo a lo largo del tiempo. Sin embargo, señaló que el registro diario requiere compromiso y podría resultar más significativo si se incorporara un espacio breve para notas opcionales, donde pueda describir el contexto de su día o lo que influyó en su estado de ánimo.
-
-En términos de experiencia visual, mencionó que la interfaz es ordenada y transmite confianza, aunque en algunos momentos le pareció demasiado sobria para un entorno orientado al bienestar emocional. Recomendó incluir ilustraciones suaves y colores más cálidos para generar un ambiente más cercano y menos “técnico”.
-
-Sobre la versión móvil, comentó que le resulta cómoda para un uso rápido, especialmente para registrar estados de ánimo o revisar recordatorios. No obstante, considera más práctico completar información más detallada —como medicamentos o citas— desde una computadora, ya que le permite escribir con mayor precisión.
-
-En conclusión, el entrevistado considera que PsyMed es una plataforma clara, práctica y útil para apoyar su autocuidado emocional. Señaló que, con mejoras en la presentación visual, mayor personalización en los recordatorios y pequeñas guías dentro de los formularios, la aplicación podría ofrecer una experiencia aún más completa y motivadora para los pacientes.
-
-
 ## 8.4. Experiment Aftermath & Analysis
 
 ### 8.4.1. Analysis and Interpretation of Results
@@ -1497,7 +1469,7 @@ https://acortar.link/LMeRNa
 
 # Video About-the-Team.
 
-
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/IQD4eTNYcgK4R5C-vCqZOtcPAbKvQccFFtG4x-436l1s3bs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dWr6tq
 
 # Bibliografía
 
