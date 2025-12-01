@@ -1426,8 +1426,6 @@ El video se produce considerando:
 
 El video introductorio representa la culminación del trabajo de desarrollo y experimentación, sintetizando de manera accesible y atractiva todo el valor que Psymed ofrece a sus usuarios.
 
-# Conclusiones
-
 # Conclusiones y recomendaciones.
 
 - Conclusiones:
