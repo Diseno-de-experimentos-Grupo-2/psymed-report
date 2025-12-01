@@ -889,7 +889,8 @@ Finalmente, consideró que la plataforma favorece la conciencia emocional del pa
 
 - Entrevista 2:
 
-![WhatsApp Image 2025-11-08 at 12 04 54 PM](https://github.com/user-attachments/assets/b29e3748-54f2-481f-bfca-aa277d20838a)
+![WhatsApp Image 2025-12-01 at 8 10 09 AM](https://github.com/user-attachments/assets/03594ec4-fcb6-464c-b1ed-86623542baaa)
+
 
 
 | Nombre               | Hortensia      |
@@ -921,7 +922,7 @@ Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para 
 
 - Entrevista 3:
 
-![WhatsApp Image 2025-11-09 at 2 11 16 PM](https://github.com/user-attachments/assets/4bbee769-9e23-43ea-b749-1a0a2063e341)
+
 
 | Nombre               | Valerie        |
 |----------------------|----------------|
@@ -972,8 +973,8 @@ El entrevistado afirmó que le gustaría recibir recordatorios de citas y medica
 Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre su salud mental, ya que permite observar la evolución del bienestar emocional y físico a lo largo del tiempo, fomentando una mejor comunicación con los profesionales de salud y un mayor autocuidado.
 
 - Entrevista 2:
-
-![entrevista2](https://media.discordapp.net/attachments/1286768073453342767/1444372560044363816/image.png?ex=692c7845&is=692b26c5&hm=8c2e11e7e869491348ef0cfdce033345e8d00967a62b66fd26390eea6649f440&=&format=webp&quality=lossless&width=1206&height=680)
+  
+![WhatsApp Image 2025-12-01 at 8 13 24 AM](https://github.com/user-attachments/assets/8c38ef5b-5694-4dca-a8cf-fef016d5dbae)
 
 | Nombre               | Valerie        |
 |----------------------|----------------|
