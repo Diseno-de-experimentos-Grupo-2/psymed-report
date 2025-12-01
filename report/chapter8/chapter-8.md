@@ -745,7 +745,7 @@ Se documenta cómo el frontend evolucionó mediante un enfoque incremental sopor
 
 Para la plataforma Psymed, se implementó un backend RESTful usando Spring Boot 3, con estructura basada en DDD ligero, controladores organizados por dominios y documentación generada automáticamente mediante Swagger/OpenAPI 3.0.
 
-El servidor se ejecuta localmente en:
+El servidor se ejecuta en:
 
 https://psymed-backend-new.onrender.com/swagger-ui/index.html
 
