@@ -615,7 +615,21 @@ La Landing Page representa uno de los primeros artefactos implementados dentro d
 Esta sección presenta la evidencia de implementación obtenida a partir del despliegue en un entorno productivo controlado (GitHub Pages), incluyendo capturas, artefactos visuales, ajustes aplicados y las mejoras derivadas de los experimentos realizados.
 El objetivo es demostrar cómo la Landing Page evolucionó mediante iteraciones medibles, apoyadas en datos y retroalimentación temprana, validando su rol dentro de la arquitectura final de la plataforma.
 
-<img src="https://github.com/user-attachments/assets/68383287-2738-432f-aed6-f0d65dadfa3b" />
+![WhatsApp Image 2025-11-30 at 10 38 35 PM](https://github.com/user-attachments/assets/13bd88ab-6227-4f19-9e27-e1ce74f4a96c)
+
+![WhatsApp Image 2025-11-30 at 10 40 18 PM](https://github.com/user-attachments/assets/b1f8d3b8-8e41-4cd4-ae93-eef019b3129a)
+
+![WhatsApp Image 2025-11-30 at 10 40 42 PM](https://github.com/user-attachments/assets/5ffed33a-4c57-4973-9477-f50772caf025)
+
+![WhatsApp Image 2025-11-30 at 10 41 42 PM](https://github.com/user-attachments/assets/02f658d8-bce5-4825-b92b-221e127ec334)
+
+![WhatsApp Image 2025-11-30 at 10 42 04 PM](https://github.com/user-attachments/assets/c6c24afe-3641-4b23-8ee2-2caa42d842e9)
+
+![WhatsApp Image 2025-11-30 at 10 43 26 PM](https://github.com/user-attachments/assets/f02fd2cd-a025-4dde-a562-425c6b820360)
+
+![WhatsApp Image 2025-11-30 at 10 43 46 PM](https://github.com/user-attachments/assets/e94e384f-72ee-4839-b6b6-365dad652edd)
+
+![WhatsApp Image 2025-11-30 at 10 44 04 PM](https://github.com/user-attachments/assets/d69770f7-e3e3-43dd-9478-44266b1edeb1)
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 
