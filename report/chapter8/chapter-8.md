@@ -799,6 +799,7 @@ A continuación, se presentan las evidencias de los módulos implementados y sus
 
 #### 8.3.3.6. Team Collaboration Insights
 
+<img width="895" height="453" alt="image" src="https://github.com/user-attachments/assets/a6eeb787-cee6-4e1c-8b2e-65761eb2ddbb" />
 
 
 ### 8.3.4. To-Be Validation Interviews
@@ -1489,3 +1490,8 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/IQD4eTNY
 
 - Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg
 - Entrevistas de validación: https://acortar.link/LMeRNa  
+- Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ERtCRO01wHlJntlIPSmkMNEBUhio16Q-peexkXdtASr1CQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oqLPpd
+- Landing page: https://landingpage-eosin-ten.vercel.app
+- Frontend: https://psymed-frontend.vercel.app/home
+- Backend: https://psymed-backend-new.onrender.com/swagger-ui/index.html
+
