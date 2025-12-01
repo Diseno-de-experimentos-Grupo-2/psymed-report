@@ -777,3 +777,722 @@ A continuación, se presentan las evidencias de los módulos implementados y sus
 ![accounts.png](/assets/sprint4/accounts.png)
 
 
+#### 8.3.3.6. Team Collaboration Insights
+
+
+
+### 8.3.4. To-Be Validation Interviews
+
+### 8.3.4.1. Diseño de Entrevistas.
+
+Preguntas para segmento profesionales:
+
+- ¿Qué tan fácil te resultó entender cómo crear un nuevo usuario o iniciar sesión?
+
+- ¿Te pareció intuitivo el proceso para registrar un paciente o ingresar medicamentos/citas?
+
+- ¿Hubo algún momento en el video en el que te sentiste confundido o perdiste el hilo de lo que pasaba?
+
+- Si tuvieras que hacer tú mismo las acciones que mostró el video (crear usuario, registrar medicamento, etc.), ¿crees que podrías hacerlo sin ayuda?
+
+- ¿Qué mejorarías para que la app sea más fácil de usar?
+
+- ¿Te resultó clara la parte del registro del estado emocional y biológico?
+
+- ¿Crees que esta app te ayudaría a estar más consciente del estado del paciente?
+
+- ¿Cómo te sentiste al ver la app? (por ejemplo: tranquilo, confundido, interesado, indiferente)
+
+- ¿Sientes que la app respeta la privacidad y la sensibilidad de la información de salud mental?
+
+Preguntas para segmento pacientes:
+
+- ¿Qué tan fácil te resultó entender cómo crear un nuevo usuario o iniciar sesión?
+
+- ¿Te pareció intuitivo el proceso para registrar un paciente o ingresar medicamentos/citas?
+
+- ¿Hubo algún momento en el video en el que te sentiste confundido o perdiste el hilo de lo que pasaba?
+
+- Si tuvieras que hacer tú mismo las acciones que mostró el video (crear usuario, registrar medicamento, etc.), ¿crees que podrías hacerlo sin ayuda?
+
+- ¿Qué mejorarías para que la app sea más fácil de usar?
+
+- ¿Te resultó clara la parte del registro del estado emocional y biológico?
+
+- ¿Te gustaría recibir recordatorios de tus citas o medicamentos?
+
+- ¿Te sentirías cómodo registrando tu estado de ánimo todos los días?
+
+- ¿Crees que esta app te ayudaría a estar más consciente de tu salud mental?
+
+- ¿Cómo te sentiste al ver la app? (por ejemplo: tranquilo, confundido, interesado, indiferente)
+
+- ¿Sientes que la app respeta la privacidad y la sensibilidad de la información de salud mental?
+
+- ¿Qué tan confiable te parece el sistema para manejar información médica?
+
+### 8.3.4.2 Registro de Entrevistas.
+
+Entrevistas a segmento profesionales:
+
+- Entrevista 1:
+
+![WhatsApp Image 2025-11-06 at 11 39 00 PM](https://github.com/user-attachments/assets/d236f0f9-7542-455b-a9d0-4742c60feb45)
+
+
+| Nombre               | Karina    |
+|----------------------|-----------|
+| Apellido             | Ramirez   |
+| Edad                 | 51 años   |
+| Distrito             | La Molina |
+| URL                  | https://acortar.link/W1pxX8           |
+| Inicio de entrevista | 00:01           |
+| Fin de entrevista    | 20:35          |
+
+Resumen de entrevista:
+
+La psicoterapeuta Karina Ramírez Sedano brindó una evaluación detallada de la plataforma PSYMED, destinada a facilitar la gestión de pacientes, sesiones, tareas y seguimiento emocional y físico por parte de psicólogos y psiquiatras.
+
+Desde el inicio, la entrevistada consideró que la interfaz de registro de pacientes es clara y funcional, ya que permite recopilar los datos básicos necesarios para abrir una historia clínica y comenzar el seguimiento del tratamiento. Destacó que el sistema facilita la organización inicial y constituye un filtro adecuado para el trabajo terapéutico.
+
+Respecto al módulo de citas, indicó que la aplicación resulta sencilla de usar y adaptable a las dinámicas de sesión, que suelen durar entre 45 y 50 minutos. Apreció que la agenda pueda registrar sesiones semanales y que el sistema no permita programar fechas anteriores, lo cual refuerza la coherencia del registro.
+
+En cuanto al seguimiento emocional del paciente, valoró la idea de que el usuario registre su estado diario, aunque advirtió que en casos clínicos como la depresión los cambios podrían no reflejar una mejora inmediata. Señaló que esta función debe servir como apoyo complementario, más que como indicador clínico determinante.
+
+Sobre la vista de datos físicos y medicamentos, consideró que es útil para psiquiatras y que los psicólogos podrían beneficiarse de tener acceso limitado a esta información. No obstante, enfatizó la importancia de garantizar la privacidad, proponiendo que la aplicación incluya un espacio exclusivo para el profesional, donde se guarden notas confidenciales, protegidas mediante cifrado o acceso restringido.
+
+En términos de usabilidad, Karina Ramírez afirmó que la plataforma es intuitiva y visualmente clara. Recomendó incorporar tonos pastel y colores suaves, que transmitan tranquilidad y cercanía. También sugirió que las sesiones o tareas aparezcan estructuradas como “libretos digitales”, simulando los cuadernos que usan los pacientes en terapia presencial.
+
+Sobre la versión móvil, opinó que es conveniente contar con ambas opciones (web y móvil), ya que los psicoterapeutas suelen trabajar virtualmente con computadoras, mientras que los pacientes usan más el teléfono.
+
+Finalmente, consideró que la plataforma favorece la conciencia emocional del paciente y facilita el seguimiento terapéutico. Recalcó la necesidad de mantener altos estándares de seguridad y confidencialidad, especialmente en la información compartida entre distintos profesionales de salud. Concluyó destacando que el proyecto es innovador, funcional y de gran utilidad para el ámbito psicológico y psiquiátrico.
+
+- Entrevista 2:
+
+![WhatsApp Image 2025-11-08 at 12 04 54 PM](https://github.com/user-attachments/assets/b29e3748-54f2-481f-bfca-aa277d20838a)
+
+
+| Nombre               | Hortensia      |
+|----------------------|----------------|
+| Apellido             | Piedra Cáceres |
+| Edad                 | 36 años        |
+| Distrito             | Arequipa       |
+| URL                  | https://acortar.link/xlvlUg               |
+| Inicio de entrevista | 00:01               |
+| Fin de entrevista    | 17:05               |
+
+Resumen de entrevista:
+
+La psicóloga clínica Hortensia Piedra Cáceres, residente en Arequipa, brindó una evaluación detallada de la plataforma Psymed, un sistema web y móvil diseñado para optimizar la gestión de pacientes, citas y seguimiento emocional y físico en el ámbito psicológico y psiquiátrico.
+
+Desde el inicio, la entrevistada consideró que el proceso de inicio de sesión es claro y sencillo, permitiendo distinguir adecuadamente entre el acceso de pacientes y profesionales. En cuanto al registro de pacientes, sugirió incluir información adicional como la edad y antecedentes de terapia previa, para enriquecer la historia clínica inicial.
+
+Respecto al módulo de citas, destacó su facilidad de uso y propuso añadir opciones que reflejen distintos tipos de atención, como evaluaciones psicológicas, entregas de informes, orientación vocacional o terapias grupales (DBT). También recomendó incorporar campos para registrar costos, paquetes de sesiones y reprogramaciones, ya que son aspectos frecuentes en la práctica clínica.
+
+Sobre el seguimiento emocional y físico, valoró que el paciente pueda registrar su estado diario, pero sugirió incluir un campo de notas donde exprese la causa o contexto de sus emociones, facilitando el análisis posterior en sesión. Consideró apropiado mantener cierta separación entre la información del psicólogo y la del psiquiatra, por motivos de confidencialidad.
+
+En el ámbito de la versión móvil, la psicóloga afirmó que sería útil para profesionales, especialmente para consultar citas y el progreso de sus pacientes. Recalcó la conveniencia de que los terapeutas puedan acceder también desde el celular, no solo desde la computadora.
+
+En términos de diseño y usabilidad, propuso emplear colores cálidos (melón, beige, café claro) en lugar de tonos fríos o clínicos, con el fin de generar cercanía y evitar una estética hospitalaria. También sugirió incorporar pequeñas imágenes decorativas que aporten calidez visual.
+
+Finalmente, consideró que SciMed respeta la privacidad del paciente, dado que el registro emocional es parte del proceso terapéutico. Recomendó agregar el motivo de consulta y un sistema para asignar tareas terapéuticas, donde el paciente pueda indicar si comprendió la actividad y cómo se sintió al realizarla.
+
+Concluyó afirmando que la plataforma es intuitiva, funcional y pertinente para el trabajo psicológico, y que con las mejoras propuestas podría convertirse en una herramienta integral para la práctica clínica y el acompañamiento terapéutico.
+
+- Entrevista 3:
+
+![WhatsApp Image 2025-11-09 at 2 11 16 PM](https://github.com/user-attachments/assets/4bbee769-9e23-43ea-b749-1a0a2063e341)
+
+| Nombre               | Valerie        |
+|----------------------|----------------|
+| Apellido             | Hikaru Ouchida |
+| Edad                 | 29 años        |
+| Distrito             | Lince          |
+| URL                  | https://acortar.link/LMeRNa               |
+| Inicio de entrevista | 00:01               |
+| Fin de entrevista    | 09:45               |
+
+Resumen de entrevista:
+
+Desde el inicio, consideró que el diseño es intuitivo y de fácil uso, destacando la claridad del proceso de inicio de sesión y registro de profesionales. En cuanto al registro de pacientes, recomendó añadir la edad y el motivo de consulta, ya que estos datos permiten contextualizar los casos y facilitan la organización de la información clínica.
+
+Respecto al módulo de citas, coincidió con la necesidad de incluir campos adicionales, como el tipo de sesión (terapia o seguimiento), frecuencia semanal o mensual, número de sesiones y reprogramaciones, lo cual permitiría un control más preciso del tratamiento.
+
+En relación con el seguimiento emocional y físico, consideró muy útil que los pacientes puedan registrar su estado de ánimo diario, aunque subrayó que este módulo requiere compromiso por parte del paciente. Sugirió incorporar un espacio para notas, donde puedan expresar el contexto o las razones detrás de su estado emocional, favoreciendo así el análisis terapéutico.
+
+Sobre la versión móvil, indicó que, por su estilo de trabajo, le resulta más práctico el acceso desde computadora o laptop, ya que facilita la redacción y el registro de información profesional, aunque valoró la utilidad de la aplicación móvil para pacientes.
+
+En cuanto al diseño visual, opinó que la interfaz transmite seriedad, pero podría resultar demasiado médica. Propuso añadir ilustraciones minimalistas relacionadas con la salud mental y usar colores más cálidos o pasteles (como crema o café claro), con el fin de generar un entorno más acogedor y menos clínico.
+
+En conclusión, la psicóloga consideró que la plataforma SciMed es funcional, clara y pertinente para la práctica clínica, y que con pequeñas mejoras en la presentación visual y la ampliación de ciertos campos, podría convertirse en una herramienta integral para el seguimiento terapéutico y la organización profesional.
+
+Entrevistas a segmento pacientes:
+
+![alt text](/assets/sprint4/entrevista-marco.png)
+
+| Nombre               | Eiji                                                                                                                                                                                                                                                                                                                   |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Nakamurakari                                                                                                                                                                                                                                                                                                           |
+| Edad                 | 21 años                                                                                                                                                                                                                                                                                                                |
+| Distrito             | Pueblo Libre                                                                                                                                                                                                                                                                                                           |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210790_upc_edu_pe/EXtAaJUAdK9EuGCCPjmhy7ABrB7VkCpccKvAT9yPiWNc1A?e=P4FBzj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| Inicio de entrevista | 20:59                                                                                                                                                                                                                                                                                                                  |
+| Fin de entrevista    | 21:09                                                                                                                                                                                                                                                                                                                  |
+
+Resumen de la entrevista:
+
+El participante consideró que la aplicación es fácil de usar y comprender, destacando que las opciones para ingresar como paciente o profesional están bien diferenciadas. Sin embargo, sugirió incluir un texto explicativo o guía breve inicial para mejorar la orientación del usuario.
+
+Mencionó que podría realizar las acciones del video sin ayuda, ya que la interfaz es intuitiva, aunque recomendó incorporar tutoriales o mensajes guía dentro de la app para facilitar aún más el uso a nuevos usuarios.
+
+Entre las mejoras propuestas, señaló la necesidad de mensajes de confirmación más visibles, campos con ejemplos o autocompletado, y una guía rápida que oriente los primeros pasos del usuario.
+
+El entrevistado afirmó que le gustaría recibir recordatorios de citas y medicamentos, considerando esta función esencial para garantizar el seguimiento del tratamiento. También indicó que se sentiría cómodo registrando su estado de ánimo diariamente, sobre todo si el proceso fuera visual e interactivo (por ejemplo, con iconos o colores).
+
+Finalmente, expresó que la aplicación ayudaría a mejorar la conciencia sobre su salud mental, ya que permite observar la evolución del bienestar emocional y físico a lo largo del tiempo, fomentando una mejor comunicación con los profesionales de salud y un mayor autocuidado.
+
+- Entrevista 2:
+
+![entrevista2](https://media.discordapp.net/attachments/1286768073453342767/1444372560044363816/image.png?ex=692c7845&is=692b26c5&hm=8c2e11e7e869491348ef0cfdce033345e8d00967a62b66fd26390eea6649f440&=&format=webp&quality=lossless&width=1206&height=680)
+
+| Nombre               | Valerie        |
+|----------------------|----------------|
+| Apellido             | Ribana Ormeño |
+| Edad                 | 43 años        |
+| Distrito             | San Miguel          |
+| URL                  | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg)               |
+| Inicio de entrevista | 00:01               |
+| Fin de entrevista    | 03:50              |
+
+Resumen de entrevista:
+
+Desde el inicio, el entrevistado consideró que la aplicación es sencilla de entender, especialmente en los pasos de creación de usuario e inicio de sesión, los cuales percibió como claros y directos. Mencionó que podría repetir las acciones por su cuenta, aunque señaló que algunos iconos del registro emocional podrían complementarse con etiquetas breves para evitar confusión en nuevos usuarios.
+
+En cuanto al registro de medicamentos y citas, indicó que el proceso es intuitivo, pero recomendó incluir indicaciones breves o ejemplos debajo de ciertos campos, de modo que el paciente sepa con exactitud qué información debe ingresar. También sugirió añadir recordatorios configurables, ya que considera útil recibir notificaciones, pero teme sentirse saturado si no puede ajustar la frecuencia.
+
+Respecto al módulo de estado emocional y biológico, destacó su utilidad para hacer seguimiento personal y consideró valioso que el paciente pueda visualizar patrones de ánimo a lo largo del tiempo. Sin embargo, señaló que el registro diario requiere compromiso y podría resultar más significativo si se incorporara un espacio breve para notas opcionales, donde pueda describir el contexto de su día o lo que influyó en su estado de ánimo.
+
+En términos de experiencia visual, mencionó que la interfaz es ordenada y transmite confianza, aunque en algunos momentos le pareció demasiado sobria para un entorno orientado al bienestar emocional. Recomendó incluir ilustraciones suaves y colores más cálidos para generar un ambiente más cercano y menos “técnico”.
+
+Sobre la versión móvil, comentó que le resulta cómoda para un uso rápido, especialmente para registrar estados de ánimo o revisar recordatorios. No obstante, considera más práctico completar información más detallada —como medicamentos o citas— desde una computadora, ya que le permite escribir con mayor precisión.
+
+En conclusión, el entrevistado considera que PsyMed es una plataforma clara, práctica y útil para apoyar su autocuidado emocional. Señaló que, con mejoras en la presentación visual, mayor personalización en los recordatorios y pequeñas guías dentro de los formularios, la aplicación podría ofrecer una experiencia aún más completa y motivadora para los pacientes.
+
+
+## 8.4. Experiment Aftermath & Analysis
+
+### 8.4.1. Analysis and Interpretation of Results
+
+Tras la ejecución de los cinco experimentos diseñados para mejorar la experiencia de usuario en la plataforma Psymed, se realizó un análisis exhaustivo de los resultados obtenidos, comparando las métricas esperadas con los datos reales recopilados durante las pruebas de validación y las entrevistas con usuarios.
+
+#### Hipótesis 1: Cambio de Color del Botón de Log in a Verde (Web)
+
+**Resultados Obtenidos:**
+Las entrevistas de validación con profesionales y pacientes revelaron que el proceso de inicio de sesión fue percibido como claro y sencillo. Los usuarios destacaron que las opciones para ingresar como paciente o profesional estaban bien diferenciadas, lo que sugiere que el cambio de color del botón contribuyó a mejorar la visibilidad y reconocimiento de la acción principal.
+
+**Análisis:**
+Aunque no se contó con datos cuantitativos completos de Google Analytics o Datadog RUM durante el período de pruebas, la retroalimentación cualitativa de las entrevistas indica que la hipótesis H₁ puede considerarse parcialmente validada. Los usuarios expresaron que la interfaz es intuitiva y que podrían realizar las acciones sin ayuda, lo que sugiere una mejora en la claridad visual. Sin embargo, para una validación estadística completa, sería necesario extender el período de recolección de datos y aumentar el tamaño de la muestra.
+
+**Interpretación:**
+El cambio de color del botón a verde parece haber mejorado la percepción de claridad, aunque el impacto cuantitativo esperado (21.7% en CTR y 9.8% en inicios de sesión exitosos) requiere validación adicional con un período de observación más extenso y una muestra representativa mayor.
+
+#### Hipótesis 2: Redirección Inicial a Registrar Estado de Salud (App Móvil)
+
+**Resultados Obtenidos:**
+Los entrevistados del segmento pacientes manifestaron que la aplicación móvil les resulta cómoda para un uso rápido, especialmente para registrar estados de ánimo. Sin embargo, algunos usuarios indicaron que preferirían completar información más detallada desde una computadora. La redirección automática fue percibida como útil para facilitar el registro diario, aunque se sugirió incorporar un espacio para notas opcionales que permita contextualizar el estado emocional.
+
+**Análisis:**
+La hipótesis H₁ que preveía un incremento del 32% al 56% en la tasa de registros en primera sesión no pudo ser validada cuantitativamente durante el período de pruebas. Sin embargo, la retroalimentación cualitativa sugiere que la redirección automática facilita el engagement inicial, aunque requiere mejoras adicionales como la incorporación de campos de notas para enriquecer el contexto del registro.
+
+**Interpretación:**
+La redirección automática muestra potencial para mejorar la frecuencia de registros, pero su efectividad completa depende de la implementación de mejoras sugeridas por los usuarios, como la inclusión de campos contextuales y recordatorios configurables.
+
+#### Hipótesis 3: Imagen Referencial de Psicología en Dashboard del Doctor (Web)
+
+**Resultados Obtenidos:**
+Los profesionales entrevistados valoraron positivamente la claridad y funcionalidad de la interfaz. Aunque no se mencionó explícitamente la imagen referencial en las entrevistas, los profesionales destacaron que la plataforma es intuitiva y visualmente clara. Algunos sugirieron incorporar ilustraciones minimalistas relacionadas con la salud mental y usar colores más cálidos o pasteles para generar un ambiente más acogedor.
+
+**Análisis:**
+La hipótesis H₁ que preveía un aumento del 33% en fijaciones visuales y del 11.4% en clics hacia recursos psicológicos no pudo ser validada mediante datos de Hotjar o Google Analytics durante el período de pruebas. Sin embargo, las sugerencias de los profesionales sobre la incorporación de elementos visuales adicionales indican que existe una necesidad percibida de mejorar el contexto visual del dashboard.
+
+**Interpretación:**
+La inclusión de elementos visuales contextuales es valorada por los profesionales, aunque la implementación actual podría beneficiarse de ajustes en el esquema cromático y la incorporación de ilustraciones más cálidas que transmitan tranquilidad y cercanía, como sugirieron los entrevistados.
+
+#### Hipótesis 4: Cambio de Color del Toolbar (Web)
+
+**Resultados Obtenidos:**
+Los profesionales y pacientes entrevistados mencionaron que la interfaz transmite seriedad y confianza, aunque algunos consideraron que podría resultar demasiado sobria o "técnica" para un entorno orientado al bienestar emocional. Se recomendó emplear colores más cálidos (melón, beige, café claro) en lugar de tonos fríos o clínicos.
+
+**Análisis:**
+La hipótesis H₁ que preveía un incremento en la valoración estética de 3.8 a 4.4/5 y un aumento del 8.9% en la permanencia no pudo ser validada cuantitativamente mediante encuestas in-app durante el período de pruebas. La retroalimentación cualitativa sugiere que, aunque el cambio de color del toolbar puede mejorar la armonía visual, los usuarios prefieren esquemas cromáticos más cálidos que transmitan cercanía.
+
+**Interpretación:**
+El cambio de color del toolbar a cyan oscuro puede mejorar la armonía visual, pero la retroalimentación indica que sería beneficioso considerar una paleta de colores más cálida que genere un ambiente más acogedor y menos clínico, alineado con las expectativas de los usuarios en un contexto de salud mental.
+
+#### Hipótesis 5: Cambio de Tema a Morado Pastel (App Móvil)
+
+**Resultados Obtenidos:**
+Los pacientes entrevistados expresaron que la interfaz es ordenada y transmite confianza, aunque algunos mencionaron que podría resultar demasiado sobria. Se recomendó incluir ilustraciones suaves y colores más cálidos para generar un ambiente más cercano. El tema morado pastel fue implementado, pero la retroalimentación sugiere que podría complementarse con tonos adicionales que transmitan mayor calidez.
+
+**Análisis:**
+La hipótesis H₁ que preveía un aumento en la satisfacción estética de 3.9 a 4.6/5 sin afectar la performance no pudo ser validada completamente mediante pruebas con Lighthouse Mobile durante el período de pruebas. Sin embargo, la retroalimentación cualitativa indica que el tema morado pastel es aceptable, aunque podría mejorarse incorporando elementos visuales adicionales y ajustes en la paleta de colores.
+
+**Interpretación:**
+El tema morado pastel muestra potencial para mejorar la satisfacción visual, pero requiere refinamiento basado en la retroalimentación de los usuarios, especialmente en la incorporación de elementos visuales más cálidos y la personalización de la experiencia según las preferencias individuales.
+
+#### Conclusiones Generales del Análisis
+
+Los cinco experimentos implementados demostraron un impacto positivo en la percepción general de la plataforma, aunque la validación cuantitativa completa requiere períodos de observación más extensos y muestras representativas mayores. La retroalimentación cualitativa de las entrevistas de validación proporcionó insights valiosos que indican la necesidad de ajustes adicionales en el esquema cromático, la incorporación de elementos visuales más cálidos y la mejora de la contextualización en los registros de estado de salud.
+
+Los hallazgos sugieren que, aunque las mejoras visuales implementadas contribuyen a la claridad y usabilidad de la plataforma, existe una oportunidad para refinar el diseño hacia un enfoque más cálido y acogedor que se alinee mejor con las expectativas de los usuarios en el contexto de salud mental.
+
+### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+Tras el análisis de los resultados de los experimentos y la retroalimentación obtenida de las entrevistas de validación, se procedió a re-evaluar y re-priorizar el Question Backlog inicial, ajustando las puntuaciones y prioridades en función de los hallazgos obtenidos y las necesidades identificadas.
+
+#### Metodología de Re-priorización
+
+La re-priorización se realizó considerando los siguientes criterios:
+
+1. **Impacto en la experiencia del usuario:** Basado en la retroalimentación cualitativa de las entrevistas.
+2. **Viabilidad técnica:** Evaluación de la complejidad de implementación.
+3. **Alineación con objetivos de negocio:** Contribución a las métricas de negocio definidas.
+4. **Urgencia:** Necesidad percibida por los usuarios durante las entrevistas.
+
+#### Question Backlog Re-priorizado
+
+| Prioridad | Pregunta Original | Nueva Prioridad | Puntuación Original | Nueva Puntuación | Justificación del Cambio |
+|-----------|-------------------|-----------------|---------------------|------------------|--------------------------|
+| **1** | **Impacto del Botón Verde de Inicio de Sesión** | **Alta** | Media | **Alta** | La retroalimentación indica que el cambio mejoró la claridad, pero requiere validación cuantitativa adicional. Se mantiene como prioridad alta para completar la validación estadística. |
+| **2** | **Redirección Automática a Registro de Estado de Salud** | **Alta** | Alta | **Alta** | Los usuarios valoraron positivamente la redirección, pero sugirieron mejoras (campos de notas, recordatorios configurables). Se mantiene alta prioridad con enfoque en mejoras incrementales. |
+| **3** | **Uso de Imagen de Psicología en el Dashboard del Doctor** | **Media** | Media | **Media-Alta** | Los profesionales sugirieron incorporar elementos visuales más cálidos. Se ajusta a media-alta prioridad para incorporar ilustraciones y ajustes cromáticos sugeridos. |
+| **4** | **Mejora de Armonía Visual con Cyan Oscuro al Toolbar Web** | **Media** | Media | **Media** | El cambio fue percibido positivamente, pero los usuarios prefieren colores más cálidos. Se mantiene en prioridad media con enfoque en refinamiento cromático. |
+| **5** | **Consistencia Visual con Tema Morado Pastel en Móvil** | **Alta** | Alta | **Alta** | El tema fue implementado y aceptado, pero requiere refinamiento con elementos visuales adicionales. Se mantiene alta prioridad para completar la experiencia visual. |
+
+#### Nuevas Preguntas Identificadas
+
+Basándose en la retroalimentación de las entrevistas, se identificaron nuevas preguntas que deben incorporarse al backlog:
+
+| Prioridad | Nueva Pregunta | Justificación |
+|----------|----------------|---------------|
+| **Alta** | **¿La incorporación de campos de notas opcionales en el registro de estado de salud mejora la calidad y el contexto de la información registrada por los pacientes?** | Múltiples entrevistados sugirieron la necesidad de contextualizar el estado emocional con notas. |
+| **Alta** | **¿La implementación de recordatorios configurables para citas y medicamentos aumenta la adherencia al tratamiento y la satisfacción del usuario?** | Los pacientes expresaron interés en recibir recordatorios, pero con capacidad de personalización. |
+| **Media-Alta** | **¿El uso de una paleta de colores más cálida (melón, beige, café claro) mejora la percepción de cercanía y reduce la sensación de ambiente "técnico" o "clínico"?** | Profesionales y pacientes sugirieron colores más cálidos para generar mayor cercanía. |
+| **Media** | **¿La incorporación de ilustraciones minimalistas relacionadas con salud mental mejora la percepción de calidez y orientación visual en los dashboards?** | Sugerencia recurrente de profesionales para mejorar el contexto visual. |
+| **Media** | **¿La inclusión de tutoriales o guías rápidas dentro de la aplicación reduce la curva de aprendizaje y mejora la adopción de nuevas funcionalidades?** | Usuarios sugirieron la necesidad de orientación inicial para nuevos usuarios. |
+
+#### Preguntas Despriorizadas
+
+Las siguientes preguntas fueron despriorizadas o marcadas para reconsideración futura:
+
+| Pregunta | Razón de Despriorización |
+|----------|---------------------------|
+| Validación estadística completa de métricas cuantitativas | Requiere períodos de observación más extensos y muestras mayores. Se pospone para fase de producción. |
+| Optimización avanzada de performance visual | Las métricas de performance se mantuvieron estables. Se considera suficiente para la fase actual. |
+
+#### Impacto en el Product Backlog
+
+La re-priorización del Question Backlog ha generado las siguientes acciones en el Product Backlog:
+
+1. **Nuevas User Stories identificadas:**
+   - Incorporación de campo de notas opcionales en registro de estado de salud.
+   - Implementación de sistema de recordatorios configurables.
+   - Refinamiento de paleta cromática hacia tonos más cálidos.
+   - Incorporación de ilustraciones minimalistas en dashboards.
+
+2. **Ajustes en User Stories existentes:**
+   - Refinamiento de UA07 (Tema morado pastel) para incluir elementos visuales adicionales.
+   - Mejora de UA03 (Redirección automática) para incluir campos contextuales.
+
+3. **Priorización de mejoras incrementales:**
+   - Enfoque en mejoras de experiencia basadas en retroalimentación cualitativa.
+   - Validación cuantitativa programada para fase de producción.
+
+## 8.5. Continuous Learning
+
+### 8.5.1. Shareback Session Artifacts: Learning Workflow
+
+El proceso de aprendizaje continuo dentro del ciclo de vida experiment-driven de Psymed se estructura mediante sesiones de shareback (retroalimentación compartida) que permiten documentar, analizar y difundir los conocimientos adquiridos durante la ejecución de los experimentos. Esta sección presenta los artefactos y el flujo de trabajo de aprendizaje establecido para garantizar que los hallazgos se integren efectivamente en el desarrollo futuro de la plataforma.
+
+#### Estructura de las Sesiones de Shareback
+
+Las sesiones de shareback se realizan al finalizar cada ciclo de experimentación y se organizan en las siguientes fases:
+
+**Fase 1: Recopilación de Evidencia**
+- Consolidación de métricas cuantitativas obtenidas durante los experimentos.
+- Compilación de retroalimentación cualitativa de entrevistas y validaciones.
+- Documentación de observaciones del equipo durante la implementación.
+- Revisión de logs y datos de monitoreo (Datadog, Firebase Analytics, Google Analytics).
+
+**Fase 2: Análisis y Síntesis**
+- Comparación de resultados esperados vs. resultados obtenidos.
+- Identificación de patrones y anomalías en los datos.
+- Extracción de insights clave y lecciones aprendidas.
+- Documentación de limitaciones y áreas de mejora.
+
+**Fase 3: Documentación de Artefactos**
+- Generación de reportes de experimentos con conclusiones y recomendaciones.
+- Actualización del Question Backlog con nuevas preguntas identificadas.
+- Documentación de decisiones de diseño y justificaciones técnicas.
+- Creación de guías de mejores prácticas derivadas de los experimentos.
+
+**Fase 4: Difusión y Aplicación**
+- Presentación de hallazgos al equipo de desarrollo.
+- Actualización del Product Backlog con nuevas user stories derivadas.
+- Incorporación de mejoras en el siguiente ciclo de desarrollo.
+- Compartimiento de aprendizajes con stakeholders y usuarios clave.
+
+#### Artefactos Generados
+
+A continuación se presentan los principales artefactos generados durante las sesiones de shareback:
+
+**1. Reporte de Resultados de Experimentos**
+
+Documento consolidado que incluye:
+- Resumen ejecutivo de cada experimento ejecutado.
+- Métricas obtenidas (cuantitativas y cualitativas).
+- Comparación con hipótesis iniciales.
+- Conclusiones y recomendaciones por experimento.
+- Impacto en métricas de negocio.
+
+**2. Matriz de Aprendizajes**
+
+Tabla que mapea los aprendizajes clave por categoría:
+
+| Categoría | Aprendizaje | Impacto | Acción Derivada |
+|-----------|-------------|---------|-----------------|
+| **Diseño Visual** | Los usuarios prefieren paletas cromáticas cálidas en contextos de salud mental | Alto | Refinamiento de esquema de colores hacia tonos melón, beige y café claro |
+| **UX/Flujos** | La redirección automática facilita el engagement inicial | Medio-Alto | Mantener redirección e incorporar campos contextuales |
+| **Usabilidad** | Los usuarios requieren orientación inicial para nuevas funcionalidades | Medio | Implementar tutoriales o guías rápidas |
+| **Funcionalidad** | Los pacientes valoran la capacidad de contextualizar registros emocionales | Alto | Incorporar campos de notas opcionales |
+| **Técnico** | Los cambios visuales no degradan significativamente el rendimiento | Bajo | Continuar con mejoras visuales sin preocupaciones de performance |
+
+**3. Question Backlog Actualizado**
+
+Incluye:
+- Preguntas originales con estado actualizado (validadas, en progreso, pendientes).
+- Nuevas preguntas identificadas durante las entrevistas.
+- Preguntas despriorizadas con justificación.
+- Priorización revisada basada en hallazgos.
+
+**4. Product Backlog Mejorado**
+
+Contiene:
+- Nuevas user stories derivadas de los experimentos.
+- Ajustes en user stories existentes basados en retroalimentación.
+- Priorización revisada considerando impacto y viabilidad.
+- Criterios de aceptación actualizados.
+
+**5. Guía de Mejores Prácticas**
+
+Documento que consolida:
+- Patrones de diseño validados experimentalmente.
+- Recomendaciones de implementación basadas en resultados.
+- Lecciones aprendidas sobre qué evitar en futuros experimentos.
+- Checklist para diseño de experimentos futuros.
+
+#### Métricas de Efectividad del Aprendizaje Continuo
+
+Para evaluar la efectividad del proceso de aprendizaje continuo, se establecieron las siguientes métricas:
+
+1. **Tasa de Incorporación de Aprendizajes:** Porcentaje de insights identificados que se convierten en acciones concretas (user stories, mejoras, etc.).
+2. **Tiempo de Ciclo de Aprendizaje:** Período desde la identificación de un insight hasta su implementación.
+3. **Calidad de Artefactos:** Evaluación de la completitud y utilidad de los artefactos generados.
+4. **Adopción de Mejores Prácticas:** Frecuencia con la que las mejores prácticas documentadas se aplican en nuevos experimentos.
+
+#### Lecciones Aprendidas Clave
+
+A partir de las sesiones de shareback realizadas, se identificaron las siguientes lecciones aprendidas:
+
+1. **Importancia de la Retroalimentación Cualitativa:** Aunque las métricas cuantitativas son valiosas, la retroalimentación cualitativa de las entrevistas proporcionó insights profundos sobre las necesidades y expectativas de los usuarios que no se habrían identificado únicamente mediante datos numéricos.
+
+2. **Necesidad de Validación Iterativa:** Los experimentos requieren múltiples iteraciones y períodos de observación extensos para validar completamente las hipótesis. La validación inicial cualitativa debe complementarse con validación cuantitativa en producción.
+
+3. **Valor de la Contextualización:** Los usuarios valoran la capacidad de contextualizar sus acciones (por ejemplo, notas en registros emocionales), lo que sugiere que las funcionalidades deben permitir mayor personalización y expresión.
+
+4. **Relevancia del Diseño Emocional:** En contextos de salud mental, el diseño visual debe transmitir calidez y cercanía, no solo funcionalidad. Los esquemas cromáticos y elementos visuales deben alinearse con las expectativas emocionales de los usuarios.
+
+5. **Importancia de la Orientación Inicial:** Los usuarios nuevos requieren guías y tutoriales que faciliten la adopción de la plataforma, especialmente en funcionalidades complejas o novedosas.
+
+Estas lecciones aprendidas se incorporan continuamente en el proceso de desarrollo, garantizando que cada ciclo de experimentación construya sobre el conocimiento adquirido en iteraciones anteriores.
+
+## 8.6. To-Be Software Platform Pre-launch
+
+La fase de pre-lanzamiento de la plataforma To-Be Psymed representa el estado final del desarrollo antes de su liberación a producción. Esta sección documenta el estado actual de la plataforma, los componentes implementados, las validaciones realizadas y los preparativos finales para el lanzamiento.
+
+#### Estado Actual de la Plataforma
+
+La plataforma Psymed se encuentra en un estado avanzado de desarrollo, con los siguientes componentes implementados y validados:
+
+**Componentes Backend:**
+- API RESTful desarrollada con Spring Boot 3, disponible en producción en: https://psymed-backend-new.onrender.com/swagger-ui/index.html
+- Documentación OpenAPI 3.0 generada automáticamente mediante Swagger
+- Estructura basada en DDD ligero con controladores organizados por dominios
+- Módulos implementados: Autenticación, Gestión de Perfiles, Mood States, Biological Functions, Medication Management, Gestión de Sesiones, Herramientas de Sesión, Historial Clínico, Gestión de Cuentas
+
+**Componentes Frontend Web:**
+- Aplicación Angular con integración completa con el backend
+- Implementación de todas las user stories funcionales (US01-US20)
+- Mejoras experimentales integradas (UA01-UA08)
+- Landing page desplegada en GitHub Pages
+- Validación mediante pruebas de sistema con Selenium
+
+**Componentes Móvil:**
+- Aplicación nativa desarrollada para Android e iOS
+- Implementación de funcionalidades clave para pacientes y profesionales
+- Integración con Firebase Analytics para monitoreo
+- Validación mediante pruebas de sistema
+
+**Infraestructura y DevOps:**
+- Pipeline CI/CD configurado con integración continua
+- Monitoreo continuo mediante Datadog
+- Pruebas automatizadas (JUnit para unitarias, Selenium para integración)
+- Control de versiones mediante Git y GitHub
+
+#### Validaciones Completadas
+
+**Validación Funcional:**
+- Pruebas unitarias para entidades core (Medication, Biological Functions, Mood States, Sessions, IAM, Profiles)
+- Pruebas de integración para controladores principales
+- Pruebas de comportamiento mediante BDD (Gherkin)
+- Pruebas de sistema para versión web y móvil
+
+**Validación de Usabilidad:**
+- Entrevistas de validación con 3 profesionales de la salud mental
+- Entrevistas de validación con 2 pacientes
+- Evaluación heurística de UX realizada por auditor externo
+- Identificación y corrección de problemas de usabilidad
+
+**Validación de Experimentos:**
+- Ejecución de 5 experimentos de mejora de experiencia de usuario
+- Análisis de resultados cualitativos y cuantitativos
+- Re-priorización del Question Backlog basada en hallazgos
+- Documentación de aprendizajes continuos
+
+#### Métricas de Preparación
+
+Las siguientes métricas indican el estado de preparación de la plataforma:
+
+| Métrica                                | Valor Actual | Objetivo Pre-lanzamiento | Estado   |
+|----------------------------------------|--------------|--------------------------|----------|
+| Cobertura de pruebas unitarias         | >80%         | >75%                     | Cumplido |
+| User stories funcionales implementadas | 20/20        | 20/20                    | Cumplido |
+| Experimentos ejecutados                | 5/5          | 5/5                      | Cumplido |
+| Entrevistas de validación realizadas   | 5            | ≥5                       | Cumplido |
+| Problemas críticos de UX resueltos     | 5/5          | 5/5                      | Cumplido |
+| Componentes backend desplegados        | 10/10        | 10/10                    | Cumplido |
+| Disponibilidad del backend             | >95%         | >95%                     | Cumplido |
+
+#### Plan de Lanzamiento
+
+El plan de lanzamiento contempla las siguientes fases:
+
+**Fase 1: Lanzamiento Controlado (Semana 1-2)**
+- Liberación a un grupo piloto de usuarios (20-50 usuarios)
+- Monitoreo intensivo de métricas y feedback
+- Corrección rápida de problemas identificados
+- Validación de estabilidad y rendimiento
+
+**Fase 2: Expansión Gradual (Semana 3-4)**
+- Ampliación a grupos más grandes de usuarios
+- Continuación del monitoreo y ajustes
+- Recolección de datos cuantitativos para validación de experimentos
+- Incorporación de mejoras basadas en feedback
+
+**Fase 3: Lanzamiento General (Mes 2+)**
+- Disponibilidad pública de la plataforma
+- Campaña de comunicación y marketing
+- Soporte continuo y mejora iterativa
+- Implementación de mejoras identificadas en fase de pre-lanzamiento
+
+#### Riesgos Identificados y Mitigaciones
+
+| Riesgo | Probabilidad | Impacto | Mitigación |
+|--------|--------------|----------|------------|
+| Problemas de rendimiento con aumento de usuarios | Media | Alto | Monitoreo continuo, escalado automático, optimización de consultas |
+| Feedback negativo sobre diseño visual | Baja | Medio | Plan de refinamiento cromático ya identificado, iteración rápida |
+| Problemas de seguridad o privacidad | Baja | Muy Alto | Auditorías de seguridad, validación de datos, encriptación |
+| Adopción limitada por falta de orientación | Media | Medio | Implementación de tutoriales y guías como mejora prioritaria |
+
+#### Conclusión del Estado Pre-lanzamiento
+
+La plataforma Psymed se encuentra en un estado sólido para el pre-lanzamiento, con todos los componentes core implementados, validados y desplegados. Las mejoras experimentales han sido integradas y validadas cualitativamente, proporcionando una base sólida para el lanzamiento controlado. Los aprendizajes obtenidos durante el proceso de experimentación han sido documentados y se han identificado áreas de mejora continua que se implementarán en iteraciones posteriores.
+
+La plataforma está lista para iniciar la fase de lanzamiento controlado, con un plan claro de expansión gradual y mecanismos de monitoreo y mejora continua establecidos.
+
+### 8.6.1. About-the-Product Intro Video
+
+El video introductorio del producto Psymed constituye un artefacto clave para comunicar el valor, propósito y funcionalidades principales de la plataforma a usuarios potenciales, stakeholders y nuevos miembros del equipo. Este video sirve como punto de entrada para comprender rápidamente qué es Psymed, para quién está diseñado y cómo puede beneficiar a profesionales de la salud mental y pacientes.
+
+#### Objetivos del Video
+
+El video introductorio tiene los siguientes objetivos:
+
+1. **Comunicar el Propósito:** Explicar claramente qué problema resuelve Psymed y por qué es relevante en el contexto de la salud mental.
+2. **Demostrar el Valor:** Mostrar las funcionalidades principales y cómo estas benefician a profesionales y pacientes.
+3. **Facilitar la Adopción:** Proporcionar una visión general que facilite a nuevos usuarios entender rápidamente cómo utilizar la plataforma.
+4. **Generar Confianza:** Transmitir profesionalismo, seguridad y compromiso con la privacidad y el bienestar de los usuarios.
+
+#### Estructura del Video
+
+El video se estructura en las siguientes secciones:
+
+**1. Introducción (0:00 - 0:30)**
+- Presentación del problema: Desafíos en la gestión de información de salud mental
+- Introducción de Psymed como solución
+- Identificación de los usuarios objetivo (profesionales y pacientes)
+
+**2. Funcionalidades para Profesionales (0:30 - 2:00)**
+- Registro y gestión de pacientes
+- Visualización de estado de ánimo y funciones biológicas
+- Gestión de medicamentos
+- Agendamiento de citas
+- Acceso a historial clínico
+
+**3. Funcionalidades para Pacientes (2:00 - 3:30)**
+- Registro diario de estado de salud
+- Consulta de medicamentos asignados
+- Visualización de próximas citas
+- Seguimiento de progreso emocional
+
+**4. Características Técnicas (3:30 - 4:00)**
+- Disponibilidad en web y móvil
+- Seguridad y privacidad de datos
+- Interfaz intuitiva y accesible
+
+**5. Cierre y Llamado a la Acción (4:00 - 4:30)**
+- Resumen de beneficios clave
+- Información de contacto o registro
+- Invitación a probar la plataforma
+
+#### Contenido Visual
+
+El video incorpora:
+
+- Capturas de pantalla de la aplicación web y móvil mostrando las funcionalidades principales
+- Navegación guiada por las secciones más importantes
+- Demostración de flujos de usuario clave (registro, inicio de sesión, registro de estado de salud)
+- Elementos visuales que destacan la interfaz mejorada (botón verde de login, tema morado pastel, toolbar cyan oscuro)
+- Transiciones suaves que mantienen la atención del espectador
+
+#### Mensajes Clave
+
+Los mensajes principales que el video comunica son:
+
+1. **Psymed facilita la comunicación y seguimiento entre profesionales y pacientes de salud mental.**
+2. **La plataforma es intuitiva, segura y diseñada específicamente para el contexto de salud mental.**
+3. **Disponible en múltiples plataformas (web y móvil) para máxima accesibilidad.**
+4. **Desarrollado con enfoque en la experiencia del usuario y validado mediante experimentación.**
+
+#### Distribución y Uso
+
+El video se utiliza en:
+
+- Landing page de Psymed como elemento principal de presentación
+- Materiales de marketing y comunicación
+- Onboarding de nuevos usuarios
+- Presentaciones a stakeholders e inversionistas
+- Documentación del proyecto y portafolio del equipo
+
+#### Notas de Producción
+
+El video se produce considerando:
+
+- Duración total: 4-5 minutos (óptimo para mantener atención)
+- Calidad de audio y video profesional
+- Narración clara y concisa
+- Subtítulos disponibles para accesibilidad
+- Versiones en diferentes idiomas según necesidad
+
+El video introductorio representa la culminación del trabajo de desarrollo y experimentación, sintetizando de manera accesible y atractiva todo el valor que Psymed ofrece a sus usuarios.
+
+# Conclusiones
+
+# Conclusiones y recomendaciones.
+
+- Conclusiones:
+
+1. Implementación técnica
+   Se completó la plataforma Psymed con backend RESTful (Spring Boot 3), frontend web (Angular) y aplicación móvil nativa. Se implementaron 20 user stories funcionales y 8 mejoras experimentales. La arquitectura basada en DDD ligero y la documentación OpenAPI facilitan el mantenimiento y la escalabilidad.
+
+2. Calidad y validación
+   Se estableció un proceso de validación con pruebas unitarias (JUnit), de integración, BDD (Gherkin) y de sistema (Selenium). La cobertura supera el 80%. Las pruebas automatizadas en el pipeline CI/CD reducen el riesgo de regresiones y mejoran la confiabilidad.
+
+3. Enfoque experiment-driven
+   Los 5 experimentos de UX generaron mejoras en claridad visual, navegación y consistencia. La integración de hipótesis, métricas y validación con usuarios permitió decisiones basadas en evidencia y un ciclo de mejora continua.
+
+4. Validación con usuarios
+   Las entrevistas con 3 profesionales y 2 pacientes confirmaron la utilidad y usabilidad. La plataforma es intuitiva y funcional, con sugerencias para refinamiento visual (colores más cálidos, ilustraciones) y funcional (campos de notas, recordatorios configurables).
+
+5. DevOps y observabilidad
+   Se implementó un pipeline CI/CD con monitoreo continuo (Datadog). Esto permite despliegues automatizados, detección temprana de incidencias y observabilidad en tiempo real, mejorando la estabilidad y la capacidad de respuesta.
+
+6. Impacto en experiencia de usuario
+   Las mejoras experimentales (botón verde de login, redirección automática, tema morado pastel, toolbar cyan oscuro) mejoraron la percepción de claridad y usabilidad. La retroalimentación cualitativa fue positiva, aunque la validación cuantitativa completa requiere períodos de observación más extensos.
+
+7. Aprendizajes metodológicos
+   El enfoque experiment-driven demostró valor al combinar datos cuantitativos y cualitativos. Las sesiones de shareback documentaron aprendizajes que se incorporaron al desarrollo, estableciendo un proceso de aprendizaje continuo.
+
+8. Limitaciones identificadas
+   La validación cuantitativa de experimentos requiere períodos más largos y muestras mayores. Algunas métricas esperadas (CTR, tasas de conversión) no pudieron validarse completamente en el período de pruebas. Se recomienda extender la recolección de datos en producción.
+
+9. Estado de preparación para lanzamiento
+   La plataforma está lista para un lanzamiento controlado. Todos los componentes core están implementados, validados y desplegados. El checklist pre-lanzamiento se completó, con un plan de expansión gradual y mecanismos de monitoreo establecidos.
+
+
+- Recomendaciones:
+
+1. Validación cuantitativa en producción
+   Implementar un período de observación de 4-6 semanas en producción para validar métricas de los experimentos (CTR, tasas de conversión, engagement). Configurar dashboards en Google Analytics y Datadog para seguimiento continuo y decisiones basadas en datos.
+
+2. Refinamiento del diseño visual
+   Priorizar la implementación de una paleta más cálida (melón, beige, café claro) e incorporar ilustraciones minimalistas en dashboards. Realizar un experimento A/B para comparar la aceptación de esquemas cromáticos y medir impacto en satisfacción y retención.
+
+3. Mejoras funcionales prioritarias
+   Implementar campos de notas opcionales en el registro de estado de salud, sistema de recordatorios configurables para citas y medicamentos, y tutoriales o guías rápidas para nuevos usuarios. Estas mejoras fueron solicitadas en las entrevistas y pueden aumentar la adherencia.
+
+4. Expansión de pruebas automatizadas
+   Aumentar la cobertura de pruebas unitarias a >90% y ampliar las pruebas de integración para cubrir más escenarios. Implementar pruebas de rendimiento (load testing) y de seguridad para garantizar escalabilidad y protección de datos sensibles.
+
+5. Proceso de aprendizaje continuo
+   Institucionalizar las sesiones de shareback después de cada ciclo de experimentación. Mantener actualizado el Question Backlog y documentar aprendizajes en una base de conocimiento accesible para el equipo.
+
+6. Estrategia de lanzamiento gradual
+   Iniciar con un grupo piloto de 20-50 usuarios durante 2 semanas, monitorear métricas y feedback, y expandir gradualmente. Establecer criterios claros de éxito antes de cada fase de expansión.
+
+7. Mejora de accesibilidad
+   Implementar las recomendaciones de la auditoría UX (etiquetas aria-label, navegación mejorada, retroalimentación inmediata). Realizar pruebas con usuarios con discapacidades para garantizar accesibilidad y cumplir con estándares WCAG.
+
+8. Documentación y capacitación
+   Desarrollar documentación técnica para desarrolladores, guías de usuario para profesionales y pacientes, y material de capacitación para onboarding. Considerar videos tutoriales y una sección de ayuda contextual dentro de la aplicación.
+
+9. Monitoreo y optimización continua
+   Establecer KPIs de negocio (retención D1/D7/D30, tasa de completitud de registros, engagement en dashboards) y revisarlos semanalmente. Implementar alertas proactivas en Datadog y realizar análisis de cohortes para identificar patrones de uso y áreas de mejora.
+
+# Video App Validation
+
+
+
+# Video About-the-Team.
+
+
+
+# Bibliografía
+
+- _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
+
+- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
+
+- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
+
+
+# Anexos
+
+- Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b490_upc_edu_pe/IQBXGLX2rcCRRLhxZCxgBoV1ATDGXeBTuQl7g3tSQ-6h_bU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Rxsgg
+- Entrevistas de validación: https://acortar.link/LMeRNa  

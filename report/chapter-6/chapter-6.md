@@ -540,6 +540,7 @@ así como la adecuada gestión de la **complejidad**, **mantenibilidad** y la mi
 vulnerabilidades como **inyecciones SQL**, y manejo de datos sensibles.
 
 ## 6.3. Validation Interviews.
+
 ### 6.3.1. Diseño de Entrevistas.
 
 Preguntas para segmento profesionales:
