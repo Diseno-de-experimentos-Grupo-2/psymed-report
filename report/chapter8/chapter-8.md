@@ -727,7 +727,7 @@ Para la plataforma Psymed, se implementó un backend RESTful usando Spring Boot 
 
 El servidor se ejecuta localmente en:
 
-http://localhost:8080
+https://psymed-backend-new.onrender.com/swagger-ui/index.html
 
 La documentación del API se encuentra disponible a través de:
 /v3/api-docs y visualizada mediante Swagger UI.
